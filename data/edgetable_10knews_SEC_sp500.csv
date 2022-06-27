@@ -1,0 +1,3363 @@
+Id,Source,Target,Weight
+0,Agilent Technologies Inc.,Emerson Electric Co,4
+1,Agilent Technologies Inc.,Snap-On Inc.,4
+2,Alcoa Inc.,Nucor Corp.,2356
+3,Alcoa Inc.,Moody's Corp,2042
+4,Alcoa Inc.,Citigroup Inc.,1954
+5,Alcoa Inc.,J.M. Smucker Co.,1775
+6,Alcoa Inc.,Valero Energy,1709
+7,Alcoa Inc.,FMC Corporation,1695
+8,Alcoa Inc.,Leggett & Platt,1657
+9,Alcoa Inc.,Exxon Mobil Corp.,1637
+10,Alcoa Inc.,Omnicom Group,1618
+11,Alcoa Inc.,Fifth Third Bancorp,1595
+12,Alcoa Inc.,Quanta Services Inc.,1567
+13,Alcoa Inc.,McGraw Hill Financial,1544
+14,Alcoa Inc.,Kellogg Co.,1429
+15,American Airlines Group,Delta Air Lines,446
+16,American Airlines Group,United Parcel Service,342
+17,American Airlines Group,Ryder System,294
+18,Advance Auto Parts Inc,Johnson Controls,639
+19,Advance Auto Parts Inc,Ford Motor,581
+20,Advance Auto Parts Inc,Carmax Inc.,559
+21,Advance Auto Parts Inc,Signet Jewelers Limited,476
+22,Apple Inc.,Moody's Corp,447
+23,AbbVie Inc.,Celgene Corp.,376
+24,AbbVie Inc.,"St. Jude Medical, Inc.",311
+25,AbbVie Inc.,Bristol-Myers Squibb,299
+26,AbbVie Inc.,Gilead Sciences,288
+27,AbbVie Inc.,"Biogen Idec, Inc.",273
+28,AbbVie Inc.,McKesson Corp.,260
+29,AbbVie Inc.,Boston Scientific,246
+30,AbbVie Inc.,"Zoetis, Inc.",233
+31,AmerisourceBergen Corp.,McKesson Corp.,386
+32,AmerisourceBergen Corp.,Cerner,288
+33,AmerisourceBergen Corp.,Robert Half International,236
+34,Abbott Laboratories,AbbVie Inc.,342
+35,Abbott Laboratories,"St. Jude Medical, Inc.",301
+36,Abbott Laboratories,Pfizer Inc.,300
+37,Abbott Laboratories,Celgene Corp.,293
+38,Abbott Laboratories,Boston Scientific,253
+39,Abbott Laboratories,Bristol-Myers Squibb,240
+40,Abbott Laboratories,"Zoetis, Inc.",226
+41,Abbott Laboratories,Endo International plc,222
+42,Abbott Laboratories,Amgen Inc.,221
+43,Abbott Laboratories,Gilead Sciences,215
+44,Abbott Laboratories,"Biogen Idec, Inc.",209
+45,Accenture plc,CBRE Group,1824
+46,Accenture plc,Moody's Corp,1585
+47,Adobe Systems Inc.,Apple Inc.,352
+48,Adobe Systems Inc.,Moody's Corp,272
+49,Adobe Systems Inc.,Autodesk Inc.,258
+50,Analog Devices Inc.,General Dynamics,70
+51,Analog Devices Inc.,Quanta Services Inc.,63
+52,Analog Devices Inc.,Xilinx Inc.,62
+53,Analog Devices Inc.,Johnson Controls,59
+54,Analog Devices Inc.,Lockheed Martin Corp.,57
+55,Analog Devices Inc.,Honeywell Int'l Inc.,57
+56,Archer-Daniels-Midland Co.,FMC Corporation,1753
+57,Archer-Daniels-Midland Co.,Nucor Corp.,1652
+58,Archer-Daniels-Midland Co.,Valero Energy,1467
+59,Archer-Daniels-Midland Co.,J.M. Smucker Co.,1423
+60,Archer-Daniels-Midland Co.,Delphi Automotive,1254
+61,Archer-Daniels-Midland Co.,Leggett & Platt,1230
+62,Archer-Daniels-Midland Co.,Citigroup Inc.,1156
+63,Archer-Daniels-Midland Co.,Alcoa Inc.,1117
+64,"ADP, LLC.",Robert Half International,1070
+65,"ADP, LLC.",Omnicom Group,923
+66,"ADP, LLC.",Paychex Inc.,894
+67,"ADP, LLC.",Accenture plc,693
+68,Alliance Data Systems Corp.,Moody's Corp,1113
+69,Alliance Data Systems Corp.,E-Trade Financial Corp.,986
+70,Autodesk Inc.,"CA, Inc.",309
+71,Autodesk Inc.,Moody's Corp,303
+72,Autodesk Inc.,EMC Corp.,271
+73,Autodesk Inc.,Hewlett-Packard Co,256
+74,Autodesk Inc.,Dun & Bradstreet,234
+75,ADT Corp.,Accenture plc,455
+76,ADT Corp.,Aon plc,424
+77,ADT Corp.,PayPal Holdings Inc.,346
+78,ADT Corp.,Moody's Corp,346
+79,ADT Corp.,Omnicom Group,329
+80,ADT Corp.,eBay Inc.,309
+81,ADT Corp.,Fidelity Nat. Info. Services,307
+82,ADT Corp.,Total System Services,300
+83,ADT Corp.,Robert Half International,279
+84,Ameren Corp.,PG&E Corp.,228
+85,Ameren Corp.,Edison Int'l,212
+86,Ameren Corp.,Pepco Holdings Inc.,202
+87,Ameren Corp.,PPL Corp.,199
+88,Ameren Corp.,Exelon Corp.,189
+89,Ameren Corp.,SCANA Corp.,155
+90,Ameren Corp.,Consolidated Edison,145
+91,Ameren Corp.,NiSource Inc.,142
+92,Ameren Corp.,TECO Energy,142
+93,American Electric Power,TECO Energy,357
+94,American Electric Power,Pepco Holdings Inc.,317
+95,American Electric Power,Exxon Mobil Corp.,316
+96,American Electric Power,AGL Resources Inc.,283
+97,American Electric Power,Moody's Corp,240
+98,American Electric Power,Quanta Services Inc.,238
+99,American Electric Power,PG&E Corp.,218
+100,American Electric Power,Sempra Energy,216
+101,AES Corp.,TECO Energy,527
+102,AES Corp.,Pinnacle West Capital,470
+103,AES Corp.,Alcoa Inc.,432
+104,AES Corp.,Valero Energy,430
+105,AES Corp.,PACCAR Inc.,416
+106,AES Corp.,Xcel Energy Inc.,405
+107,AES Corp.,Exelon Corp.,400
+108,AES Corp.,Nucor Corp.,394
+109,AES Corp.,Sempra Energy,383
+110,AES Corp.,SCANA Corp.,363
+111,AES Corp.,Pepco Holdings Inc.,357
+112,AES Corp.,Consolidated Edison,338
+113,AES Corp.,American Electric Power,329
+114,AES Corp.,Edison Int'l,323
+115,AES Corp.,Southern Co.,322
+116,AES Corp.,Public Serv. Enterprise Inc.,317
+117,Aetna Inc.,Omnicom Group,1082
+118,Aetna Inc.,Robert Half International,1006
+119,Aetna Inc.,Anthem Inc.,922
+120,Aetna Inc.,Quanta Services Inc.,902
+121,Aetna Inc.,Accenture plc,859
+122,Aetna Inc.,McKesson Corp.,666
+123,Aetna Inc.,Cerner,659
+124,Aetna Inc.,United Health Group Inc.,654
+125,AFLAC Inc.,Moody's Corp,3752
+126,"Allergan, Plc",Fifth Third Bancorp,977
+127,"Allergan, Plc",J.M. Smucker Co.,841
+128,"Allergan, Plc",SL Green Realty Corp,641
+129,"Allergan, Plc",The Hershey Company,613
+130,"Allergan, Plc",Leggett & Platt,593
+131,"AIG, Inc.",Ameriprise Financial,716
+132,"AIG, Inc.",CBRE Group,437
+133,Aimco,Equity Residential,324
+134,Aimco,SL Green Realty Corp,291
+135,Aimco,Boston Properties,280
+136,Aimco,Realty Income Corporation,243
+137,Aimco,CBRE Group,216
+138,Aimco,MetLife Inc.,211
+139,Aimco,E-Trade Financial Corp.,210
+140,Aimco,AvalonBay Communities,203
+141,Assurant Inc.,MetLife Inc.,1491
+142,Assurant Inc.,Moody's Corp,1165
+143,Assurant Inc.,AFLAC Inc.,1134
+144,Assurant Inc.,Principal Financial Group,1106
+145,Akamai Technologies Inc.,Omnicom Group,760
+146,Akamai Technologies Inc.,Interpublic Group,742
+147,Akamai Technologies Inc.,Moody's Corp,662
+148,Akamai Technologies Inc.,CenturyLink Inc.,598
+149,Akamai Technologies Inc.,Yahoo Inc.,533
+150,Akamai Technologies Inc.,Dun & Bradstreet,532
+151,Akamai Technologies Inc.,Apple Inc.,510
+152,Akamai Technologies Inc.,Citrix Systems,491
+153,Akamai Technologies Inc.,Fidelity Nat. Info. Services,468
+154,Akamai Technologies Inc.,Amazon.com Inc.,464
+155,Allstate Corp.,MetLife Inc.,596
+156,Allstate Corp.,Aon plc,568
+157,Allstate Corp.,Marsh & McLennan,493
+158,Allstate Corp.,AFLAC Inc.,414
+159,Allstate Corp.,Principal Financial Group,412
+160,Allstate Corp.,Assurant Inc.,378
+161,Allstate Corp.,Hartford Financial Services,367
+162,Allstate Corp.,Moody's Corp,358
+163,Allegion,Moody's Corp,620
+164,Allegion,Accenture plc,605
+165,Allegion,CBRE Group,459
+166,Allegion,E-Trade Financial Corp.,392
+167,Alexion Pharmaceuticals,AbbVie Inc.,337
+168,Alexion Pharmaceuticals,Vertex Pharmaceuticals Inc.,291
+169,Alexion Pharmaceuticals,Johnson & Johnson,276
+170,Alexion Pharmaceuticals,Celgene Corp.,267
+171,Alexion Pharmaceuticals,Pfizer Inc.,264
+172,Alexion Pharmaceuticals,Amgen Inc.,257
+173,Alexion Pharmaceuticals,Endo International plc,253
+174,Alexion Pharmaceuticals,Abbott Laboratories,246
+175,Alexion Pharmaceuticals,Baxalta,242
+176,Alexion Pharmaceuticals,Merck & Co.,241
+177,Alexion Pharmaceuticals,Bristol-Myers Squibb,238
+178,Alexion Pharmaceuticals,Eli Lilly and Co.,225
+179,Alexion Pharmaceuticals,"St. Jude Medical, Inc.",220
+180,Alexion Pharmaceuticals,"Biogen Idec, Inc.",217
+181,Alexion Pharmaceuticals,"Allergan, Plc",212
+182,Alexion Pharmaceuticals,Boston Scientific,203
+183,Applied Materials Inc.,Hewlett-Packard Co,67
+184,Applied Materials Inc.,Xilinx Inc.,58
+185,Applied Materials Inc.,CBRE Group,56
+186,Applied Materials Inc.,Johnson Controls,52
+187,Ametek,Genuine Parts,150
+188,Ametek,Ryder System,150
+189,Ametek,Honeywell Int'l Inc.,145
+190,Ametek,Xilinx Inc.,143
+191,Ametek,Emerson Electric Co,142
+192,Ametek,Textron Inc.,140
+193,Ametek,Boeing Co.,135
+194,Ametek,Exxon Mobil Corp.,128
+195,Ametek,Quanta Services Inc.,124
+196,Ametek,Caterpillar Inc.,122
+197,Ametek,"United Rentals, Inc.",119
+198,Ametek,Illinois Tool Works,115
+199,Ametek,Flowserve Corporation,113
+200,Ametek,General Motors,110
+201,Ametek,Johnson Controls,109
+202,Ametek,Rockwell Automation Inc.,108
+203,Ametek,General Dynamics,105
+204,Ametek,Xylem Inc.,103
+205,Ametek,Skyworks Solutions Inc.,100
+206,Ametek,Cummins Inc.,100
+207,Ametek,Motorola Solutions Inc.,96
+208,Ametek,Texas Instruments,94
+209,Affiliated Managers Group,CBRE Group,2274
+210,Affiliated Managers Group,McGraw Hill Financial,2074
+211,Affiliated Managers Group,MetLife Inc.,1947
+212,Affiliated Managers Group,Interpublic Group,1930
+213,Affiliated Managers Group,Omnicom Group,1874
+214,Affiliated Managers Group,Charles Schwab Corp.,1779
+215,Affiliated Managers Group,Moody's Corp,1604
+216,Affiliated Managers Group,E-Trade Financial Corp.,1596
+217,Affiliated Managers Group,Morgan Stanley,1533
+218,Affiliated Managers Group,Northern Trust Corp.,1532
+219,Affiliated Managers Group,BNY Mellon,1471
+220,Affiliated Managers Group,Principal Financial Group,1406
+221,Amgen Inc.,AbbVie Inc.,284
+222,Amgen Inc.,Celgene Corp.,274
+223,Amgen Inc.,"Biogen Idec, Inc.",250
+224,Amgen Inc.,Bristol-Myers Squibb,244
+225,Amgen Inc.,"St. Jude Medical, Inc.",244
+226,Amgen Inc.,Pfizer Inc.,235
+227,Amgen Inc.,Gilead Sciences,209
+228,Amgen Inc.,Boston Scientific,191
+229,Amgen Inc.,"Zoetis, Inc.",191
+230,Amgen Inc.,Endo International plc,186
+231,Ameriprise Financial,CBRE Group,1920
+232,American Tower Corp.,CBRE Group,209
+233,American Tower Corp.,CenturyLink Inc.,160
+234,American Tower Corp.,Omnicom Group,141
+235,American Tower Corp.,General Growth Properties,133
+236,American Tower Corp.,Interpublic Group,127
+237,Amazon.com Inc.,Omnicom Group,594
+238,Amazon.com Inc.,Moody's Corp,506
+239,Amazon.com Inc.,Apple Inc.,438
+240,Amazon.com Inc.,PayPal Holdings Inc.,394
+241,AutoNation Inc.,Ford Motor,1201
+242,AutoNation Inc.,CBRE Group,886
+243,AutoNation Inc.,Carmax Inc.,865
+244,AutoNation Inc.,Genuine Parts,824
+245,AutoNation Inc.,Johnson Controls,738
+246,Anthem Inc.,Omnicom Group,892
+247,Anthem Inc.,Moody's Corp,808
+248,Anthem Inc.,Robert Half International,745
+249,Anthem Inc.,Accenture plc,740
+250,Anthem Inc.,Quanta Services Inc.,699
+251,Anthem Inc.,Cerner,690
+252,Anthem Inc.,Universal Health Services,660
+253,Anthem Inc.,McKesson Corp.,648
+254,Anthem Inc.,Cigna Corp.,633
+255,Anthem Inc.,CBRE Group,587
+256,Anthem Inc.,CenturyLink Inc.,575
+257,Anthem Inc.,E-Trade Financial Corp.,559
+258,Aon plc,Omnicom Group,6133
+259,Aon plc,Moody's Corp,5685
+260,Aon plc,McGraw Hill Financial,5563
+261,Aon plc,CBRE Group,5544
+262,Aon plc,Interpublic Group,5061
+263,Aon plc,MetLife Inc.,4767
+264,Aon plc,Charles Schwab Corp.,3953
+265,Aon plc,E-Trade Financial Corp.,3936
+266,Apache Corporation,Exxon Mobil Corp.,374
+267,Apache Corporation,Kinder Morgan,370
+268,Apache Corporation,Chevron Corp.,366
+269,Apache Corporation,EQT Corporation,351
+270,Apache Corporation,ConocoPhillips,341
+271,Apache Corporation,Murphy Oil,327
+272,Apache Corporation,Southwestern Energy,321
+273,Apache Corporation,Hess Corporation,314
+274,Apache Corporation,Marathon Oil Corp.,304
+275,Apache Corporation,Phillips 66,301
+276,Apache Corporation,Tesoro Petroleum Co.,297
+277,Apache Corporation,TECO Energy,282
+278,Apache Corporation,Chesapeake Energy,271
+279,Apache Corporation,EOG Resources,266
+280,Apache Corporation,Valero Energy,261
+281,Apache Corporation,Spectra Energy Corp.,259
+282,Apache Corporation,"W. W. Grainger, Inc.",235
+283,Apache Corporation,Nucor Corp.,228
+284,Apache Corporation,Williams Companies,225
+285,Anadarko Petroleum Corp.,Hess Corporation,159
+286,Anadarko Petroleum Corp.,Kinder Morgan,143
+287,Anadarko Petroleum Corp.,Chevron Corp.,131
+288,Anadarko Petroleum Corp.,Southwestern Energy,122
+289,Anadarko Petroleum Corp.,TECO Energy,112
+290,Anadarko Petroleum Corp.,Exxon Mobil Corp.,110
+291,Anadarko Petroleum Corp.,Tesoro Petroleum Co.,102
+292,Anadarko Petroleum Corp.,Spectra Energy Corp.,101
+293,Air Products & Chemicals,Leggett & Platt,519
+294,Air Products & Chemicals,FMC Corporation,499
+295,Air Products & Chemicals,Kellogg Co.,473
+296,Air Products & Chemicals,Nucor Corp.,467
+297,Air Products & Chemicals,Valero Energy,431
+298,Air Products & Chemicals,Dover Corp.,364
+299,Air Products & Chemicals,"W. W. Grainger, Inc.",339
+300,Air Products & Chemicals,Fifth Third Bancorp,338
+301,Air Products & Chemicals,McCormick & Co.,325
+302,Air Products & Chemicals,Johnson Controls,324
+303,Air Products & Chemicals,The Clorox Company,318
+304,Amphenol Corp.,Texas Instruments,95
+305,Amphenol Corp.,Genuine Parts,91
+306,Amphenol Corp.,Delphi Automotive,85
+307,Amphenol Corp.,Xylem Inc.,74
+308,Amphenol Corp.,Procter & Gamble,74
+309,Amphenol Corp.,Emerson Electric Co,74
+310,Amphenol Corp.,Xilinx Inc.,73
+311,Amphenol Corp.,Moody's Corp,71
+312,Amphenol Corp.,Skyworks Solutions Inc.,67
+313,Amphenol Corp.,Interpublic Group,66
+314,Amphenol Corp.,General Motors,66
+315,Amphenol Corp.,Ford Motor,66
+316,Amphenol Corp.,Johnson Controls,63
+317,Amphenol Corp.,Ametek,62
+318,Amphenol Corp.,Illinois Tool Works,60
+319,Amphenol Corp.,Dover Corp.,59
+320,Airgas Inc.,Interpublic Group,652
+321,Airgas Inc.,Robert Half International,547
+322,Airgas Inc.,Omnicom Group,510
+323,Airgas Inc.,Quanta Services Inc.,492
+324,Airgas Inc.,Kellogg Co.,416
+325,Activision Blizzard Inc,Yahoo Inc.,409
+326,Activision Blizzard Inc,Adobe Systems Inc.,273
+327,Activision Blizzard Inc,Apple Inc.,259
+328,AvalonBay Communities,CBRE Group,290
+329,Avago Technologies,Aon plc,190
+330,Avago Technologies,Citrix Systems,175
+331,Avago Technologies,Quanta Services Inc.,164
+332,Avago Technologies,Moody's Corp,160
+333,Avago Technologies,Omnicom Group,159
+334,Avago Technologies,Interpublic Group,146
+335,Avago Technologies,Hewlett Packard Enterprise Co,144
+336,Avago Technologies,Accenture plc,141
+337,Avago Technologies,"Facebook, Inc.",131
+338,Avago Technologies,Red Hat Inc.,130
+339,Avago Technologies,Fidelity Nat. Info. Services,127
+340,Avago Technologies,NASDAQ OMX Group,122
+341,Avago Technologies,Motorola Solutions Inc.,121
+342,Avago Technologies,Texas Instruments,119
+343,Avago Technologies,Fifth Third Bancorp,115
+344,Avery Dennison Corp,Moody's Corp,621
+345,Avery Dennison Corp,Kellogg Co.,571
+346,Avery Dennison Corp,Citigroup Inc.,436
+347,Avery Dennison Corp,Nucor Corp.,413
+348,Avery Dennison Corp,Johnson Controls,405
+349,Avery Dennison Corp,CBRE Group,403
+350,American Express Co,E-Trade Financial Corp.,259
+351,American Express Co,Alliance Data Systems Corp.,235
+352,American Express Co,Moody's Corp,226
+353,American Express Co,Synchrony Financial,221
+354,American Express Co,Charles Schwab Corp.,219
+355,American Express Co,Bank of America Corp.,210
+356,American Express Co,Regions Financial Corp.,204
+357,American Express Co,Discover Financial Services,186
+358,American Express Co,Aon plc,164
+359,American Express Co,PNC Financial SVCS Group Inc,164
+360,American Express Co,Total System Services,163
+361,American Express Co,Goldman Sachs Group,157
+362,American Express Co,U.S. Bancorp,157
+363,AutoZone Inc,Advance Auto Parts Inc,823
+364,AutoZone Inc,"United Rentals, Inc.",726
+365,AutoZone Inc,Best Buy Co. Inc.,706
+366,AutoZone Inc,Lowe's Cos.,674
+367,AutoZone Inc,Carmax Inc.,660
+368,AutoZone Inc,"W. W. Grainger, Inc.",599
+369,AutoZone Inc,Genuine Parts,598
+370,AutoZone Inc,Ryder System,591
+371,AutoZone Inc,Whole Foods Market,536
+372,AutoZone Inc,Signet Jewelers Limited,519
+373,AutoZone Inc,Ford Motor,516
+374,AutoZone Inc,Yum! Brands Inc.,511
+375,AutoZone Inc,AutoNation Inc.,498
+376,AutoZone Inc,United Parcel Service,497
+377,Boeing Co.,Quanta Services Inc.,670
+378,Boeing Co.,Ryder System,488
+379,Boeing Co.,General Dynamics,446
+380,Boeing Co.,Interpublic Group,445
+381,Boeing Co.,Fluor Corp.,444
+382,Boeing Co.,Exxon Mobil Corp.,433
+383,Bank of America Corp.,Moody's Corp,3648
+384,Bank of America Corp.,Northern Trust Corp.,2915
+385,Bank of America Corp.,Goldman Sachs Group,2887
+386,Bank of America Corp.,MetLife Inc.,2747
+387,Bank of America Corp.,KeyCorp,2713
+388,Bank of America Corp.,E-Trade Financial Corp.,2600
+389,Bank of America Corp.,Morgan Stanley,2549
+390,Bank of America Corp.,McGraw Hill Financial,2458
+391,Bank of America Corp.,Charles Schwab Corp.,2354
+392,Baxter International Inc.,Baxalta,347
+393,Baxter International Inc.,Accenture plc,244
+394,Baxter International Inc.,Pfizer Inc.,216
+395,Bed Bath & Beyond,Whole Foods Market,246
+396,Bed Bath & Beyond,Lowe's Cos.,222
+397,Bed Bath & Beyond,Omnicom Group,155
+398,BB&T Corp.,E-Trade Financial Corp.,2009
+399,BB&T Corp.,Northern Trust Corp.,1984
+400,BB&T Corp.,KeyCorp,1875
+401,BB&T Corp.,Moody's Corp,1874
+402,BB&T Corp.,PNC Financial SVCS Group Inc,1683
+403,BB&T Corp.,MetLife Inc.,1646
+404,BB&T Corp.,Bank of America Corp.,1620
+405,BB&T Corp.,Charles Schwab Corp.,1496
+406,BB&T Corp.,Goldman Sachs Group,1462
+407,BB&T Corp.,Aon plc,1429
+408,BB&T Corp.,CBRE Group,1392
+409,BB&T Corp.,JPMorgan Chase & Co.,1390
+410,BB&T Corp.,McGraw Hill Financial,1297
+411,BB&T Corp.,Morgan Stanley,1288
+412,Best Buy Co. Inc.,Omnicom Group,1505
+413,Best Buy Co. Inc.,"W. W. Grainger, Inc.",1413
+414,Best Buy Co. Inc.,Kellogg Co.,1313
+415,Best Buy Co. Inc.,Lowe's Cos.,996
+416,"C. R. Bard, Inc","St. Jude Medical, Inc.",286
+417,"C. R. Bard, Inc","Zoetis, Inc.",186
+418,"C. R. Bard, Inc",Celgene Corp.,186
+419,Franklin Resources,Invesco Ltd.,2908
+420,Franklin Resources,Marsh & McLennan,2425
+421,Franklin Resources,Aon plc,2411
+422,Franklin Resources,Moody's Corp,2370
+423,Franklin Resources,BlackRock,2319
+424,Franklin Resources,McGraw Hill Financial,2195
+425,Franklin Resources,CBRE Group,2130
+426,Franklin Resources,Charles Schwab Corp.,2113
+427,Franklin Resources,MetLife Inc.,2108
+428,Franklin Resources,T. Rowe Price Group,2004
+429,Franklin Resources,NASDAQ OMX Group,1917
+430,Franklin Resources,Omnicom Group,1906
+431,Franklin Resources,Northern Trust Corp.,1825
+432,Brown-Forman Corp.,Whole Foods Market,572
+433,Brown-Forman Corp.,CBRE Group,419
+434,Baker Hughes Inc,Quanta Services Inc.,475
+435,Baker Hughes Inc,Exxon Mobil Corp.,408
+436,Baker Hughes Inc,Alcoa Inc.,286
+437,"Biogen Idec, Inc.",Celgene Corp.,252
+438,"Biogen Idec, Inc.",Bristol-Myers Squibb,221
+439,"Biogen Idec, Inc.","St. Jude Medical, Inc.",218
+440,"Biogen Idec, Inc.",Gilead Sciences,207
+441,"Biogen Idec, Inc.","Zoetis, Inc.",176
+442,"Biogen Idec, Inc.",Boston Scientific,163
+443,BNY Mellon,CBRE Group,2769
+444,BNY Mellon,Moody's Corp,2377
+445,BlackRock,Invesco Ltd.,4246
+446,BlackRock,McGraw Hill Financial,3268
+447,BlackRock,Moody's Corp,3267
+448,BlackRock,Charles Schwab Corp.,3113
+449,BlackRock,Goldman Sachs Group,3002
+450,BlackRock,Northern Trust Corp.,2999
+451,BlackRock,Aon plc,2996
+452,BlackRock,Marsh & McLennan,2972
+453,BlackRock,NASDAQ OMX Group,2965
+454,BlackRock,MetLife Inc.,2918
+455,Ball Corp,Fifth Third Bancorp,1611
+456,Ball Corp,Leggett & Platt,1525
+457,Ball Corp,Citigroup Inc.,1444
+458,Ball Corp,Nucor Corp.,1407
+459,Ball Corp,Delphi Automotive,1200
+460,Ball Corp,J.M. Smucker Co.,1193
+461,Ball Corp,Procter & Gamble,1182
+462,Ball Corp,Johnson Controls,1152
+463,Ball Corp,Kellogg Co.,1099
+464,Ball Corp,Alcoa Inc.,1062
+465,Ball Corp,McCormick & Co.,1035
+466,Ball Corp,Omnicom Group,1008
+467,Ball Corp,Dover Corp.,988
+468,Bristol-Myers Squibb,Celgene Corp.,274
+469,Bristol-Myers Squibb,"St. Jude Medical, Inc.",249
+470,Bristol-Myers Squibb,"Zoetis, Inc.",200
+471,Berkshire Hathaway,CSX Corp.,222
+472,Berkshire Hathaway,Kansas City Southern,171
+473,Berkshire Hathaway,CBRE Group,161
+474,Berkshire Hathaway,Snap-On Inc.,152
+475,Berkshire Hathaway,Emerson Electric Co,138
+476,Boston Scientific,"St. Jude Medical, Inc.",383
+477,Boston Scientific,"C. R. Bard, Inc",268
+478,Boston Scientific,Celgene Corp.,251
+479,BorgWarner Inc,Ryder System,590
+480,BorgWarner Inc,Ford Motor,589
+481,BorgWarner Inc,General Motors,567
+482,BorgWarner Inc,Delphi Automotive,484
+483,BorgWarner Inc,Cummins Inc.,467
+484,BorgWarner Inc,Exxon Mobil Corp.,408
+485,BorgWarner Inc,Union Pacific,407
+486,BorgWarner Inc,Caterpillar Inc.,390
+487,BorgWarner Inc,AutoNation Inc.,390
+488,BorgWarner Inc,Genuine Parts,387
+489,BorgWarner Inc,"United Rentals, Inc.",381
+490,Baxalta,Interpublic Group,808
+491,Baxalta,Accenture plc,784
+492,Baxalta,Reynolds American Inc.,753
+493,Baxalta,Omnicom Group,656
+494,Baxalta,General Growth Properties,622
+495,Baxalta,Fifth Third Bancorp,579
+496,Baxalta,Robert Half International,549
+497,Baxalta,Hewlett Packard Enterprise Co,544
+498,Baxalta,Moody's Corp,532
+499,Baxalta,Quanta Services Inc.,514
+500,Baxalta,MetLife Inc.,513
+501,Baxalta,CBRE Group,496
+502,Boston Properties,CBRE Group,675
+503,Boston Properties,Equity Residential,541
+504,Boston Properties,E-Trade Financial Corp.,539
+505,Boston Properties,SL Green Realty Corp,519
+506,Boston Properties,Kimco Realty,488
+507,Boston Properties,Realty Income Corporation,459
+508,Boston Properties,MetLife Inc.,417
+509,Citigroup Inc.,Moody's Corp,4260
+510,Citigroup Inc.,Leggett & Platt,2970
+511,Citigroup Inc.,Nucor Corp.,2812
+512,Citigroup Inc.,FMC Corporation,2737
+513,"CA, Inc.",Hewlett-Packard Co,384
+514,"CA, Inc.",CBRE Group,369
+515,"CA, Inc.",Dun & Bradstreet,327
+516,ConAgra Foods Inc.,Kellogg Co.,1211
+517,ConAgra Foods Inc.,The Clorox Company,812
+518,Cardinal Health Inc.,Cerner,63
+519,Cardinal Health Inc.,Accenture plc,62
+520,Cardinal Health Inc.,Celgene Corp.,55
+521,Cardinal Health Inc.,"St. Jude Medical, Inc.",44
+522,Cameron Int'l Corp.,TECO Energy,352
+523,Cameron Int'l Corp.,Marathon Petroleum,350
+524,Cameron Int'l Corp.,Tesoro Petroleum Co.,346
+525,Cameron Int'l Corp.,ConocoPhillips,341
+526,Cameron Int'l Corp.,Valero Energy,337
+527,Cameron Int'l Corp.,Exxon Mobil Corp.,333
+528,Cameron Int'l Corp.,Alcoa Inc.,323
+529,Cameron Int'l Corp.,Chevron Corp.,323
+530,Cameron Int'l Corp.,Hess Corporation,320
+531,Cameron Int'l Corp.,Phillips 66,315
+532,Cameron Int'l Corp.,Quanta Services Inc.,314
+533,Cameron Int'l Corp.,Kinder Morgan,292
+534,Cameron Int'l Corp.,Williams Companies,264
+535,Cameron Int'l Corp.,Nucor Corp.,249
+536,Cameron Int'l Corp.,EQT Corporation,245
+537,Cameron Int'l Corp.,Sempra Energy,245
+538,Cameron Int'l Corp.,Delphi Automotive,238
+539,Cameron Int'l Corp.,Columbia Pipeline Group Inc.,238
+540,Cameron Int'l Corp.,Murphy Oil,234
+541,Cameron Int'l Corp.,Union Pacific,232
+542,Cameron Int'l Corp.,Leggett & Platt,231
+543,Cameron Int'l Corp.,Ecolab Inc.,218
+544,Cameron Int'l Corp.,Schlumberger Ltd.,213
+545,Caterpillar Inc.,Moody's Corp,2161
+546,Caterpillar Inc.,Omnicom Group,1690
+547,Caterpillar Inc.,CBRE Group,1586
+548,Caterpillar Inc.,McGraw Hill Financial,1571
+549,Caterpillar Inc.,Northern Trust Corp.,1493
+550,Caterpillar Inc.,MetLife Inc.,1402
+551,Caterpillar Inc.,Ford Motor,1373
+552,Chubb Limited,Robert Half International,631
+553,Chubb Limited,E-Trade Financial Corp.,527
+554,Chubb Limited,Moody's Corp,511
+555,Chubb Limited,Omnicom Group,508
+556,Chubb Limited,CBRE Group,430
+557,Chubb Limited,Accenture plc,402
+558,Chubb Limited,BNY Mellon,396
+559,CBRE Group,Cigna Corp.,404
+560,CBRE Group,Kansas City Southern,363
+561,CBS Corp.,Interpublic Group,243
+562,CBS Corp.,Viacom Inc.,236
+563,CBS Corp.,Yahoo Inc.,221
+564,CBS Corp.,Twenty-First Century Fox Inc Class B,188
+565,CBS Corp.,Time Warner Inc.,186
+566,CBS Corp.,Time Warner Cable Inc.,174
+567,CBS Corp.,Omnicom Group,173
+568,CBS Corp.,Comcast Class A Comm.,171
+569,CBS Corp.,Scripps Networks Int.,165
+570,Crown Castle Int'l Corp.,CenturyLink Inc.,66
+571,Crown Castle Int'l Corp.,CBRE Group,61
+572,Carnival Corp.,Royal Caribbean Cruises,333
+573,Carnival Corp.,FedEx Corporation,241
+574,Carnival Corp.,United Parcel Service,236
+575,Carnival Corp.,Omnicom Group,222
+576,Carnival Corp.,Interpublic Group,200
+577,Celgene Corp.,Whole Foods Market,66
+578,Celgene Corp.,Becton Dickinson,63
+579,Cerner,Moody's Corp,894
+580,Cerner,Dun & Bradstreet,640
+581,CF Industries Holdings Inc.,TECO Energy,113
+582,CF Industries Holdings Inc.,Kinder Morgan,94
+583,CF Industries Holdings Inc.,CSX Corp.,84
+584,CF Industries Holdings Inc.,Quanta Services Inc.,81
+585,CF Industries Holdings Inc.,Williams Companies,75
+586,CF Industries Holdings Inc.,Kansas City Southern,75
+587,CF Industries Holdings Inc.,Martin Marietta Materials,71
+588,Church & Dwight Co,FMC Corporation,453
+589,Church & Dwight Co,The Clorox Company,422
+590,Church & Dwight Co,Tiffany & Co.,347
+591,Church & Dwight Co,Moody's Corp,296
+592,Church & Dwight Co,Ford Motor,288
+593,Church & Dwight Co,Johnson Controls,281
+594,Chesapeake Energy,EQT Corporation,429
+595,Chesapeake Energy,Kinder Morgan,383
+596,Chesapeake Energy,Chevron Corp.,318
+597,Chesapeake Energy,Hess Corporation,303
+598,Chesapeake Energy,Southwestern Energy,294
+599,Chesapeake Energy,Exxon Mobil Corp.,289
+600,Chesapeake Energy,Spectra Energy Corp.,284
+601,C. H. Robinson Worldwide,Ryder System,509
+602,C. H. Robinson Worldwide,United Parcel Service,418
+603,C. H. Robinson Worldwide,Quanta Services Inc.,371
+604,C. H. Robinson Worldwide,Omnicom Group,359
+605,C. H. Robinson Worldwide,Delta Air Lines,335
+606,C. H. Robinson Worldwide,"United Rentals, Inc.",326
+607,C. H. Robinson Worldwide,Robert Half International,325
+608,C. H. Robinson Worldwide,CSX Corp.,323
+609,Cigna Corp.,Becton Dickinson,37
+610,Cincinnati Financial,MetLife Inc.,599
+611,Cincinnati Financial,Aon plc,534
+612,Cincinnati Financial,Charles Schwab Corp.,497
+613,Cincinnati Financial,Moody's Corp,456
+614,Cincinnati Financial,Principal Financial Group,435
+615,Cincinnati Financial,Interpublic Group,399
+616,Cincinnati Financial,Omnicom Group,374
+617,Colgate-Palmolive,Kellogg Co.,541
+618,Colgate-Palmolive,Interpublic Group,449
+619,Colgate-Palmolive,McCormick & Co.,415
+620,Colgate-Palmolive,ConAgra Foods Inc.,386
+621,Colgate-Palmolive,The Clorox Company,343
+622,Colgate-Palmolive,J.M. Smucker Co.,337
+623,Colgate-Palmolive,Campbell Soup,330
+624,The Clorox Company,CBRE Group,817
+625,The Clorox Company,Dover Corp.,802
+626,The Clorox Company,FMC Corporation,682
+627,The Clorox Company,Reynolds American Inc.,647
+628,The Clorox Company,Signet Jewelers Limited,634
+629,The Clorox Company,Moody's Corp,589
+630,The Clorox Company,Accenture plc,581
+631,The Clorox Company,Johnson Controls,572
+632,The Clorox Company,Nucor Corp.,552
+633,Comerica Inc.,E-Trade Financial Corp.,1121
+634,Comerica Inc.,Moody's Corp,868
+635,Comerica Inc.,KeyCorp,844
+636,Comcast Class A Comm.,Time Warner Cable Inc.,360
+637,Comcast Class A Comm.,Omnicom Group,236
+638,CME Group Inc.,McGraw Hill Financial,2331
+639,CME Group Inc.,Moody's Corp,2175
+640,CME Group Inc.,Intercontinental Exchange,1716
+641,CME Group Inc.,Citigroup Inc.,1643
+642,CME Group Inc.,Northern Trust Corp.,1543
+643,Chipotle Mexican Grill,Whole Foods Market,444
+644,Chipotle Mexican Grill,Omnicom Group,335
+645,Chipotle Mexican Grill,Robert Half International,308
+646,Cummins Inc.,Kansas City Southern,130
+647,CMS Energy,Pepco Holdings Inc.,102
+648,CMS Energy,TECO Energy,93
+649,CMS Energy,Moody's Corp,79
+650,CenterPoint Energy,Columbia Pipeline Group Inc.,436
+651,CenterPoint Energy,Kinder Morgan,328
+652,CenterPoint Energy,TECO Energy,319
+653,Consol Energy Inc.,Kinder Morgan,219
+654,Consol Energy Inc.,Alcoa Inc.,208
+655,Consol Energy Inc.,Exxon Mobil Corp.,200
+656,Consol Energy Inc.,Columbia Pipeline Group Inc.,197
+657,Consol Energy Inc.,Chevron Corp.,196
+658,Consol Energy Inc.,TECO Energy,192
+659,Consol Energy Inc.,ConocoPhillips,187
+660,Consol Energy Inc.,Quanta Services Inc.,186
+661,Consol Energy Inc.,EQT Corporation,178
+662,Consol Energy Inc.,Marathon Petroleum,167
+663,Consol Energy Inc.,Valero Energy,165
+664,Consol Energy Inc.,Freeport-McMoRan Inc.,159
+665,Consol Energy Inc.,Hess Corporation,158
+666,Consol Energy Inc.,Tesoro Petroleum Co.,147
+667,Consol Energy Inc.,Nucor Corp.,139
+668,Consol Energy Inc.,Williams Companies,137
+669,Consol Energy Inc.,Phillips 66,134
+670,Consol Energy Inc.,Martin Marietta Materials,132
+671,Capital One Financial,Moody's Corp,954
+672,Capital One Financial,KeyCorp,947
+673,Capital One Financial,E-Trade Financial Corp.,802
+674,Capital One Financial,CBRE Group,573
+675,Cabot Oil & Gas,Kinder Morgan,408
+676,Cabot Oil & Gas,Exxon Mobil Corp.,338
+677,Cabot Oil & Gas,EQT Corporation,328
+678,Cabot Oil & Gas,Chesapeake Energy,273
+679,Cabot Oil & Gas,Hess Corporation,267
+680,Cabot Oil & Gas,TECO Energy,267
+681,Cabot Oil & Gas,ConocoPhillips,258
+682,Cabot Oil & Gas,Chevron Corp.,258
+683,Cabot Oil & Gas,Tesoro Petroleum Co.,255
+684,Coach Inc.,Interpublic Group,429
+685,Coach Inc.,Tiffany & Co.,335
+686,Coach Inc.,Signet Jewelers Limited,320
+687,Coach Inc.,Fifth Third Bancorp,315
+688,Coach Inc.,Staples Inc.,275
+689,Rockwell Collins,Boeing Co.,477
+690,Rockwell Collins,General Dynamics,405
+691,Rockwell Collins,Ryder System,337
+692,Rockwell Collins,Raytheon Co.,336
+693,Rockwell Collins,United Parcel Service,322
+694,Rockwell Collins,United Technologies,321
+695,Rockwell Collins,Textron Inc.,297
+696,Rockwell Collins,L-3 Comm's Holdings,288
+697,ConocoPhillips,Chevron Corp.,886
+698,ConocoPhillips,TECO Energy,839
+699,ConocoPhillips,Tesoro Petroleum Co.,832
+700,ConocoPhillips,Valero Energy,830
+701,ConocoPhillips,Hess Corporation,676
+702,ConocoPhillips,Sempra Energy,628
+703,ConocoPhillips,Leggett & Platt,626
+704,ConocoPhillips,Nucor Corp.,605
+705,ConocoPhillips,Williams Companies,605
+706,ConocoPhillips,Exxon Mobil Corp.,595
+707,ConocoPhillips,Phillips 66,594
+708,ConocoPhillips,Kinder Morgan,587
+709,Costco Co.,"W. W. Grainger, Inc.",329
+710,Costco Co.,Best Buy Co. Inc.,290
+711,Costco Co.,Wal-Mart Stores,268
+712,Costco Co.,Kellogg Co.,223
+713,Costco Co.,Lowe's Cos.,207
+714,Costco Co.,Signet Jewelers Limited,204
+715,Costco Co.,AutoZone Inc,199
+716,Campbell Soup,Kellogg Co.,1562
+717,Campbell Soup,The Clorox Company,1086
+718,Columbia Pipeline Group Inc.,Quanta Services Inc.,834
+719,Columbia Pipeline Group Inc.,Moody's Corp,796
+720,Columbia Pipeline Group Inc.,MetLife Inc.,753
+721,Columbia Pipeline Group Inc.,E-Trade Financial Corp.,748
+722,Columbia Pipeline Group Inc.,Kinder Morgan,709
+723,Columbia Pipeline Group Inc.,Pepco Holdings Inc.,675
+724,Columbia Pipeline Group Inc.,Omnicom Group,669
+725,Columbia Pipeline Group Inc.,TECO Energy,575
+726,Columbia Pipeline Group Inc.,Interpublic Group,515
+727,Salesforce.com,Citrix Systems,800
+728,Salesforce.com,Moody's Corp,731
+729,Salesforce.com,"Facebook, Inc.",700
+730,Salesforce.com,Red Hat Inc.,695
+731,Salesforce.com,Fifth Third Bancorp,647
+732,Salesforce.com,McGraw Hill Financial,611
+733,Salesforce.com,NASDAQ OMX Group,597
+734,Salesforce.com,Invesco Ltd.,566
+735,Salesforce.com,T. Rowe Price Group,554
+736,Salesforce.com,Cisco Systems,554
+737,Salesforce.com,CSRA Inc,496
+738,Salesforce.com,IBM Corp.,494
+739,Cisco Systems,Fifth Third Bancorp,1876
+740,Cisco Systems,Interpublic Group,1801
+741,Cisco Systems,Procter & Gamble,1586
+742,Cisco Systems,Kellogg Co.,1553
+743,Cisco Systems,Omnicom Group,1523
+744,Cisco Systems,McGraw Hill Financial,1382
+745,Cisco Systems,Aon plc,1369
+746,Cisco Systems,McCormick & Co.,1343
+747,Cisco Systems,Hewlett Packard Enterprise Co,1323
+748,Cisco Systems,The Clorox Company,1226
+749,Cisco Systems,Moody's Corp,1169
+750,CSRA Inc,Aon plc,3402
+751,CSRA Inc,Interpublic Group,3111
+752,CSRA Inc,Marsh & McLennan,2844
+753,CSRA Inc,Omnicom Group,2662
+754,CSRA Inc,Quanta Services Inc.,2337
+755,CSRA Inc,McGraw Hill Financial,2273
+756,CSRA Inc,Moody's Corp,2182
+757,CSRA Inc,CBRE Group,2136
+758,CSRA Inc,Invesco Ltd.,2133
+759,CSRA Inc,Accenture plc,2102
+760,CSX Corp.,Kansas City Southern,776
+761,CSX Corp.,CBRE Group,484
+762,Cintas Corp.,Interpublic Group,756
+763,Cintas Corp.,Procter & Gamble,572
+764,Cintas Corp.,Vornado Realty Trust,454
+765,CenturyLink Inc.,Moody's Corp,2004
+766,CenturyLink Inc.,CBRE Group,1431
+767,Cognizant Technology Sol.,Robert Half International,2343
+768,Cognizant Technology Sol.,Omnicom Group,2310
+769,Cognizant Technology Sol.,Accenture plc,1816
+770,Cognizant Technology Sol.,Moody's Corp,1504
+771,Citrix Systems,Interpublic Group,838
+772,Citrix Systems,Omnicom Group,838
+773,Citrix Systems,Hewlett Packard Enterprise Co,810
+774,Citrix Systems,Red Hat Inc.,809
+775,Citrix Systems,Accenture plc,720
+776,Citrix Systems,Moody's Corp,683
+777,Citrix Systems,IBM Corp.,602
+778,Citrix Systems,Yahoo Inc.,591
+779,Citrix Systems,Hewlett-Packard Co,518
+780,Citrix Systems,Apple Inc.,503
+781,CVS Health Corp.,Cerner,290
+782,CVS Health Corp.,Cigna Corp.,240
+783,CVS Health Corp.,Universal Health Services,234
+784,CVS Health Corp.,Accenture plc,196
+785,Chevron Corp.,TECO Energy,930
+786,Chevron Corp.,Nucor Corp.,862
+787,Chevron Corp.,FMC Corporation,803
+788,Chevron Corp.,Kinder Morgan,656
+789,Chevron Corp.,Williams Companies,633
+790,Dominion Resources,TECO Energy,567
+791,Dominion Resources,Exxon Mobil Corp.,454
+792,Dominion Resources,Quanta Services Inc.,445
+793,Dominion Resources,AGL Resources Inc.,442
+794,Dominion Resources,Kinder Morgan,431
+795,Dominion Resources,Columbia Pipeline Group Inc.,425
+796,Dominion Resources,Williams Companies,389
+797,Dominion Resources,SCANA Corp.,386
+798,Dominion Resources,Sempra Energy,372
+799,Dominion Resources,Marathon Petroleum,370
+800,Dominion Resources,Phillips 66,363
+801,Dominion Resources,Tesoro Petroleum Co.,357
+802,Delta Air Lines,United Parcel Service,539
+803,Delta Air Lines,Ryder System,488
+804,DuPont,Interpublic Group,95
+805,DuPont,McCormick & Co.,70
+806,DuPont,Kellogg Co.,69
+807,DuPont,Procter & Gamble,67
+808,DuPont,Aon plc,66
+809,DuPont,FMC Corporation,65
+810,DuPont,Accenture plc,63
+811,DuPont,Robert Half International,62
+812,DuPont,Airgas Inc.,59
+813,DuPont,Omnicom Group,58
+814,Deere & Co.,Fastenal Co.,1694
+815,Deere & Co.,Delphi Automotive,1522
+816,Deere & Co.,Ford Motor,1240
+817,Deere & Co.,J.M. Smucker Co.,1204
+818,Deere & Co.,Johnson Controls,1194
+819,Deere & Co.,Citigroup Inc.,1170
+820,Deere & Co.,Fifth Third Bancorp,1153
+821,Deere & Co.,Leggett & Platt,1147
+822,Deere & Co.,Kellogg Co.,1107
+823,Deere & Co.,FMC Corporation,1076
+824,Deere & Co.,Nucor Corp.,1038
+825,Discover Financial Services,E-Trade Financial Corp.,355
+826,Discover Financial Services,Synchrony Financial,352
+827,Discover Financial Services,Moody's Corp,350
+828,Discover Financial Services,Charles Schwab Corp.,277
+829,Discover Financial Services,Regions Financial Corp.,256
+830,Discover Financial Services,People's United Bank,255
+831,Discover Financial Services,Fifth Third Bancorp,240
+832,Discover Financial Services,Bank of America Corp.,235
+833,Discover Financial Services,Alliance Data Systems Corp.,230
+834,Discover Financial Services,Aon plc,228
+835,Discover Financial Services,KeyCorp,227
+836,Dollar General,Advance Auto Parts Inc,363
+837,Dollar General,Signet Jewelers Limited,302
+838,Dollar General,Whole Foods Market,248
+839,Dollar General,Johnson Controls,242
+840,Dollar General,Tiffany & Co.,231
+841,Dollar General,Ryder System,229
+842,Quest Diagnostics,Johnson & Johnson,130
+843,Quest Diagnostics,"St. Jude Medical, Inc.",118
+844,Quest Diagnostics,Vertex Pharmaceuticals Inc.,115
+845,Quest Diagnostics,Merck & Co.,109
+846,Quest Diagnostics,LabCorp,107
+847,Quest Diagnostics,AbbVie Inc.,105
+848,Quest Diagnostics,Boston Scientific,98
+849,Quest Diagnostics,Edwards Lifesciences,96
+850,Quest Diagnostics,Abbott Laboratories,90
+851,Quest Diagnostics,Celgene Corp.,90
+852,Quest Diagnostics,"Allergan, Plc",88
+853,Quest Diagnostics,Cerner,88
+854,Quest Diagnostics,Amgen Inc.,87
+855,Quest Diagnostics,Pfizer Inc.,82
+856,Quest Diagnostics,Bristol-Myers Squibb,82
+857,Quest Diagnostics,"Biogen Idec, Inc.",81
+858,Quest Diagnostics,"C. R. Bard, Inc",79
+859,Quest Diagnostics,Anthem Inc.,79
+860,D. R. Horton,Lennar Corp.,110
+861,D. R. Horton,Quanta Services Inc.,92
+862,D. R. Horton,CBRE Group,79
+863,D. R. Horton,Moody's Corp,77
+864,Danaher Corp.,Delphi Automotive,38
+865,Danaher Corp.,Boston Scientific,29
+866,Danaher Corp.,General Motors,26
+867,Danaher Corp.,Dentsply Int'l,24
+868,Danaher Corp.,Baxter International Inc.,23
+869,Danaher Corp.,McKesson Corp.,23
+870,Danaher Corp.,Genuine Parts,23
+871,The Walt Disney Co.,Interpublic Group,373
+872,The Walt Disney Co.,Viacom Inc.,302
+873,The Walt Disney Co.,Yahoo Inc.,273
+874,The Walt Disney Co.,Omnicom Group,246
+875,The Walt Disney Co.,Netflix Inc.,238
+876,Discovery Com Class A,Discovery Com Class C,182
+877,Delphi Automotive,J.M. Smucker Co.,3017
+878,Delphi Automotive,Leggett & Platt,2964
+879,Delphi Automotive,Nucor Corp.,2874
+880,Delphi Automotive,FMC Corporation,2727
+881,Delphi Automotive,Citigroup Inc.,2619
+882,Delphi Automotive,Fifth Third Bancorp,2540
+883,Delphi Automotive,Johnson Controls,2448
+884,Delphi Automotive,Valero Energy,2274
+885,Delphi Automotive,Kellogg Co.,1986
+886,Delphi Automotive,Ford Motor,1952
+887,Delphi Automotive,McCormick & Co.,1894
+888,Dollar Tree,Dollar General,85
+889,Dollar Tree,Advance Auto Parts Inc,70
+890,Dollar Tree,Signet Jewelers Limited,59
+891,Dollar Tree,Whole Foods Market,55
+892,Dun & Bradstreet,CBRE Group,867
+893,Diamond Offshore Drilling,Quanta Services Inc.,268
+894,Diamond Offshore Drilling,Ensco plc,199
+895,Dover Corp.,Johnson Controls,1098
+896,Dow Chemical,FMC Corporation,284
+897,Dow Chemical,Valero Energy,261
+898,Dow Chemical,TECO Energy,221
+899,Dow Chemical,Tesoro Petroleum Co.,216
+900,Dow Chemical,Exxon Mobil Corp.,196
+901,Dow Chemical,Nucor Corp.,181
+902,Dow Chemical,Chevron Corp.,179
+903,Dr Pepper Snapple Group,The Clorox Company,95
+904,Dr Pepper Snapple Group,Whole Foods Market,89
+905,Dr Pepper Snapple Group,Keurig Green Mountain,66
+906,Dr Pepper Snapple Group,Brown-Forman Corp.,66
+907,Darden Restaurants,Interpublic Group,466
+908,Darden Restaurants,Whole Foods Market,463
+909,Darden Restaurants,Robert Half International,359
+910,Darden Restaurants,Chipotle Mexican Grill,352
+911,Darden Restaurants,Tractor Supply Co.,329
+912,Darden Restaurants,Yum! Brands Inc.,328
+913,Darden Restaurants,Omnicom Group,321
+914,Darden Restaurants,Lowe's Cos.,300
+915,Darden Restaurants,AutoZone Inc,296
+916,DTE Energy Co.,SCANA Corp.,351
+917,DTE Energy Co.,AGL Resources Inc.,332
+918,DTE Energy Co.,TECO Energy,326
+919,DTE Energy Co.,Exxon Mobil Corp.,285
+920,DTE Energy Co.,American Electric Power,240
+921,DTE Energy Co.,Quanta Services Inc.,228
+922,Duke Energy,PG&E Corp.,131
+923,Duke Energy,TECO Energy,130
+924,Duke Energy,CBRE Group,82
+925,Duke Energy,Moody's Corp,79
+926,DaVita Inc.,Universal Health Services,317
+927,DaVita Inc.,Cerner,279
+928,DaVita Inc.,Accenture plc,258
+929,DaVita Inc.,Cigna Corp.,233
+930,Devon Energy Corp.,Hess Corporation,131
+931,Devon Energy Corp.,ConocoPhillips,120
+932,Devon Energy Corp.,Southwestern Energy,113
+933,Devon Energy Corp.,Apache Corporation,108
+934,Devon Energy Corp.,EQT Corporation,106
+935,Devon Energy Corp.,Kinder Morgan,102
+936,Devon Energy Corp.,Cimarex Energy,94
+937,Devon Energy Corp.,Marathon Oil Corp.,93
+938,Devon Energy Corp.,Tesoro Petroleum Co.,92
+939,Devon Energy Corp.,Columbia Pipeline Group Inc.,89
+940,Devon Energy Corp.,Chesapeake Energy,88
+941,Devon Energy Corp.,Murphy Oil,87
+942,Devon Energy Corp.,Pioneer Natural Resources,83
+943,Devon Energy Corp.,Cabot Oil & Gas,81
+944,Electronic Arts,Activision Blizzard Inc,367
+945,Electronic Arts,Yahoo Inc.,352
+946,Electronic Arts,Interpublic Group,330
+947,Electronic Arts,Citrix Systems,275
+948,Electronic Arts,Adobe Systems Inc.,267
+949,Electronic Arts,Omnicom Group,257
+950,Electronic Arts,Apple Inc.,254
+951,Electronic Arts,Viacom Inc.,251
+952,Electronic Arts,Amazon.com Inc.,241
+953,eBay Inc.,Moody's Corp,1226
+954,eBay Inc.,PayPal Holdings Inc.,950
+955,eBay Inc.,Omnicom Group,901
+956,eBay Inc.,Aon plc,873
+957,eBay Inc.,"Facebook, Inc.",823
+958,eBay Inc.,Fidelity Nat. Info. Services,819
+959,Ecolab Inc.,Kellogg Co.,826
+960,Ecolab Inc.,FMC Corporation,714
+961,Ecolab Inc.,Nucor Corp.,683
+962,Ecolab Inc.,McCormick & Co.,645
+963,Ecolab Inc.,J.M. Smucker Co.,562
+964,Ecolab Inc.,Exxon Mobil Corp.,561
+965,Ecolab Inc.,Dover Corp.,554
+966,Ecolab Inc.,Interpublic Group,546
+967,Ecolab Inc.,Omnicom Group,508
+968,Consolidated Edison,TECO Energy,501
+969,Consolidated Edison,Pepco Holdings Inc.,493
+970,Consolidated Edison,Edison Int'l,459
+971,Consolidated Edison,Sempra Energy,393
+972,Consolidated Edison,PPL Corp.,347
+973,Consolidated Edison,PG&E Corp.,342
+974,Consolidated Edison,SL Green Realty Corp,313
+975,Equifax Inc.,Omnicom Group,2257
+976,Equifax Inc.,Moody's Corp,2113
+977,Equifax Inc.,Aon plc,1964
+978,Equifax Inc.,Marsh & McLennan,1907
+979,Equifax Inc.,McGraw Hill Financial,1669
+980,Edison Int'l,Moody's Corp,1153
+981,Edison Int'l,Quanta Services Inc.,1059
+982,Edison Int'l,CBRE Group,981
+983,Estee Lauder Cos.,Interpublic Group,355
+984,Estee Lauder Cos.,Omnicom Group,326
+985,EMC Corp.,"CA, Inc.",400
+986,EMC Corp.,Hewlett-Packard Co,359
+987,EMC Corp.,Moody's Corp,325
+988,EMC Corp.,Dun & Bradstreet,273
+989,Eastman Chemical,J.M. Smucker Co.,770
+990,Eastman Chemical,FMC Corporation,752
+991,Eastman Chemical,Nucor Corp.,740
+992,Eastman Chemical,Valero Energy,713
+993,Eastman Chemical,Delphi Automotive,648
+994,Eastman Chemical,LyondellBasell,583
+995,Eastman Chemical,Leggett & Platt,581
+996,Eastman Chemical,Marathon Petroleum,570
+997,Eastman Chemical,Alcoa Inc.,531
+998,Eastman Chemical,Phillips 66,516
+999,Eastman Chemical,Exxon Mobil Corp.,515
+1000,Eastman Chemical,Chevron Corp.,489
+1001,Eastman Chemical,TECO Energy,480
+1002,Emerson Electric Co,Cummins Inc.,213
+1003,Emerson Electric Co,Dover Corp.,201
+1004,Emerson Electric Co,Carmax Inc.,167
+1005,Emerson Electric Co,Johnson Controls,162
+1006,Emerson Electric Co,Xilinx Inc.,144
+1007,Endo International plc,Robert Half International,520
+1008,Endo International plc,Omnicom Group,438
+1009,Endo International plc,Accenture plc,431
+1010,Endo International plc,Moody's Corp,413
+1011,Endo International plc,Reynolds American Inc.,378
+1012,Endo International plc,Quanta Services Inc.,377
+1013,Endo International plc,Anthem Inc.,364
+1014,Endo International plc,McKesson Corp.,340
+1015,Endo International plc,Perrigo,334
+1016,Endo International plc,AbbVie Inc.,314
+1017,EOG Resources,Chevron Corp.,325
+1018,EOG Resources,Kinder Morgan,320
+1019,EOG Resources,Valero Energy,290
+1020,EOG Resources,Exxon Mobil Corp.,281
+1021,EOG Resources,Southwestern Energy,276
+1022,EOG Resources,Tesoro Petroleum Co.,272
+1023,EOG Resources,Hess Corporation,268
+1024,EOG Resources,EQT Corporation,260
+1025,EOG Resources,TECO Energy,251
+1026,EOG Resources,"W. W. Grainger, Inc.",244
+1027,EOG Resources,Chesapeake Energy,208
+1028,EOG Resources,Spectra Energy Corp.,202
+1029,Equinix Inc,CBRE Group,85
+1030,Equinix Inc,Johnson Controls,54
+1031,Equity Residential,CBRE Group,853
+1032,Equity Residential,E-Trade Financial Corp.,752
+1033,Equity Residential,Reynolds American Inc.,667
+1034,Equity Residential,BNY Mellon,530
+1035,EQT Corporation,Kinder Morgan,607
+1036,EQT Corporation,Chevron Corp.,477
+1037,EQT Corporation,Spectra Energy Corp.,430
+1038,EQT Corporation,Hess Corporation,419
+1039,EQT Corporation,"ONEOK, Inc.",410
+1040,EQT Corporation,Exxon Mobil Corp.,405
+1041,EQT Corporation,Williams Companies,399
+1042,EQT Corporation,TECO Energy,395
+1043,EQT Corporation,Valero Energy,390
+1044,EQT Corporation,AGL Resources Inc.,369
+1045,EQT Corporation,Southwestern Energy,366
+1046,Eversource Energy,TECO Energy,511
+1047,Eversource Energy,Consolidated Edison,508
+1048,Eversource Energy,Edison Int'l,485
+1049,Eversource Energy,Fifth Third Bancorp,415
+1050,Eversource Energy,Sempra Energy,387
+1051,Eversource Energy,Citigroup Inc.,375
+1052,Eversource Energy,Pepco Holdings Inc.,356
+1053,Eversource Energy,Southern Co.,342
+1054,Eversource Energy,Exelon Corp.,335
+1055,Express Scripts,McKesson Corp.,362
+1056,Express Scripts,Cerner,344
+1057,Express Scripts,CVS Health Corp.,287
+1058,Express Scripts,Accenture plc,283
+1059,Express Scripts,Cigna Corp.,282
+1060,Express Scripts,Universal Health Services,268
+1061,Express Scripts,CenturyLink Inc.,221
+1062,Essex Property Trust Inc,General Growth Properties,1375
+1063,Essex Property Trust Inc,Aon plc,1304
+1064,Essex Property Trust Inc,CBRE Group,1212
+1065,Essex Property Trust Inc,Interpublic Group,1155
+1066,Essex Property Trust Inc,E-Trade Financial Corp.,1089
+1067,Essex Property Trust Inc,MetLife Inc.,1053
+1068,Essex Property Trust Inc,Equity Residential,1027
+1069,Essex Property Trust Inc,SL Green Realty Corp,978
+1070,Essex Property Trust Inc,Fifth Third Bancorp,945
+1071,Essex Property Trust Inc,Boston Properties,900
+1072,Ensco plc,Kansas City Southern,156
+1073,Ensco plc,CBRE Group,153
+1074,E-Trade Financial Corp.,Moody's Corp,3827
+1075,E-Trade Financial Corp.,CBRE Group,3203
+1076,Eaton Corporation,FLIR Systems,14
+1077,Eaton Corporation,General Dynamics,13
+1078,Eaton Corporation,L-3 Comm's Holdings,12
+1079,Eaton Corporation,Exxon Mobil Corp.,11
+1080,Eaton Corporation,Honeywell Int'l Inc.,10
+1081,Eaton Corporation,Xilinx Inc.,10
+1082,Eaton Corporation,Northrop Grumman Corp.,9
+1083,Eaton Corporation,Precision Castparts,9
+1084,Entergy Corp.,Exelon Corp.,538
+1085,Entergy Corp.,Southern Co.,495
+1086,Entergy Corp.,Pinnacle West Capital,437
+1087,Entergy Corp.,Pepco Holdings Inc.,415
+1088,Entergy Corp.,Public Serv. Enterprise Inc.,393
+1089,Entergy Corp.,Consolidated Edison,347
+1090,Entergy Corp.,TECO Energy,330
+1091,Edwards Lifesciences,"St. Jude Medical, Inc.",324
+1092,Edwards Lifesciences,Boston Scientific,303
+1093,Edwards Lifesciences,Merck & Co.,246
+1094,Edwards Lifesciences,AbbVie Inc.,240
+1095,Edwards Lifesciences,"C. R. Bard, Inc",235
+1096,Edwards Lifesciences,Abbott Laboratories,235
+1097,Edwards Lifesciences,Celgene Corp.,226
+1098,Edwards Lifesciences,Pfizer Inc.,222
+1099,Edwards Lifesciences,Baxalta,209
+1100,Edwards Lifesciences,Bristol-Myers Squibb,204
+1101,Edwards Lifesciences,Zimmer Biomet Holdings,201
+1102,Exelon Corp.,Pepco Holdings Inc.,664
+1103,Exelon Corp.,NiSource Inc.,431
+1104,Exelon Corp.,Consolidated Edison,406
+1105,Exelon Corp.,Moody's Corp,403
+1106,Exelon Corp.,PG&E Corp.,401
+1107,Expeditors Int'l,United Parcel Service,528
+1108,Expeditors Int'l,Omnicom Group,492
+1109,Expeditors Int'l,Interpublic Group,466
+1110,Expeditors Int'l,"W. W. Grainger, Inc.",375
+1111,Expeditors Int'l,C. H. Robinson Worldwide,366
+1112,Expeditors Int'l,Ryder System,355
+1113,Expeditors Int'l,Robert Half International,334
+1114,Expeditors Int'l,Quanta Services Inc.,327
+1115,Expedia Inc.,Moody's Corp,143
+1116,Expedia Inc.,Ford Motor,136
+1117,Expedia Inc.,Delta Air Lines,122
+1118,Expedia Inc.,Exxon Mobil Corp.,116
+1119,Expedia Inc.,Ryder System,112
+1120,Expedia Inc.,Carmax Inc.,107
+1121,Expedia Inc.,United Parcel Service,98
+1122,Expedia Inc.,Cummins Inc.,95
+1123,Expedia Inc.,PayPal Holdings Inc.,89
+1124,Ford Motor,Moody's Corp,2097
+1125,Ford Motor,Johnson Controls,1612
+1126,Fastenal Co.,Citigroup Inc.,3283
+1127,Fastenal Co.,Fifth Third Bancorp,3265
+1128,Fastenal Co.,J.M. Smucker Co.,3072
+1129,Fastenal Co.,Delphi Automotive,2963
+1130,Fastenal Co.,Leggett & Platt,2896
+1131,Fastenal Co.,Kellogg Co.,2647
+1132,Fastenal Co.,Moody's Corp,2632
+1133,Fastenal Co.,Nucor Corp.,2570
+1134,Fastenal Co.,Johnson Controls,2530
+1135,Fastenal Co.,Ford Motor,2371
+1136,Fastenal Co.,McGraw Hill Financial,2317
+1137,Fastenal Co.,Omnicom Group,2191
+1138,Fastenal Co.,Tiffany & Co.,2136
+1139,Fastenal Co.,Alcoa Inc.,2132
+1140,Fastenal Co.,McCormick & Co.,2120
+1141,Fastenal Co.,"United Rentals, Inc.",2103
+1142,Fastenal Co.,FMC Corporation,2031
+1143,"Facebook, Inc.",Moody's Corp,1935
+1144,"Facebook, Inc.",Omnicom Group,1382
+1145,"Facebook, Inc.",Interpublic Group,1211
+1146,"Facebook, Inc.",Alphabet Inc. Class A,1198
+1147,Freeport-McMoRan Inc.,Nucor Corp.,454
+1148,Freeport-McMoRan Inc.,Valero Energy,426
+1149,Freeport-McMoRan Inc.,TECO Energy,421
+1150,Freeport-McMoRan Inc.,Sempra Energy,378
+1151,Freeport-McMoRan Inc.,FMC Corporation,348
+1152,Freeport-McMoRan Inc.,Leggett & Platt,336
+1153,Freeport-McMoRan Inc.,Hormel Foods Corp.,332
+1154,Freeport-McMoRan Inc.,Citigroup Inc.,328
+1155,Freeport-McMoRan Inc.,ConocoPhillips,275
+1156,Freeport-McMoRan Inc.,Quanta Services Inc.,273
+1157,FedEx Corporation,United Parcel Service,1108
+1158,FirstEnergy Corp,Public Serv. Enterprise Inc.,247
+1159,FirstEnergy Corp,Exelon Corp.,246
+1160,FirstEnergy Corp,PG&E Corp.,227
+1161,FirstEnergy Corp,Consolidated Edison,191
+1162,FirstEnergy Corp,Pepco Holdings Inc.,177
+1163,FirstEnergy Corp,Edison Int'l,154
+1164,FirstEnergy Corp,PPL Corp.,152
+1165,F5 Networks,IBM Corp.,298
+1166,F5 Networks,Omnicom Group,256
+1167,F5 Networks,Apple Inc.,243
+1168,F5 Networks,Moody's Corp,239
+1169,F5 Networks,EMC Corp.,239
+1170,F5 Networks,CenturyLink Inc.,200
+1171,Fidelity Nat. Info. Services,McGraw Hill Financial,2823
+1172,Fidelity Nat. Info. Services,Omnicom Group,2603
+1173,Fidelity Nat. Info. Services,Moody's Corp,2534
+1174,Fidelity Nat. Info. Services,Interpublic Group,2500
+1175,Fidelity Nat. Info. Services,E-Trade Financial Corp.,1970
+1176,Fidelity Nat. Info. Services,CBRE Group,1966
+1177,Fidelity Nat. Info. Services,Charles Schwab Corp.,1726
+1178,Fiserv Inc,Moody's Corp,1223
+1179,Fiserv Inc,CBRE Group,839
+1180,Fifth Third Bancorp,Citigroup Inc.,4807
+1181,Fifth Third Bancorp,Moody's Corp,4338
+1182,Fifth Third Bancorp,McGraw Hill Financial,4043
+1183,Fifth Third Bancorp,SL Green Realty Corp,3779
+1184,Fifth Third Bancorp,Leggett & Platt,3395
+1185,Fifth Third Bancorp,Northern Trust Corp.,3136
+1186,Fifth Third Bancorp,CBRE Group,3115
+1187,Fifth Third Bancorp,MetLife Inc.,2982
+1188,FLIR Systems,Ryder System,87
+1189,FLIR Systems,United Parcel Service,85
+1190,FLIR Systems,Xilinx Inc.,79
+1191,FLIR Systems,Snap-On Inc.,71
+1192,FLIR Systems,Emerson Electric Co,57
+1193,FLIR Systems,Ford Motor,56
+1194,Fluor Corp.,CBRE Group,418
+1195,Fluor Corp.,Ensco plc,296
+1196,Fluor Corp.,Kansas City Southern,260
+1197,Flowserve Corporation,Exxon Mobil Corp.,340
+1198,Flowserve Corporation,Quanta Services Inc.,292
+1199,Flowserve Corporation,Dover Corp.,249
+1200,Flowserve Corporation,Kellogg Co.,246
+1201,Flowserve Corporation,Interpublic Group,230
+1202,Flowserve Corporation,Omnicom Group,229
+1203,Flowserve Corporation,Ryder System,224
+1204,Flowserve Corporation,Nucor Corp.,215
+1205,Flowserve Corporation,McGraw Hill Financial,211
+1206,Flowserve Corporation,Caterpillar Inc.,205
+1207,FMC Corporation,Moody's Corp,1810
+1208,FMC Corporation,Johnson Controls,1490
+1209,FMC Corporation,TECO Energy,1305
+1210,FMC Corporation,Dover Corp.,1272
+1211,FMC Corporation,Ford Motor,1106
+1212,"Fossil, Inc.",The Clorox Company,257
+1213,"Fossil, Inc.",Tiffany & Co.,192
+1214,"Fossil, Inc.",Signet Jewelers Limited,173
+1215,Twenty-First Century Fox Inc Class B,Moody's Corp,155
+1216,Twenty-First Century Fox Inc Class B,Discovery Com Class A,106
+1217,Twenty-First Century Fox,Twenty-First Century Fox Inc Class B,279
+1218,Twenty-First Century Fox,Interpublic Group,171
+1219,First Solar Inc,Moody's Corp,80
+1220,First Solar Inc,"Facebook, Inc.",64
+1221,First Solar Inc,Citigroup Inc.,60
+1222,First Solar Inc,Applied Materials Inc.,58
+1223,First Solar Inc,Tiffany & Co.,57
+1224,First Solar Inc,Southern Co.,53
+1225,First Solar Inc,NASDAQ OMX Group,52
+1226,FMC Technologies Inc.,Exxon Mobil Corp.,106
+1227,FMC Technologies Inc.,ConocoPhillips,96
+1228,FMC Technologies Inc.,Hess Corporation,96
+1229,FMC Technologies Inc.,Chevron Corp.,95
+1230,FMC Technologies Inc.,Nucor Corp.,95
+1231,FMC Technologies Inc.,Quanta Services Inc.,90
+1232,FMC Technologies Inc.,Schlumberger Ltd.,81
+1233,FMC Technologies Inc.,Phillips 66,80
+1234,FMC Technologies Inc.,Murphy Oil,77
+1235,FMC Technologies Inc.,Tesoro Petroleum Co.,73
+1236,FMC Technologies Inc.,TECO Energy,70
+1237,FMC Technologies Inc.,Transocean,68
+1238,FMC Technologies Inc.,Leggett & Platt,66
+1239,FMC Technologies Inc.,Kinder Morgan,66
+1240,FMC Technologies Inc.,Williams Companies,66
+1241,FMC Technologies Inc.,EQT Corporation,64
+1242,Frontier Communications,CBRE Group,175
+1243,AGL Resources Inc.,"ONEOK, Inc.",500
+1244,Gannett Co.,Interpublic Group,596
+1245,Gannett Co.,Omnicom Group,404
+1246,Gannett Co.,Yahoo Inc.,404
+1247,General Dynamics,Quanta Services Inc.,302
+1248,General Dynamics,Lockheed Martin Corp.,288
+1249,General Dynamics,Fluor Corp.,236
+1250,General Dynamics,Ryder System,224
+1251,General Dynamics,United Parcel Service,201
+1252,General Electric,Interpublic Group,574
+1253,General Electric,Omnicom Group,480
+1254,General Electric,Alcoa Inc.,474
+1255,General Electric,Quanta Services Inc.,373
+1256,General Electric,Fifth Third Bancorp,350
+1257,General Growth Properties,CBRE Group,1732
+1258,General Growth Properties,E-Trade Financial Corp.,1256
+1259,General Growth Properties,MetLife Inc.,1255
+1260,General Growth Properties,Moody's Corp,1160
+1261,General Growth Properties,SL Green Realty Corp,1126
+1262,General Growth Properties,McGraw Hill Financial,1113
+1263,General Growth Properties,Omnicom Group,1059
+1264,Gilead Sciences,"St. Jude Medical, Inc.",248
+1265,Gilead Sciences,Celgene Corp.,247
+1266,Gilead Sciences,Bristol-Myers Squibb,199
+1267,Gilead Sciences,"Zoetis, Inc.",165
+1268,General Mills Inc.,McCormick & Co.,953
+1269,General Mills Inc.,J.M. Smucker Co.,778
+1270,General Mills Inc.,Kellogg Co.,754
+1271,General Mills Inc.,FMC Corporation,594
+1272,General Mills Inc.,Fifth Third Bancorp,583
+1273,Corning Inc.,Aon plc,11
+1274,Corning Inc.,Marsh & McLennan,10
+1275,Corning Inc.,Interpublic Group,9
+1276,Corning Inc.,Seagate Technology,8
+1277,Corning Inc.,Cognizant Technology Sol.,8
+1278,Corning Inc.,Airgas Inc.,8
+1279,Corning Inc.,Western Digital,7
+1280,Corning Inc.,Moody's Corp,7
+1281,Corning Inc.,Cisco Systems,7
+1282,Corning Inc.,Delphi Automotive,7
+1283,Corning Inc.,Accenture plc,7
+1284,General Motors,Ford Motor,1688
+1285,Keurig Green Mountain,Hewlett-Packard Co,127
+1286,Keurig Green Mountain,Whole Foods Market,102
+1287,GameStop Corp.,Best Buy Co. Inc.,424
+1288,GameStop Corp.,Interpublic Group,379
+1289,GameStop Corp.,Yahoo Inc.,274
+1290,Alphabet Inc. Class C,Alphabet Inc. Class A,763
+1291,Alphabet Inc. Class A,Moody's Corp,964
+1292,Alphabet Inc. Class A,Yahoo Inc.,628
+1293,Genuine Parts,Johnson Controls,934
+1294,Genuine Parts,Ford Motor,825
+1295,Genuine Parts,Signet Jewelers Limited,763
+1296,Genuine Parts,Tiffany & Co.,739
+1297,Genuine Parts,Advance Auto Parts Inc,690
+1298,Genuine Parts,Carmax Inc.,609
+1299,Genuine Parts,Ryder System,591
+1300,Gap Inc.,Best Buy Co. Inc.,291
+1301,Gap Inc.,Lowe's Cos.,238
+1302,Gap Inc.,Tiffany & Co.,238
+1303,Gap Inc.,Signet Jewelers Limited,224
+1304,Gap Inc.,"W. W. Grainger, Inc.",210
+1305,Gap Inc.,Advance Auto Parts Inc,204
+1306,Gap Inc.,Interpublic Group,200
+1307,Gap Inc.,AutoZone Inc,189
+1308,Gap Inc.,Kellogg Co.,178
+1309,Garmin Ltd.,FedEx Corporation,123
+1310,Garmin Ltd.,United Parcel Service,120
+1311,Garmin Ltd.,Southwest Airlines,117
+1312,Garmin Ltd.,Boeing Co.,116
+1313,Garmin Ltd.,Delta Air Lines,111
+1314,Garmin Ltd.,Ryder System,110
+1315,Garmin Ltd.,General Motors,109
+1316,Garmin Ltd.,Ford Motor,109
+1317,Garmin Ltd.,Textron Inc.,108
+1318,Garmin Ltd.,General Dynamics,104
+1319,Garmin Ltd.,Union Pacific,102
+1320,Garmin Ltd.,United Technologies,101
+1321,Garmin Ltd.,Verisign Inc.,98
+1322,Garmin Ltd.,L-3 Comm's Holdings,97
+1323,Garmin Ltd.,"United Rentals, Inc.",92
+1324,Garmin Ltd.,American Airlines Group,91
+1325,Garmin Ltd.,Harris Corp.,86
+1326,Garmin Ltd.,Motorola Solutions Inc.,86
+1327,Garmin Ltd.,"W. W. Grainger, Inc.",83
+1328,Garmin Ltd.,Quanta Services Inc.,82
+1329,Garmin Ltd.,AutoZone Inc,81
+1330,Garmin Ltd.,Carmax Inc.,81
+1331,Garmin Ltd.,Exxon Mobil Corp.,80
+1332,Garmin Ltd.,Expeditors Int'l,77
+1333,Garmin Ltd.,Honeywell Int'l Inc.,75
+1334,Garmin Ltd.,FLIR Systems,75
+1335,Goldman Sachs Group,Moody's Corp,4971
+1336,Goldman Sachs Group,Northern Trust Corp.,4266
+1337,Goldman Sachs Group,MetLife Inc.,3797
+1338,Goldman Sachs Group,McGraw Hill Financial,3619
+1339,Goldman Sachs Group,Charles Schwab Corp.,3149
+1340,Goodyear Tire & Rubber,General Motors,387
+1341,Goodyear Tire & Rubber,Ford Motor,387
+1342,Goodyear Tire & Rubber,Ryder System,274
+1343,Goodyear Tire & Rubber,Cummins Inc.,254
+1344,Goodyear Tire & Rubber,Exxon Mobil Corp.,253
+1345,"W. W. Grainger, Inc.",Leggett & Platt,1701
+1346,"W. W. Grainger, Inc.",Kellogg Co.,1452
+1347,"W. W. Grainger, Inc.",Signet Jewelers Limited,1183
+1348,"W. W. Grainger, Inc.",Nucor Corp.,1168
+1349,"W. W. Grainger, Inc.",Valero Energy,1077
+1350,"W. W. Grainger, Inc.",FMC Corporation,1066
+1351,"W. W. Grainger, Inc.",Exxon Mobil Corp.,1042
+1352,Halliburton Co.,Quanta Services Inc.,466
+1353,Halliburton Co.,Accenture plc,350
+1354,Halliburton Co.,Omnicom Group,347
+1355,Halliburton Co.,Reynolds American Inc.,310
+1356,Halliburton Co.,CBRE Group,294
+1357,Halliburton Co.,Kinder Morgan,287
+1358,Halliburton Co.,Kellogg Co.,286
+1359,Harman Int'l Industries,Delphi Automotive,87
+1360,Harman Int'l Industries,Motorola Solutions Inc.,75
+1361,Harman Int'l Industries,Red Hat Inc.,73
+1362,Harman Int'l Industries,Moody's Corp,73
+1363,Harman Int'l Industries,Tesoro Petroleum Co.,71
+1364,Harman Int'l Industries,Texas Instruments,67
+1365,Harman Int'l Industries,Caterpillar Inc.,65
+1366,Harman Int'l Industries,Johnson Controls,65
+1367,Harman Int'l Industries,Citrix Systems,61
+1368,Harman Int'l Industries,Fifth Third Bancorp,60
+1369,Harman Int'l Industries,Ford Motor,60
+1370,Harman Int'l Industries,General Motors,59
+1371,Harman Int'l Industries,Genuine Parts,58
+1372,Harman Int'l Industries,"W. W. Grainger, Inc.",55
+1373,Harman Int'l Industries,Exxon Mobil Corp.,55
+1374,Hasbro Inc.,Interpublic Group,450
+1375,Hasbro Inc.,Fifth Third Bancorp,343
+1376,Hasbro Inc.,Newell Rubbermaid Co.,340
+1377,Hasbro Inc.,Omnicom Group,333
+1378,Hasbro Inc.,Cisco Systems,311
+1379,Hasbro Inc.,Mattel Inc.,295
+1380,Hasbro Inc.,Procter & Gamble,291
+1381,Hasbro Inc.,Best Buy Co. Inc.,272
+1382,Huntington Bancshares,E-Trade Financial Corp.,1404
+1383,Huntington Bancshares,KeyCorp,1288
+1384,Huntington Bancshares,Charles Schwab Corp.,1246
+1385,Huntington Bancshares,Northern Trust Corp.,1110
+1386,Huntington Bancshares,Moody's Corp,1017
+1387,Huntington Bancshares,CBRE Group,876
+1388,Huntington Bancshares,BNY Mellon,869
+1389,Hanesbrands Inc,Fifth Third Bancorp,1215
+1390,Hanesbrands Inc,Procter & Gamble,1160
+1391,Hanesbrands Inc,J.M. Smucker Co.,1132
+1392,Hanesbrands Inc,Kellogg Co.,999
+1393,Hanesbrands Inc,The Hershey Company,995
+1394,Hanesbrands Inc,The Clorox Company,982
+1395,Hanesbrands Inc,Interpublic Group,980
+1396,Hanesbrands Inc,Leggett & Platt,904
+1397,Hanesbrands Inc,McCormick & Co.,829
+1398,Hanesbrands Inc,Signet Jewelers Limited,772
+1399,HCA Inc.,Aetna Inc.,567
+1400,HCA Inc.,Universal Health Services,565
+1401,HCA Inc.,Anthem Inc.,528
+1402,HCA Inc.,Tenet Healthcare Corp.,492
+1403,HCA Inc.,Robert Half International,470
+1404,HCA Inc.,McKesson Corp.,469
+1405,HCA Inc.,Omnicom Group,458
+1406,HCA Inc.,Cerner,446
+1407,HCA Inc.,Accenture plc,401
+1408,HCA Inc.,Aon plc,395
+1409,HCA Inc.,Humana Inc.,379
+1410,HCA Inc.,Quanta Services Inc.,375
+1411,Welltower Inc,SL Green Realty Corp,404
+1412,Welltower Inc,CBRE Group,402
+1413,Welltower Inc,Essex Property Trust Inc,299
+1414,Welltower Inc,General Growth Properties,287
+1415,Welltower Inc,Interpublic Group,283
+1416,Welltower Inc,Boston Properties,248
+1417,HCP Inc.,CBRE Group,267
+1418,Home Depot,Lowe's Cos.,452
+1419,Home Depot,Best Buy Co. Inc.,383
+1420,Home Depot,"W. W. Grainger, Inc.",292
+1421,Home Depot,AutoZone Inc,278
+1422,Hess Corporation,Chevron Corp.,664
+1423,Hess Corporation,Tesoro Petroleum Co.,650
+1424,Hess Corporation,TECO Energy,596
+1425,Hess Corporation,Kinder Morgan,583
+1426,Hess Corporation,Valero Energy,540
+1427,Hess Corporation,Exxon Mobil Corp.,507
+1428,Hess Corporation,Williams Companies,492
+1429,Hartford Financial Services,Moody's Corp,1518
+1430,Hartford Financial Services,Principal Financial Group,1477
+1431,Hartford Financial Services,AFLAC Inc.,1257
+1432,Hartford Financial Services,Northern Trust Corp.,1216
+1433,Hartford Financial Services,Ameriprise Financial,1109
+1434,Hartford Financial Services,CBRE Group,956
+1435,Hartford Financial Services,McGraw Hill Financial,954
+1436,Hartford Financial Services,Omnicom Group,920
+1437,Harley-Davidson,AutoNation Inc.,93
+1438,Harley-Davidson,MetLife Inc.,89
+1439,Harley-Davidson,Omnicom Group,86
+1440,Harley-Davidson,Ford Motor,78
+1441,Harley-Davidson,Carmax Inc.,69
+1442,Harley-Davidson,Lowe's Cos.,61
+1443,Harley-Davidson,Robert Half International,61
+1444,Honeywell Int'l Inc.,Ryder System,330
+1445,Honeywell Int'l Inc.,Ford Motor,324
+1446,Honeywell Int'l Inc.,Quanta Services Inc.,246
+1447,Honeywell Int'l Inc.,Emerson Electric Co,224
+1448,Honeywell Int'l Inc.,Cummins Inc.,222
+1449,Honeywell Int'l Inc.,Genuine Parts,213
+1450,Honeywell Int'l Inc.,General Dynamics,209
+1451,Starwood Hotels & Res,Interpublic Group,127
+1452,Starwood Hotels & Res,CBRE Group,110
+1453,Starwood Hotels & Res,Omnicom Group,107
+1454,Starwood Hotels & Res,Boston Properties,84
+1455,Starwood Hotels & Res,SL Green Realty Corp,83
+1456,Helmerich & Payne,Quanta Services Inc.,189
+1457,Helmerich & Payne,Nucor Corp.,120
+1458,Helmerich & Payne,Kinder Morgan,119
+1459,Helmerich & Payne,TECO Energy,117
+1460,Helmerich & Payne,Ensco plc,116
+1461,Hewlett Packard Enterprise Co,Interpublic Group,1226
+1462,Hewlett Packard Enterprise Co,Accenture plc,1146
+1463,Hewlett Packard Enterprise Co,Hewlett-Packard Co,1014
+1464,Hewlett Packard Enterprise Co,Kellogg Co.,739
+1465,Hewlett-Packard Co,CBRE Group,353
+1466,Hewlett-Packard Co,Johnson Controls,298
+1467,"H&R Block, Inc.",Aon plc,1242
+1468,"H&R Block, Inc.",E-Trade Financial Corp.,1025
+1469,"H&R Block, Inc.",Moody's Corp,911
+1470,"H&R Block, Inc.",Fidelity Nat. Info. Services,786
+1471,"H&R Block, Inc.",Marsh & McLennan,767
+1472,Hormel Foods Corp.,Citigroup Inc.,2206
+1473,Hormel Foods Corp.,FMC Corporation,1929
+1474,Hormel Foods Corp.,Leggett & Platt,1668
+1475,Hormel Foods Corp.,Nucor Corp.,1388
+1476,Harris Corp.,General Dynamics,279
+1477,Harris Corp.,Boeing Co.,270
+1478,Harris Corp.,L-3 Comm's Holdings,259
+1479,Harris Corp.,Lockheed Martin Corp.,236
+1480,Harris Corp.,Northrop Grumman Corp.,221
+1481,Harris Corp.,Quanta Services Inc.,198
+1482,Harris Corp.,Motorola Solutions Inc.,186
+1483,Harris Corp.,Fluor Corp.,172
+1484,Henry Schein Inc,McKesson Corp.,418
+1485,Henry Schein Inc,Cerner,366
+1486,Henry Schein Inc,Omnicom Group,357
+1487,Henry Schein Inc,Robert Half International,332
+1488,Henry Schein Inc,Universal Health Services,307
+1489,Henry Schein Inc,Anthem Inc.,284
+1490,Henry Schein Inc,Aetna Inc.,277
+1491,Henry Schein Inc,Accenture plc,261
+1492,Host Hotels & Resorts,Essex Property Trust Inc,432
+1493,Host Hotels & Resorts,Macerich,335
+1494,Host Hotels & Resorts,General Growth Properties,331
+1495,Host Hotels & Resorts,Interpublic Group,324
+1496,Host Hotels & Resorts,Aon plc,318
+1497,Host Hotels & Resorts,E-Trade Financial Corp.,314
+1498,Host Hotels & Resorts,Equity Residential,302
+1499,Host Hotels & Resorts,Invesco Ltd.,290
+1500,Host Hotels & Resorts,Boston Properties,279
+1501,Host Hotels & Resorts,SL Green Realty Corp,277
+1502,The Hershey Company,J.M. Smucker Co.,2540
+1503,The Hershey Company,Fifth Third Bancorp,2173
+1504,The Hershey Company,Kellogg Co.,1793
+1505,The Hershey Company,Leggett & Platt,1711
+1506,The Hershey Company,McCormick & Co.,1631
+1507,Humana Inc.,Aetna Inc.,709
+1508,Humana Inc.,Anthem Inc.,654
+1509,Humana Inc.,Aon plc,553
+1510,Humana Inc.,Cigna Corp.,529
+1511,Humana Inc.,Quanta Services Inc.,485
+1512,Humana Inc.,Accenture plc,484
+1513,Humana Inc.,Robert Half International,472
+1514,Humana Inc.,Omnicom Group,465
+1515,IBM Corp.,Moody's Corp,1184
+1516,IBM Corp.,CBRE Group,999
+1517,IBM Corp.,Accenture plc,764
+1518,Intercontinental Exchange,CBRE Group,784
+1519,Intercontinental Exchange,Ameriprise Financial,629
+1520,Intercontinental Exchange,Johnson Controls,516
+1521,Intl Flavors & Fragrances,Moody's Corp,327
+1522,Intl Flavors & Fragrances,CBRE Group,235
+1523,Intl Flavors & Fragrances,Quanta Services Inc.,212
+1524,Illumina Inc,Johnson & Johnson,103
+1525,Illumina Inc,AbbVie Inc.,87
+1526,Illumina Inc,J.M. Smucker Co.,83
+1527,Illumina Inc,"Allergan, Plc",82
+1528,Illumina Inc,Celgene Corp.,77
+1529,Illumina Inc,Merck & Co.,76
+1530,Illumina Inc,Baxalta,71
+1531,Illumina Inc,Bristol-Myers Squibb,69
+1532,Illumina Inc,Edwards Lifesciences,68
+1533,Illumina Inc,Pfizer Inc.,68
+1534,Illumina Inc,Boston Scientific,68
+1535,Illumina Inc,Abbott Laboratories,68
+1536,Illumina Inc,Mead Johnson,65
+1537,Illumina Inc,"St. Jude Medical, Inc.",65
+1538,Illumina Inc,Gilead Sciences,65
+1539,Illumina Inc,Kellogg Co.,65
+1540,Intel Corp.,Nvidia Corp.,110
+1541,Intel Corp.,Moody's Corp,94
+1542,Intel Corp.,Applied Materials Inc.,89
+1543,Intel Corp.,Apple Inc.,79
+1544,Intel Corp.,Tiffany & Co.,74
+1545,Intuit Inc.,Interpublic Group,930
+1546,Intuit Inc.,Omnicom Group,718
+1547,Intuit Inc.,Moody's Corp,632
+1548,Intuit Inc.,Fidelity Nat. Info. Services,618
+1549,Intuit Inc.,Citrix Systems,597
+1550,Intuit Inc.,Aon plc,584
+1551,Intuit Inc.,Akamai Technologies Inc.,561
+1552,International Paper Co.,Ford Motor,765
+1553,International Paper Co.,Nucor Corp.,725
+1554,International Paper Co.,Leggett & Platt,536
+1555,International Paper Co.,Kellogg Co.,519
+1556,International Paper Co.,Valero Energy,502
+1557,International Paper Co.,General Motors,498
+1558,International Paper Co.,Johnson Controls,488
+1559,International Paper Co.,Fifth Third Bancorp,479
+1560,International Paper Co.,McGraw Hill Financial,460
+1561,Interpublic Group,Omnicom Group,6261
+1562,Interpublic Group,McGraw Hill Financial,4223
+1563,Interpublic Group,CBRE Group,3965
+1564,Interpublic Group,Moody's Corp,3867
+1565,Ingersoll-Rand PLC,Accenture plc,305
+1566,Ingersoll-Rand PLC,Reynolds American Inc.,297
+1567,Ingersoll-Rand PLC,The Clorox Company,280
+1568,Ingersoll-Rand PLC,Moody's Corp,250
+1569,Ingersoll-Rand PLC,CBRE Group,215
+1570,Ingersoll-Rand PLC,Quanta Services Inc.,198
+1571,Iron Mountain Inc.,CBRE Group,93
+1572,Iron Mountain Inc.,Equity Residential,84
+1573,Iron Mountain Inc.,The Clorox Company,81
+1574,Iron Mountain Inc.,Allegion,76
+1575,Iron Mountain Inc.,E-Trade Financial Corp.,76
+1576,Iron Mountain Inc.,Accenture plc,60
+1577,Iron Mountain Inc.,Leggett & Platt,60
+1578,Iron Mountain Inc.,BNY Mellon,56
+1579,Intuitive Surgical Inc.,Endo International plc,78
+1580,Intuitive Surgical Inc.,Boston Scientific,76
+1581,Intuitive Surgical Inc.,Edwards Lifesciences,72
+1582,Intuitive Surgical Inc.,"St. Jude Medical, Inc.",71
+1583,Intuitive Surgical Inc.,Vertex Pharmaceuticals Inc.,66
+1584,Intuitive Surgical Inc.,Mallinckrodt plc,65
+1585,Intuitive Surgical Inc.,Johnson & Johnson,64
+1586,Intuitive Surgical Inc.,Zimmer Biomet Holdings,59
+1587,Intuitive Surgical Inc.,McKesson Corp.,57
+1588,Intuitive Surgical Inc.,Universal Health Services,56
+1589,Intuitive Surgical Inc.,"C. R. Bard, Inc",55
+1590,Intuitive Surgical Inc.,Baxter International Inc.,52
+1591,Intuitive Surgical Inc.,Perrigo,51
+1592,Intuitive Surgical Inc.,Merck & Co.,50
+1593,Intuitive Surgical Inc.,Stryker Corp.,48
+1594,Illinois Tool Works,Kellogg Co.,1085
+1595,Illinois Tool Works,Interpublic Group,1051
+1596,Illinois Tool Works,Dover Corp.,952
+1597,Illinois Tool Works,Fifth Third Bancorp,771
+1598,Illinois Tool Works,The Hershey Company,751
+1599,Illinois Tool Works,The Clorox Company,734
+1600,Illinois Tool Works,Aon plc,701
+1601,Invesco Ltd.,Moody's Corp,5373
+1602,Invesco Ltd.,Aon plc,5161
+1603,Invesco Ltd.,McGraw Hill Financial,4789
+1604,Invesco Ltd.,MetLife Inc.,4463
+1605,Invesco Ltd.,Northern Trust Corp.,4355
+1606,Invesco Ltd.,Charles Schwab Corp.,3939
+1607,Invesco Ltd.,NASDAQ OMX Group,3930
+1608,Invesco Ltd.,Omnicom Group,3869
+1609,Invesco Ltd.,CBRE Group,3853
+1610,Invesco Ltd.,Goldman Sachs Group,3670
+1611,Invesco Ltd.,E-Trade Financial Corp.,3554
+1612,Invesco Ltd.,Interpublic Group,3464
+1613,J. B. Hunt Transport Services Inc.,Ryder System,925
+1614,J. B. Hunt Transport Services Inc.,Union Pacific,799
+1615,J. B. Hunt Transport Services Inc.,"United Rentals, Inc.",676
+1616,J. B. Hunt Transport Services Inc.,Norfolk Southern Corp.,666
+1617,J. B. Hunt Transport Services Inc.,Exxon Mobil Corp.,638
+1618,J. B. Hunt Transport Services Inc.,Quanta Services Inc.,636
+1619,J. B. Hunt Transport Services Inc.,United Parcel Service,633
+1620,J. B. Hunt Transport Services Inc.,CSX Corp.,582
+1621,J. B. Hunt Transport Services Inc.,"W. W. Grainger, Inc.",561
+1622,Johnson Controls,CBRE Group,741
+1623,Johnson Controls,Cummins Inc.,700
+1624,Jacobs Engineering Group,Fluor Corp.,667
+1625,Johnson & Johnson,"St. Jude Medical, Inc.",427
+1626,Johnson & Johnson,Merck & Co.,416
+1627,Johnson & Johnson,AbbVie Inc.,408
+1628,Johnson & Johnson,Abbott Laboratories,373
+1629,Johnson & Johnson,Celgene Corp.,373
+1630,Johnson & Johnson,Pfizer Inc.,362
+1631,Johnson & Johnson,Baxalta,340
+1632,Johnson & Johnson,Boston Scientific,337
+1633,Johnson & Johnson,"Zoetis, Inc.",335
+1634,Johnson & Johnson,Gilead Sciences,316
+1635,Johnson & Johnson,Bristol-Myers Squibb,309
+1636,Johnson & Johnson,Edwards Lifesciences,305
+1637,Johnson & Johnson,Amgen Inc.,301
+1638,Johnson & Johnson,Zimmer Biomet Holdings,296
+1639,Johnson & Johnson,"C. R. Bard, Inc",276
+1640,Johnson & Johnson,"Biogen Idec, Inc.",272
+1641,Johnson & Johnson,Endo International plc,270
+1642,Johnson & Johnson,Baxter International Inc.,263
+1643,Juniper Networks,F5 Networks,276
+1644,Juniper Networks,IBM Corp.,218
+1645,Juniper Networks,EMC Corp.,218
+1646,Juniper Networks,Moody's Corp,217
+1647,Juniper Networks,Hewlett-Packard Co,214
+1648,Juniper Networks,Apple Inc.,210
+1649,Juniper Networks,Omnicom Group,184
+1650,Juniper Networks,McGraw Hill Financial,180
+1651,Juniper Networks,Texas Instruments,170
+1652,JPMorgan Chase & Co.,Moody's Corp,3250
+1653,JPMorgan Chase & Co.,Goldman Sachs Group,3109
+1654,JPMorgan Chase & Co.,Northern Trust Corp.,3097
+1655,JPMorgan Chase & Co.,Bank of America Corp.,2695
+1656,JPMorgan Chase & Co.,Morgan Stanley,2618
+1657,JPMorgan Chase & Co.,MetLife Inc.,2467
+1658,JPMorgan Chase & Co.,McGraw Hill Financial,2416
+1659,JPMorgan Chase & Co.,Charles Schwab Corp.,2330
+1660,JPMorgan Chase & Co.,KeyCorp,2302
+1661,JPMorgan Chase & Co.,PNC Financial SVCS Group Inc,2266
+1662,JPMorgan Chase & Co.,Aon plc,2206
+1663,JPMorgan Chase & Co.,E-Trade Financial Corp.,2206
+1664,Nordstrom,Lowe's Cos.,261
+1665,Nordstrom,Omnicom Group,176
+1666,Nordstrom,"W. W. Grainger, Inc.",173
+1667,Nordstrom,Signet Jewelers Limited,160
+1668,Kellogg Co.,Moody's Corp,2442
+1669,Kellogg Co.,CBRE Group,1737
+1670,Kellogg Co.,Johnson Controls,1725
+1671,Kellogg Co.,Nucor Corp.,1648
+1672,Kellogg Co.,FMC Corporation,1606
+1673,Kellogg Co.,Dover Corp.,1576
+1674,Kellogg Co.,The Clorox Company,1532
+1675,KeyCorp,Moody's Corp,3261
+1676,KeyCorp,E-Trade Financial Corp.,2783
+1677,KeyCorp,CBRE Group,2407
+1678,Kraft Heinz Co,Kellogg Co.,415
+1679,Kraft Heinz Co,McCormick & Co.,413
+1680,Kraft Heinz Co,The Hershey Company,304
+1681,Kraft Heinz Co,J.M. Smucker Co.,298
+1682,Kraft Heinz Co,Campbell Soup,276
+1683,Kraft Heinz Co,ConAgra Foods Inc.,260
+1684,Kraft Heinz Co,Procter & Gamble,257
+1685,Kimco Realty,CBRE Group,740
+1686,KLA-Tencor Corp.,Moody's Corp,83
+1687,KLA-Tencor Corp.,Citigroup Inc.,83
+1688,KLA-Tencor Corp.,Applied Materials Inc.,83
+1689,KLA-Tencor Corp.,Tiffany & Co.,76
+1690,KLA-Tencor Corp.,McCormick & Co.,66
+1691,KLA-Tencor Corp.,Kellogg Co.,66
+1692,KLA-Tencor Corp.,Intel Corp.,64
+1693,KLA-Tencor Corp.,FMC Corporation,50
+1694,Kimberly-Clark,Omnicom Group,207
+1695,Kimberly-Clark,Kellogg Co.,185
+1696,Kimberly-Clark,Brown-Forman Corp.,149
+1697,Kimberly-Clark,Moody's Corp,148
+1698,Kimberly-Clark,The Clorox Company,139
+1699,Kinder Morgan,TECO Energy,807
+1700,Kinder Morgan,Williams Companies,685
+1701,Kinder Morgan,AGL Resources Inc.,662
+1702,Kinder Morgan,Quanta Services Inc.,632
+1703,Kinder Morgan,"ONEOK, Inc.",611
+1704,Kinder Morgan,Spectra Energy Corp.,571
+1705,Kinder Morgan,Nucor Corp.,553
+1706,Carmax Inc.,Johnson Controls,384
+1707,Carmax Inc.,CBRE Group,368
+1708,Carmax Inc.,Whole Foods Market,329
+1709,Carmax Inc.,Cummins Inc.,259
+1710,The Coca Cola Co.,The Clorox Company,40
+1711,The Coca Cola Co.,FMC Corporation,36
+1712,The Coca Cola Co.,Brown-Forman Corp.,32
+1713,The Coca Cola Co.,Leggett & Platt,32
+1714,The Coca Cola Co.,Dover Corp.,30
+1715,The Coca Cola Co.,Signet Jewelers Limited,29
+1716,The Coca Cola Co.,Allegion,28
+1717,The Coca Cola Co.,Kellogg Co.,28
+1718,The Coca Cola Co.,"W. W. Grainger, Inc.",25
+1719,The Coca Cola Co.,Whole Foods Market,25
+1720,Michael Kors Holdings,Brown-Forman Corp.,134
+1721,Michael Kors Holdings,The Clorox Company,102
+1722,Michael Kors Holdings,Reynolds American Inc.,96
+1723,Michael Kors Holdings,Accenture plc,92
+1724,Michael Kors Holdings,Whole Foods Market,87
+1725,Kroger Co.,Robert Half International,584
+1726,Kroger Co.,Omnicom Group,555
+1727,Kroger Co.,Kellogg Co.,534
+1728,Kroger Co.,Whole Foods Market,526
+1729,Kroger Co.,AutoZone Inc,390
+1730,Kroger Co.,Yum! Brands Inc.,375
+1731,Kroger Co.,Best Buy Co. Inc.,367
+1732,Kohl's Corp.,"W. W. Grainger, Inc.",1246
+1733,Kohl's Corp.,Best Buy Co. Inc.,1141
+1734,Kohl's Corp.,Signet Jewelers Limited,1089
+1735,Kohl's Corp.,Leggett & Platt,1083
+1736,Kohl's Corp.,McCormick & Co.,1022
+1737,Kohl's Corp.,J.M. Smucker Co.,1003
+1738,Kohl's Corp.,Tiffany & Co.,983
+1739,Kohl's Corp.,Fifth Third Bancorp,933
+1740,Kohl's Corp.,Kellogg Co.,927
+1741,Kohl's Corp.,Delphi Automotive,913
+1742,Kohl's Corp.,Omnicom Group,907
+1743,Kohl's Corp.,Johnson Controls,845
+1744,Kohl's Corp.,Lowe's Cos.,778
+1745,Kohl's Corp.,Citigroup Inc.,776
+1746,Kansas City Southern,Cigna Corp.,50
+1747,Loews Corp.,Quanta Services Inc.,309
+1748,Loews Corp.,TECO Energy,266
+1749,Loews Corp.,Exxon Mobil Corp.,208
+1750,Loews Corp.,Ensco plc,188
+1751,L Brands Inc.,Lowe's Cos.,216
+1752,L Brands Inc.,Macy's Inc.,185
+1753,L Brands Inc.,"W. W. Grainger, Inc.",175
+1754,L Brands Inc.,Tiffany & Co.,164
+1755,L Brands Inc.,Dollar General,154
+1756,L Brands Inc.,Kellogg Co.,135
+1757,Leggett & Platt,Nucor Corp.,2885
+1758,Leggett & Platt,FMC Corporation,2371
+1759,Leggett & Platt,Tiffany & Co.,2098
+1760,Leggett & Platt,Johnson Controls,2097
+1761,Leggett & Platt,Signet Jewelers Limited,2091
+1762,Leggett & Platt,Valero Energy,2048
+1763,Lennar Corp.,CBRE Group,175
+1764,LabCorp,AbbVie Inc.,124
+1765,LabCorp,"St. Jude Medical, Inc.",119
+1766,LabCorp,Celgene Corp.,119
+1767,LabCorp,Bristol-Myers Squibb,108
+1768,LabCorp,"Biogen Idec, Inc.",106
+1769,LabCorp,"Zoetis, Inc.",99
+1770,LabCorp,Cerner,94
+1771,LabCorp,Universal Health Services,93
+1772,LabCorp,Gilead Sciences,91
+1773,LabCorp,McKesson Corp.,86
+1774,LabCorp,Boston Scientific,83
+1775,LabCorp,Anthem Inc.,75
+1776,L-3 Comm's Holdings,General Dynamics,315
+1777,L-3 Comm's Holdings,Lockheed Martin Corp.,268
+1778,L-3 Comm's Holdings,Quanta Services Inc.,204
+1779,L-3 Comm's Holdings,Northrop Grumman Corp.,195
+1780,Linear Technology Corp.,Xilinx Inc.,62
+1781,Eli Lilly and Co.,Johnson & Johnson,357
+1782,Eli Lilly and Co.,AbbVie Inc.,342
+1783,Eli Lilly and Co.,Vertex Pharmaceuticals Inc.,331
+1784,Eli Lilly and Co.,Merck & Co.,319
+1785,Eli Lilly and Co.,Celgene Corp.,316
+1786,Eli Lilly and Co.,Abbott Laboratories,285
+1787,Eli Lilly and Co.,Pfizer Inc.,281
+1788,Eli Lilly and Co.,"St. Jude Medical, Inc.",276
+1789,Eli Lilly and Co.,Amgen Inc.,259
+1790,Eli Lilly and Co.,"Allergan, Plc",255
+1791,Eli Lilly and Co.,"Biogen Idec, Inc.",255
+1792,Eli Lilly and Co.,Bristol-Myers Squibb,249
+1793,Eli Lilly and Co.,Gilead Sciences,248
+1794,Eli Lilly and Co.,"Zoetis, Inc.",226
+1795,Eli Lilly and Co.,Boston Scientific,219
+1796,Eli Lilly and Co.,Endo International plc,217
+1797,Legg Mason,Moody's Corp,1638
+1798,Legg Mason,Ameriprise Financial,1296
+1799,Legg Mason,CBRE Group,1236
+1800,Lockheed Martin Corp.,Fluor Corp.,249
+1801,Lockheed Martin Corp.,Jacobs Engineering Group,171
+1802,Lockheed Martin Corp.,Accenture plc,168
+1803,Lockheed Martin Corp.,Cerner,157
+1804,Lincoln National,MetLife Inc.,2870
+1805,Lincoln National,Principal Financial Group,2765
+1806,Lincoln National,Moody's Corp,2432
+1807,Lincoln National,AFLAC Inc.,2321
+1808,Lincoln National,McGraw Hill Financial,2319
+1809,Lincoln National,Fifth Third Bancorp,2165
+1810,Lincoln National,Northern Trust Corp.,2130
+1811,Lincoln National,Aon plc,1945
+1812,Lincoln National,Goldman Sachs Group,1933
+1813,Lincoln National,CBRE Group,1881
+1814,Lincoln National,Ameriprise Financial,1870
+1815,Lowe's Cos.,Whole Foods Market,709
+1816,Lowe's Cos.,Moody's Corp,685
+1817,Lowe's Cos.,Advance Auto Parts Inc,654
+1818,Lowe's Cos.,Kellogg Co.,610
+1819,Lowe's Cos.,Signet Jewelers Limited,574
+1820,Lowe's Cos.,Carmax Inc.,558
+1821,Lowe's Cos.,Genuine Parts,556
+1822,Lowe's Cos.,Tiffany & Co.,525
+1823,Lowe's Cos.,Johnson Controls,491
+1824,Lowe's Cos.,Ford Motor,484
+1825,Lowe's Cos.,Ryder System,432
+1826,Lowe's Cos.,Dollar General,428
+1827,Lam Research,Applied Materials Inc.,15
+1828,Lam Research,KLA-Tencor Corp.,12
+1829,Lam Research,Interpublic Group,12
+1830,Leucadia National Corp.,CBRE Group,1211
+1831,Leucadia National Corp.,Moody's Corp,1014
+1832,Leucadia National Corp.,BNY Mellon,824
+1833,Leucadia National Corp.,E-Trade Financial Corp.,806
+1834,Southwest Airlines,Delta Air Lines,557
+1835,Southwest Airlines,FedEx Corporation,497
+1836,Southwest Airlines,American Airlines Group,450
+1837,Southwest Airlines,United Parcel Service,447
+1838,Southwest Airlines,Union Pacific,358
+1839,Southwest Airlines,Ryder System,338
+1840,Level 3 Comm's,CBRE Group,228
+1841,Level 3 Comm's,CSX Corp.,199
+1842,Level 3 Comm's,Kansas City Southern,173
+1843,Level 3 Comm's,Frontier Communications,160
+1844,LyondellBasell,FMC Corporation,1690
+1845,LyondellBasell,Nucor Corp.,1592
+1846,LyondellBasell,Valero Energy,1444
+1847,LyondellBasell,Leggett & Platt,1312
+1848,LyondellBasell,J.M. Smucker Co.,1297
+1849,LyondellBasell,Citigroup Inc.,1154
+1850,LyondellBasell,Fifth Third Bancorp,1022
+1851,Macy's Inc.,CBRE Group,420
+1852,Macy's Inc.,Moody's Corp,369
+1853,Macy's Inc.,Tiffany & Co.,269
+1854,Macy's Inc.,Whole Foods Market,264
+1855,Macy's Inc.,Signet Jewelers Limited,259
+1856,Mastercard Inc.,Moody's Corp,543
+1857,Mastercard Inc.,Fidelity Nat. Info. Services,492
+1858,Mastercard Inc.,Omnicom Group,459
+1859,Mastercard Inc.,Western Union Co.,407
+1860,Mastercard Inc.,Aon plc,403
+1861,Mastercard Inc.,PayPal Holdings Inc.,358
+1862,Mastercard Inc.,McGraw Hill Financial,344
+1863,Mastercard Inc.,Total System Services,332
+1864,Mastercard Inc.,Alliance Data Systems Corp.,330
+1865,Macerich,Essex Property Trust Inc,1223
+1866,Macerich,General Growth Properties,1090
+1867,Macerich,Vornado Realty Trust,817
+1868,Macerich,E-Trade Financial Corp.,801
+1869,Macerich,Aon plc,800
+1870,Macerich,Fifth Third Bancorp,788
+1871,Macerich,CBRE Group,765
+1872,Macerich,Boston Properties,748
+1873,Marriott Int'l.,Whole Foods Market,56
+1874,Marriott Int'l.,CBRE Group,53
+1875,Masco Corp.,Kellogg Co.,228
+1876,Masco Corp.,Fifth Third Bancorp,224
+1877,Masco Corp.,Omnicom Group,188
+1878,Masco Corp.,J.M. Smucker Co.,168
+1879,Masco Corp.,Interpublic Group,165
+1880,Masco Corp.,"W. W. Grainger, Inc.",165
+1881,Masco Corp.,Affiliated Managers Group,150
+1882,Masco Corp.,McCormick & Co.,143
+1883,Masco Corp.,Best Buy Co. Inc.,138
+1884,Masco Corp.,Aon plc,137
+1885,Mattel Inc.,Leggett & Platt,334
+1886,Mattel Inc.,Omnicom Group,326
+1887,Mattel Inc.,"W. W. Grainger, Inc.",318
+1888,Mattel Inc.,Interpublic Group,305
+1889,Mattel Inc.,Signet Jewelers Limited,301
+1890,Mattel Inc.,Tiffany & Co.,239
+1891,Mattel Inc.,McCormick & Co.,227
+1892,Mattel Inc.,The Clorox Company,222
+1893,Mattel Inc.,Best Buy Co. Inc.,218
+1894,Mattel Inc.,Johnson Controls,207
+1895,Mattel Inc.,Kellogg Co.,206
+1896,McDonald's Corp.,Kellogg Co.,829
+1897,McDonald's Corp.,Omnicom Group,720
+1898,Microchip Technology,Fifth Third Bancorp,321
+1899,Microchip Technology,Texas Instruments,299
+1900,Microchip Technology,McCormick & Co.,285
+1901,Microchip Technology,Leggett & Platt,271
+1902,Microchip Technology,Kellogg Co.,242
+1903,Microchip Technology,FMC Corporation,242
+1904,Microchip Technology,Nucor Corp.,227
+1905,Microchip Technology,Citigroup Inc.,199
+1906,McKesson Corp.,Moody's Corp,1321
+1907,McKesson Corp.,Kellogg Co.,1158
+1908,McKesson Corp.,Cerner,1137
+1909,McKesson Corp.,CBRE Group,922
+1910,McKesson Corp.,Exxon Mobil Corp.,813
+1911,McKesson Corp.,Quanta Services Inc.,804
+1912,Moody's Corp,CBRE Group,4905
+1913,Mondelez Int'l,Brown-Forman Corp.,559
+1914,Mondelez Int'l,Dover Corp.,521
+1915,Mondelez Int'l,Moody's Corp,413
+1916,Mondelez Int'l,CBRE Group,373
+1917,Medtronic Inc.,Boston Scientific,147
+1918,Medtronic Inc.,"St. Jude Medical, Inc.",141
+1919,Medtronic Inc.,"C. R. Bard, Inc",132
+1920,Medtronic Inc.,Edwards Lifesciences,123
+1921,Medtronic Inc.,Johnson & Johnson,112
+1922,Medtronic Inc.,Zimmer Biomet Holdings,103
+1923,Medtronic Inc.,Merck & Co.,94
+1924,MetLife Inc.,Moody's Corp,5261
+1925,MetLife Inc.,Principal Financial Group,4339
+1926,MetLife Inc.,Northern Trust Corp.,4275
+1927,MetLife Inc.,Charles Schwab Corp.,3854
+1928,MetLife Inc.,McGraw Hill Financial,3815
+1929,MetLife Inc.,AFLAC Inc.,3812
+1930,MetLife Inc.,CBRE Group,3805
+1931,MetLife Inc.,E-Trade Financial Corp.,3584
+1932,MetLife Inc.,Omnicom Group,3396
+1933,Mohawk Industries,CBRE Group,55
+1934,Mohawk Industries,WestRock Company,50
+1935,Mohawk Industries,Procter & Gamble,48
+1936,Mohawk Industries,Marsh & McLennan,47
+1937,Mohawk Industries,Accenture plc,46
+1938,Mohawk Industries,Omnicom Group,45
+1939,Mohawk Industries,Kellogg Co.,44
+1940,Mohawk Industries,Cisco Systems,43
+1941,Mohawk Industries,Aon plc,40
+1942,Mohawk Industries,Interpublic Group,40
+1943,Mohawk Industries,Masco Corp.,38
+1944,Mohawk Industries,Genuine Parts,37
+1945,Mohawk Industries,Allegion,36
+1946,Mohawk Industries,Invesco Ltd.,34
+1947,Mohawk Industries,Owens-Illinois Inc.,34
+1948,Mead Johnson,Kellogg Co.,779
+1949,Mead Johnson,McCormick & Co.,721
+1950,Mead Johnson,Omnicom Group,622
+1951,Mead Johnson,Moody's Corp,528
+1952,Mead Johnson,FMC Corporation,513
+1953,Mead Johnson,J.M. Smucker Co.,474
+1954,McCormick & Co.,Kellogg Co.,3567
+1955,McCormick & Co.,Omnicom Group,2222
+1956,McCormick & Co.,Moody's Corp,2171
+1957,Martin Marietta Materials,Nucor Corp.,1762
+1958,Martin Marietta Materials,FMC Corporation,1246
+1959,Marsh & McLennan,Aon plc,7446
+1960,Marsh & McLennan,Omnicom Group,6084
+1961,Marsh & McLennan,Moody's Corp,5567
+1962,Marsh & McLennan,McGraw Hill Financial,5271
+1963,Marsh & McLennan,Interpublic Group,4904
+1964,Marsh & McLennan,CBRE Group,4780
+1965,Marsh & McLennan,Invesco Ltd.,4657
+1966,3M Company,Emerson Electric Co,26
+1967,3M Company,CBRE Group,21
+1968,3M Company,Xilinx Inc.,21
+1969,3M Company,Moody's Corp,20
+1970,3M Company,Cerner,17
+1971,Mallinckrodt plc,Endo International plc,613
+1972,Mallinckrodt plc,Baxalta,526
+1973,Mallinckrodt plc,AbbVie Inc.,429
+1974,Mallinckrodt plc,Vertex Pharmaceuticals Inc.,380
+1975,Mallinckrodt plc,"Allergan, Plc",375
+1976,Mallinckrodt plc,Johnson & Johnson,372
+1977,Monster Beverage,Kellogg Co.,73
+1978,Monster Beverage,Campbell Soup,72
+1979,Monster Beverage,The Clorox Company,70
+1980,Monster Beverage,ConAgra Foods Inc.,52
+1981,Monster Beverage,Keurig Green Mountain,48
+1982,Monster Beverage,McDonald's Corp.,44
+1983,Altria Group Inc.,Reynolds American Inc.,225
+1984,Altria Group Inc.,Accenture plc,161
+1985,Monsanto Co.,Moody's Corp,47
+1986,Monsanto Co.,Intl Flavors & Fragrances,41
+1987,Monsanto Co.,FMC Corporation,41
+1988,Monsanto Co.,McCormick & Co.,36
+1989,Monsanto Co.,TECO Energy,36
+1990,Monsanto Co.,Citrix Systems,34
+1991,Monsanto Co.,ADT Corp.,33
+1992,Monsanto Co.,Texas Instruments,33
+1993,Monsanto Co.,Zimmer Biomet Holdings,33
+1994,Monsanto Co.,Waters Corp.,31
+1995,Monsanto Co.,Pepco Holdings Inc.,31
+1996,Monsanto Co.,Red Hat Inc.,30
+1997,Monsanto Co.,Xylem Inc.,30
+1998,Monsanto Co.,Exxon Mobil Corp.,30
+1999,Monsanto Co.,Tesoro Petroleum Co.,30
+2000,Monsanto Co.,J.M. Smucker Co.,30
+2001,Monsanto Co.,Teradata Corp.,29
+2002,The Mosaic Co.,TECO Energy,97
+2003,The Mosaic Co.,Freeport-McMoRan Inc.,84
+2004,The Mosaic Co.,Valero Energy,74
+2005,The Mosaic Co.,Nucor Corp.,69
+2006,The Mosaic Co.,FMC Corporation,69
+2007,Marathon Petroleum,Valero Energy,1731
+2008,Marathon Petroleum,Tesoro Petroleum Co.,1302
+2009,Marathon Petroleum,J.M. Smucker Co.,1223
+2010,Marathon Petroleum,FMC Corporation,1143
+2011,Marathon Petroleum,Phillips 66,1098
+2012,Marathon Petroleum,TECO Energy,1074
+2013,Marathon Petroleum,Nucor Corp.,1040
+2014,Merck & Co.,AbbVie Inc.,347
+2015,Merck & Co.,Celgene Corp.,333
+2016,Merck & Co.,"St. Jude Medical, Inc.",326
+2017,Merck & Co.,Pfizer Inc.,303
+2018,Merck & Co.,Abbott Laboratories,292
+2019,Merck & Co.,Bristol-Myers Squibb,283
+2020,Merck & Co.,Amgen Inc.,279
+2021,Merck & Co.,Boston Scientific,271
+2022,Merck & Co.,"Biogen Idec, Inc.",259
+2023,Merck & Co.,"Zoetis, Inc.",254
+2024,Merck & Co.,Gilead Sciences,245
+2025,Merck & Co.,Endo International plc,225
+2026,Merck & Co.,"C. R. Bard, Inc",211
+2027,Marathon Oil Corp.,Chevron Corp.,376
+2028,Marathon Oil Corp.,Hess Corporation,344
+2029,Marathon Oil Corp.,Kinder Morgan,325
+2030,Marathon Oil Corp.,Phillips 66,316
+2031,Marathon Oil Corp.,Southwestern Energy,311
+2032,Marathon Oil Corp.,Exxon Mobil Corp.,311
+2033,Marathon Oil Corp.,EQT Corporation,307
+2034,Marathon Oil Corp.,EOG Resources,284
+2035,Marathon Oil Corp.,Chesapeake Energy,284
+2036,Marathon Oil Corp.,Tesoro Petroleum Co.,258
+2037,Marathon Oil Corp.,Valero Energy,254
+2038,Marathon Oil Corp.,Spectra Energy Corp.,236
+2039,Marathon Oil Corp.,"W. W. Grainger, Inc.",229
+2040,Morgan Stanley,Moody's Corp,3164
+2041,Morgan Stanley,Northern Trust Corp.,3021
+2042,Morgan Stanley,McGraw Hill Financial,2807
+2043,Morgan Stanley,Charles Schwab Corp.,2707
+2044,Morgan Stanley,MetLife Inc.,2501
+2045,Morgan Stanley,E-Trade Financial Corp.,2389
+2046,Morgan Stanley,CBRE Group,2386
+2047,Morgan Stanley,KeyCorp,2365
+2048,Morgan Stanley,Omnicom Group,2001
+2049,Microsoft Corp.,Citrix Systems,584
+2050,Microsoft Corp.,Interpublic Group,555
+2051,Microsoft Corp.,Intuit Inc.,513
+2052,Microsoft Corp.,"Facebook, Inc.",503
+2053,Microsoft Corp.,Apple Inc.,495
+2054,Microsoft Corp.,Omnicom Group,489
+2055,Microsoft Corp.,IBM Corp.,481
+2056,Microsoft Corp.,Yahoo Inc.,475
+2057,Microsoft Corp.,Moody's Corp,474
+2058,Microsoft Corp.,Akamai Technologies Inc.,450
+2059,Microsoft Corp.,Adobe Systems Inc.,420
+2060,Motorola Solutions Inc.,Omnicom Group,741
+2061,Motorola Solutions Inc.,Accenture plc,584
+2062,Motorola Solutions Inc.,Quanta Services Inc.,568
+2063,Motorola Solutions Inc.,McGraw Hill Financial,537
+2064,Motorola Solutions Inc.,"W. W. Grainger, Inc.",537
+2065,Motorola Solutions Inc.,Moody's Corp,535
+2066,Motorola Solutions Inc.,CenturyLink Inc.,471
+2067,Motorola Solutions Inc.,Ryder System,455
+2068,Motorola Solutions Inc.,CBRE Group,447
+2069,M&T Bank Corp.,E-Trade Financial Corp.,872
+2070,M&T Bank Corp.,KeyCorp,770
+2071,M&T Bank Corp.,Northern Trust Corp.,737
+2072,M&T Bank Corp.,Regions Financial Corp.,722
+2073,M&T Bank Corp.,BB&T Corp.,651
+2074,M&T Bank Corp.,PNC Financial SVCS Group Inc,650
+2075,M&T Bank Corp.,MetLife Inc.,613
+2076,M&T Bank Corp.,Huntington Bancshares,606
+2077,M&T Bank Corp.,Bank of America Corp.,599
+2078,M&T Bank Corp.,Charles Schwab Corp.,596
+2079,M&T Bank Corp.,Goldman Sachs Group,574
+2080,M&T Bank Corp.,Zions Bancorp,573
+2081,M&T Bank Corp.,Moody's Corp,564
+2082,M&T Bank Corp.,Morgan Stanley,526
+2083,Micron Technology,Ford Motor,9
+2084,Micron Technology,Applied Materials Inc.,8
+2085,Micron Technology,Moody's Corp,6
+2086,Micron Technology,Autodesk Inc.,6
+2087,Micron Technology,CBRE Group,6
+2088,Murphy Oil,Chevron Corp.,665
+2089,Murphy Oil,ConocoPhillips,621
+2090,Murphy Oil,Leggett & Platt,575
+2091,Murphy Oil,Valero Energy,558
+2092,Murphy Oil,Nucor Corp.,524
+2093,Murphy Oil,TECO Energy,491
+2094,Murphy Oil,Phillips 66,485
+2095,Murphy Oil,Hess Corporation,474
+2096,Murphy Oil,Tesoro Petroleum Co.,404
+2097,Mylan Inc.,Endo International plc,293
+2098,Mylan Inc.,AbbVie Inc.,292
+2099,Mylan Inc.,Pfizer Inc.,237
+2100,Mylan Inc.,Omnicom Group,232
+2101,Mylan Inc.,Vertex Pharmaceuticals Inc.,227
+2102,Mylan Inc.,Perrigo,223
+2103,Mylan Inc.,Johnson & Johnson,210
+2104,Mylan Inc.,Moody's Corp,206
+2105,Mylan Inc.,Celgene Corp.,206
+2106,Mylan Inc.,Gilead Sciences,200
+2107,Mylan Inc.,Eli Lilly and Co.,196
+2108,Mylan Inc.,Baxalta,188
+2109,Mylan Inc.,Marsh & McLennan,187
+2110,Mylan Inc.,"Allergan, Plc",186
+2111,Mylan Inc.,Merck & Co.,177
+2112,Navient,Moody's Corp,1418
+2113,Navient,E-Trade Financial Corp.,1108
+2114,Navient,CBRE Group,1031
+2115,Navient,Aon plc,983
+2116,Navient,MetLife Inc.,983
+2117,Navient,Fifth Third Bancorp,934
+2118,Navient,Omnicom Group,916
+2119,Navient,McGraw Hill Financial,906
+2120,NASDAQ OMX Group,McGraw Hill Financial,3968
+2121,NASDAQ OMX Group,Moody's Corp,3660
+2122,NASDAQ OMX Group,Aon plc,3184
+2123,NASDAQ OMX Group,Goldman Sachs Group,2797
+2124,NASDAQ OMX Group,Fifth Third Bancorp,2762
+2125,NASDAQ OMX Group,Northern Trust Corp.,2728
+2126,NASDAQ OMX Group,Charles Schwab Corp.,2571
+2127,NASDAQ OMX Group,MetLife Inc.,2545
+2128,NASDAQ OMX Group,Omnicom Group,2457
+2129,NextEra Energy,SCANA Corp.,282
+2130,NextEra Energy,PPL Corp.,250
+2131,NextEra Energy,NiSource Inc.,248
+2132,NextEra Energy,TECO Energy,247
+2133,NextEra Energy,American Electric Power,238
+2134,NextEra Energy,Exxon Mobil Corp.,228
+2135,NextEra Energy,PG&E Corp.,221
+2136,NextEra Energy,Pepco Holdings Inc.,211
+2137,NextEra Energy,Consolidated Edison,202
+2138,NextEra Energy,AGL Resources Inc.,197
+2139,NextEra Energy,Quanta Services Inc.,195
+2140,NextEra Energy,Edison Int'l,177
+2141,NextEra Energy,DTE Energy Co.,176
+2142,Newmont Mining Corp.,Freeport-McMoRan Inc.,276
+2143,Netflix Inc.,Interpublic Group,700
+2144,Netflix Inc.,Omnicom Group,623
+2145,Netflix Inc.,Yahoo Inc.,607
+2146,Netflix Inc.,Akamai Technologies Inc.,565
+2147,Netflix Inc.,Intuit Inc.,519
+2148,Netflix Inc.,Apple Inc.,486
+2149,Netflix Inc.,Best Buy Co. Inc.,483
+2150,Netflix Inc.,"Facebook, Inc.",451
+2151,Netflix Inc.,Moody's Corp,436
+2152,Netflix Inc.,Viacom Inc.,421
+2153,Newfield Exploration Co.,Cabot Oil & Gas,172
+2154,Newfield Exploration Co.,Chesapeake Energy,165
+2155,Newfield Exploration Co.,EQT Corporation,156
+2156,Newfield Exploration Co.,Murphy Oil,146
+2157,Newfield Exploration Co.,Pioneer Natural Resources,145
+2158,Newfield Exploration Co.,Apache Corporation,145
+2159,Newfield Exploration Co.,Marathon Oil Corp.,140
+2160,Newfield Exploration Co.,EOG Resources,139
+2161,Newfield Exploration Co.,Kinder Morgan,136
+2162,Newfield Exploration Co.,Exxon Mobil Corp.,136
+2163,Newfield Exploration Co.,Southwestern Energy,135
+2164,Newfield Exploration Co.,Chevron Corp.,133
+2165,Newfield Exploration Co.,ConocoPhillips,131
+2166,Newfield Exploration Co.,Hess Corporation,130
+2167,Newfield Exploration Co.,Noble Energy Inc.,117
+2168,NiSource Inc.,Moody's Corp,627
+2169,NiSource Inc.,Omnicom Group,525
+2170,NiSource Inc.,CBRE Group,513
+2171,NiSource Inc.,Pepco Holdings Inc.,495
+2172,NiSource Inc.,Exxon Mobil Corp.,473
+2173,NiSource Inc.,BNY Mellon,438
+2174,NiSource Inc.,E-Trade Financial Corp.,432
+2175,"Nike, Inc.",Tiffany & Co.,14
+2176,"Nike, Inc.",Signet Jewelers Limited,12
+2177,"Nike, Inc.",Macy's Inc.,12
+2178,"Nike, Inc.",Advance Auto Parts Inc,10
+2179,"Nike, Inc.",Genuine Parts,10
+2180,"Nike, Inc.",Carmax Inc.,10
+2181,"Nike, Inc.",Moody's Corp,9
+2182,"Nike, Inc.",Whole Foods Market,9
+2183,Nielsen Holdings,Omnicom Group,688
+2184,Nielsen Holdings,Yahoo Inc.,677
+2185,Nielsen Holdings,Fifth Third Bancorp,634
+2186,Nielsen Holdings,Interpublic Group,629
+2187,Nielsen Holdings,Moody's Corp,611
+2188,Nielsen Holdings,Citigroup Inc.,521
+2189,Nielsen Holdings,McGraw Hill Financial,443
+2190,Nielsen Holdings,Procter & Gamble,427
+2191,Nielsen Holdings,Leggett & Platt,414
+2192,Northrop Grumman Corp.,Lockheed Martin Corp.,253
+2193,Northrop Grumman Corp.,General Dynamics,231
+2194,Northrop Grumman Corp.,Quanta Services Inc.,223
+2195,Northrop Grumman Corp.,Fluor Corp.,181
+2196,National Oilwell Varco Inc.,Quanta Services Inc.,86
+2197,National Oilwell Varco Inc.,Schlumberger Ltd.,85
+2198,National Oilwell Varco Inc.,Transocean,75
+2199,National Oilwell Varco Inc.,Hess Corporation,70
+2200,National Oilwell Varco Inc.,Exxon Mobil Corp.,64
+2201,National Oilwell Varco Inc.,"United Rentals, Inc.",62
+2202,National Oilwell Varco Inc.,Sempra Energy,54
+2203,NRG Energy,SCANA Corp.,310
+2204,NRG Energy,TECO Energy,287
+2205,NRG Energy,Southern Co.,249
+2206,NRG Energy,Xcel Energy Inc.,246
+2207,NRG Energy,Exelon Corp.,244
+2208,NRG Energy,Exxon Mobil Corp.,238
+2209,NRG Energy,American Electric Power,226
+2210,NRG Energy,Public Serv. Enterprise Inc.,225
+2211,NRG Energy,NextEra Energy,205
+2212,NRG Energy,Dominion Resources,204
+2213,NRG Energy,Quanta Services Inc.,196
+2214,NRG Energy,PPL Corp.,193
+2215,NRG Energy,Consolidated Edison,190
+2216,NRG Energy,AGL Resources Inc.,190
+2217,Norfolk Southern Corp.,Union Pacific,1234
+2218,Norfolk Southern Corp.,CSX Corp.,935
+2219,NetApp,McGraw Hill Financial,217
+2220,NetApp,Moody's Corp,198
+2221,NetApp,Cisco Systems,180
+2222,NetApp,IBM Corp.,168
+2223,NetApp,Marsh & McLennan,159
+2224,NetApp,F5 Networks,149
+2225,NetApp,Aon plc,145
+2226,NetApp,Citrix Systems,140
+2227,NetApp,Red Hat Inc.,140
+2228,Northern Trust Corp.,Moody's Corp,5899
+2229,Northern Trust Corp.,PNC Financial SVCS Group Inc,3890
+2230,Northern Trust Corp.,CBRE Group,3693
+2231,Nucor Corp.,FMC Corporation,2711
+2232,Nucor Corp.,Johnson Controls,2055
+2233,Nucor Corp.,Moody's Corp,2054
+2234,Nvidia Corp.,Apple Inc.,135
+2235,Nvidia Corp.,IBM Corp.,99
+2236,Nvidia Corp.,Xilinx Inc.,95
+2237,Nvidia Corp.,Autodesk Inc.,94
+2238,Nvidia Corp.,Moody's Corp,85
+2239,Nvidia Corp.,Adobe Systems Inc.,82
+2240,Newell Rubbermaid Co.,Interpublic Group,2580
+2241,Newell Rubbermaid Co.,Fifth Third Bancorp,2202
+2242,Newell Rubbermaid Co.,Omnicom Group,2069
+2243,Newell Rubbermaid Co.,Kellogg Co.,2068
+2244,Newell Rubbermaid Co.,Aon plc,2065
+2245,Newell Rubbermaid Co.,Procter & Gamble,2017
+2246,Newell Rubbermaid Co.,The Clorox Company,1680
+2247,Newell Rubbermaid Co.,Cisco Systems,1658
+2248,Newell Rubbermaid Co.,CBRE Group,1658
+2249,Newell Rubbermaid Co.,WestRock Company,1635
+2250,News Corp Class B,News Corporation,508
+2251,News Corp Class B,Yahoo Inc.,349
+2252,News Corporation,Yahoo Inc.,504
+2253,News Corporation,Moody's Corp,418
+2254,News Corporation,Omnicom Group,401
+2255,News Corporation,Alphabet Inc. Class A,309
+2256,Realty Income Corporation,CBRE Group,569
+2257,Realty Income Corporation,E-Trade Financial Corp.,513
+2258,Realty Income Corporation,Equity Residential,444
+2259,Realty Income Corporation,BNY Mellon,352
+2260,Owens-Illinois Inc.,Kellogg Co.,368
+2261,Owens-Illinois Inc.,Omnicom Group,358
+2262,Owens-Illinois Inc.,The Clorox Company,341
+2263,Owens-Illinois Inc.,CBRE Group,313
+2264,Owens-Illinois Inc.,Dover Corp.,245
+2265,"ONEOK, Inc.",CBRE Group,204
+2266,Omnicom Group,Moody's Corp,6491
+2267,Omnicom Group,CBRE Group,5188
+2268,Oracle Corp.,IBM Corp.,156
+2269,Oracle Corp.,Hewlett-Packard Co,153
+2270,Oracle Corp.,"CA, Inc.",147
+2271,Oracle Corp.,EMC Corp.,123
+2272,Oracle Corp.,Accenture plc,107
+2273,Oracle Corp.,Autodesk Inc.,105
+2274,Oracle Corp.,McGraw Hill Financial,101
+2275,O'Reilly Automotive,AutoZone Inc,631
+2276,O'Reilly Automotive,Advance Auto Parts Inc,603
+2277,O'Reilly Automotive,Lowe's Cos.,598
+2278,O'Reilly Automotive,Tractor Supply Co.,582
+2279,O'Reilly Automotive,"United Rentals, Inc.",561
+2280,O'Reilly Automotive,Best Buy Co. Inc.,527
+2281,O'Reilly Automotive,Omnicom Group,450
+2282,O'Reilly Automotive,Interpublic Group,444
+2283,O'Reilly Automotive,"W. W. Grainger, Inc.",422
+2284,O'Reilly Automotive,Carmax Inc.,416
+2285,O'Reilly Automotive,Signet Jewelers Limited,410
+2286,O'Reilly Automotive,Whole Foods Market,396
+2287,O'Reilly Automotive,AutoNation Inc.,382
+2288,Occidental Petroleum,Kinder Morgan,320
+2289,Occidental Petroleum,Chevron Corp.,278
+2290,Occidental Petroleum,TECO Energy,233
+2291,Occidental Petroleum,Valero Energy,220
+2292,Occidental Petroleum,Spectra Energy Corp.,220
+2293,Occidental Petroleum,Williams Companies,208
+2294,Paychex Inc.,Accenture plc,577
+2295,Paychex Inc.,CBRE Group,452
+2296,Paychex Inc.,Fiserv Inc,431
+2297,People's United Bank,E-Trade Financial Corp.,1215
+2298,People's United Bank,Moody's Corp,961
+2299,People's United Bank,KeyCorp,809
+2300,People's United Bank,CBRE Group,805
+2301,People's United Bank,BNY Mellon,747
+2302,Pitney-Bowes,Omnicom Group,465
+2303,Pitney-Bowes,Interpublic Group,413
+2304,Pitney-Bowes,Fiserv Inc,364
+2305,Pitney-Bowes,McGraw Hill Financial,357
+2306,Pitney-Bowes,Dun & Bradstreet,338
+2307,Pitney-Bowes,Moody's Corp,288
+2308,Pitney-Bowes,Best Buy Co. Inc.,283
+2309,Pitney-Bowes,"W. W. Grainger, Inc.",282
+2310,PACCAR Inc.,Fifth Third Bancorp,3848
+2311,PACCAR Inc.,Delphi Automotive,3295
+2312,PACCAR Inc.,Fastenal Co.,3287
+2313,PACCAR Inc.,Citigroup Inc.,3195
+2314,PACCAR Inc.,J.M. Smucker Co.,2934
+2315,PACCAR Inc.,FMC Corporation,2667
+2316,PACCAR Inc.,Leggett & Platt,2579
+2317,PACCAR Inc.,Moody's Corp,2547
+2318,PACCAR Inc.,Nucor Corp.,2526
+2319,PACCAR Inc.,Valero Energy,2407
+2320,PG&E Corp.,TECO Energy,441
+2321,PG&E Corp.,Moody's Corp,365
+2322,PG&E Corp.,CSX Corp.,293
+2323,Plum Creek Timber Co.,TECO Energy,17
+2324,Plum Creek Timber Co.,Sempra Energy,15
+2325,Plum Creek Timber Co.,Schlumberger Ltd.,15
+2326,Plum Creek Timber Co.,Freeport-McMoRan Inc.,14
+2327,Plum Creek Timber Co.,Kinder Morgan,12
+2328,Plum Creek Timber Co.,Weyerhaeuser Corp.,12
+2329,Plum Creek Timber Co.,Cabot Oil & Gas,11
+2330,Priceline.com Inc,TripAdvisor,192
+2331,Priceline.com Inc,Moody's Corp,164
+2332,Priceline.com Inc,Expedia Inc.,157
+2333,Priceline.com Inc,Omnicom Group,155
+2334,Priceline.com Inc,Interpublic Group,120
+2335,Precision Castparts,Quanta Services Inc.,94
+2336,Precision Castparts,Fluor Corp.,84
+2337,Patterson Companies,"W. W. Grainger, Inc.",91
+2338,Patterson Companies,Signet Jewelers Limited,67
+2339,Patterson Companies,Lowe's Cos.,58
+2340,Public Serv. Enterprise Inc.,Exelon Corp.,462
+2341,Public Serv. Enterprise Inc.,Pepco Holdings Inc.,405
+2342,Public Serv. Enterprise Inc.,PG&E Corp.,389
+2343,Public Serv. Enterprise Inc.,Consolidated Edison,342
+2344,Public Serv. Enterprise Inc.,TECO Energy,338
+2345,Public Serv. Enterprise Inc.,Edison Int'l,335
+2346,Public Serv. Enterprise Inc.,Quanta Services Inc.,329
+2347,Public Serv. Enterprise Inc.,PPL Corp.,328
+2348,Public Serv. Enterprise Inc.,Moody's Corp,319
+2349,PepsiCo Inc.,McCormick & Co.,171
+2350,PepsiCo Inc.,Kellogg Co.,167
+2351,PepsiCo Inc.,Campbell Soup,157
+2352,PepsiCo Inc.,ConAgra Foods Inc.,145
+2353,PepsiCo Inc.,Procter & Gamble,132
+2354,PepsiCo Inc.,J.M. Smucker Co.,128
+2355,PepsiCo Inc.,Mondelez Int'l,127
+2356,PepsiCo Inc.,The Hershey Company,120
+2357,PepsiCo Inc.,The Clorox Company,120
+2358,PepsiCo Inc.,McDonald's Corp.,119
+2359,PepsiCo Inc.,Colgate-Palmolive,118
+2360,PepsiCo Inc.,Brown-Forman Corp.,113
+2361,Pfizer Inc.,McKesson Corp.,423
+2362,Pfizer Inc.,AbbVie Inc.,394
+2363,Pfizer Inc.,Omnicom Group,353
+2364,Pfizer Inc.,Endo International plc,317
+2365,Pfizer Inc.,Cerner,298
+2366,Pfizer Inc.,Celgene Corp.,298
+2367,Pfizer Inc.,Boston Scientific,278
+2368,Pfizer Inc.,Bristol-Myers Squibb,275
+2369,Pfizer Inc.,"St. Jude Medical, Inc.",275
+2370,Pfizer Inc.,Moody's Corp,263
+2371,Principal Financial Group,Moody's Corp,3645
+2372,Principal Financial Group,Northern Trust Corp.,3155
+2373,Principal Financial Group,McGraw Hill Financial,3060
+2374,Principal Financial Group,AFLAC Inc.,2990
+2375,Principal Financial Group,CBRE Group,2845
+2376,Principal Financial Group,Ameriprise Financial,2623
+2377,Principal Financial Group,PNC Financial SVCS Group Inc,2297
+2378,Procter & Gamble,Fifth Third Bancorp,2713
+2379,Procter & Gamble,Omnicom Group,2515
+2380,Procter & Gamble,Kellogg Co.,2491
+2381,Procter & Gamble,Interpublic Group,2371
+2382,Procter & Gamble,Leggett & Platt,2272
+2383,Procter & Gamble,McCormick & Co.,2155
+2384,Procter & Gamble,The Clorox Company,2124
+2385,Procter & Gamble,J.M. Smucker Co.,2011
+2386,Procter & Gamble,McGraw Hill Financial,2009
+2387,Procter & Gamble,Citigroup Inc.,1951
+2388,Procter & Gamble,The Hershey Company,1903
+2389,Procter & Gamble,Moody's Corp,1845
+2390,Procter & Gamble,Aon plc,1776
+2391,Progressive Corp.,MetLife Inc.,309
+2392,Progressive Corp.,AFLAC Inc.,199
+2393,Progressive Corp.,Principal Financial Group,189
+2394,Parker-Hannifin,Exxon Mobil Corp.,298
+2395,Parker-Hannifin,Delphi Automotive,293
+2396,Parker-Hannifin,Union Pacific,276
+2397,Parker-Hannifin,PACCAR Inc.,275
+2398,Parker-Hannifin,Ryder System,271
+2399,Parker-Hannifin,BorgWarner Inc,255
+2400,Parker-Hannifin,Quanta Services Inc.,252
+2401,Parker-Hannifin,Airgas Inc.,244
+2402,Parker-Hannifin,"United Rentals, Inc.",210
+2403,Parker-Hannifin,Alcoa Inc.,208
+2404,Parker-Hannifin,Ecolab Inc.,203
+2405,Parker-Hannifin,Genuine Parts,202
+2406,Parker-Hannifin,Norfolk Southern Corp.,199
+2407,Parker-Hannifin,Cummins Inc.,199
+2408,Parker-Hannifin,Air Products & Chemicals,194
+2409,Parker-Hannifin,Valero Energy,191
+2410,Parker-Hannifin,Rockwell Automation Inc.,186
+2411,Parker-Hannifin,Emerson Electric Co,179
+2412,PulteGroup Inc,CBRE Group,134
+2413,PulteGroup Inc,Lennar Corp.,127
+2414,PulteGroup Inc,Quanta Services Inc.,122
+2415,PulteGroup Inc,D. R. Horton,119
+2416,PulteGroup Inc,SL Green Realty Corp,97
+2417,PulteGroup Inc,Aon plc,85
+2418,PulteGroup Inc,Omnicom Group,84
+2419,PerkinElmer,Johnson & Johnson,33
+2420,PerkinElmer,Merck & Co.,27
+2421,PerkinElmer,Bristol-Myers Squibb,26
+2422,PerkinElmer,"St. Jude Medical, Inc.",26
+2423,PerkinElmer,"Zoetis, Inc.",26
+2424,PerkinElmer,Celgene Corp.,24
+2425,PerkinElmer,Edwards Lifesciences,22
+2426,PerkinElmer,Zimmer Biomet Holdings,20
+2427,PerkinElmer,Abbott Laboratories,20
+2428,PerkinElmer,"C. R. Bard, Inc",20
+2429,Prologis,CBRE Group,558
+2430,Prologis,General Growth Properties,407
+2431,Prologis,Kimco Realty,392
+2432,Prologis,Interpublic Group,371
+2433,Prologis,Boston Properties,352
+2434,Prologis,SL Green Realty Corp,342
+2435,Philip Morris Int'l,Interpublic Group,487
+2436,Philip Morris Int'l,Omnicom Group,391
+2437,Philip Morris Int'l,Moody's Corp,326
+2438,PNC Financial SVCS Group Inc,Moody's Corp,3945
+2439,PNC Financial SVCS Group Inc,Citigroup Inc.,2443
+2440,Pentair Ltd.,Accenture plc,267
+2441,Pentair Ltd.,Quanta Services Inc.,232
+2442,Pentair Ltd.,Reynolds American Inc.,171
+2443,Pinnacle West Capital,Moody's Corp,833
+2444,Pinnacle West Capital,Omnicom Group,741
+2445,Pinnacle West Capital,Aon plc,693
+2446,Pinnacle West Capital,Southern Co.,683
+2447,Pinnacle West Capital,Pepco Holdings Inc.,618
+2448,Pinnacle West Capital,MetLife Inc.,608
+2449,Pinnacle West Capital,Marsh & McLennan,586
+2450,Pinnacle West Capital,Exelon Corp.,567
+2451,Pinnacle West Capital,Edison Int'l,564
+2452,Pinnacle West Capital,Quanta Services Inc.,563
+2453,Pinnacle West Capital,E-Trade Financial Corp.,531
+2454,Pinnacle West Capital,CSRA Inc,527
+2455,Pepco Holdings Inc.,Moody's Corp,943
+2456,Pepco Holdings Inc.,CBRE Group,876
+2457,Pepco Holdings Inc.,TECO Energy,596
+2458,PPG Industries,Nucor Corp.,449
+2459,PPG Industries,Alcoa Inc.,401
+2460,PPG Industries,Procter & Gamble,383
+2461,PPG Industries,Dover Corp.,378
+2462,PPG Industries,Ecolab Inc.,365
+2463,PPG Industries,FMC Corporation,355
+2464,PPG Industries,Kellogg Co.,350
+2465,PPG Industries,Moody's Corp,306
+2466,PPG Industries,Leggett & Platt,306
+2467,PPG Industries,Delphi Automotive,302
+2468,PPG Industries,Citigroup Inc.,300
+2469,PPG Industries,Ford Motor,299
+2470,PPG Industries,McCormick & Co.,295
+2471,PPG Industries,Johnson Controls,287
+2472,PPL Corp.,PG&E Corp.,412
+2473,PPL Corp.,Edison Int'l,407
+2474,PPL Corp.,Pepco Holdings Inc.,400
+2475,PPL Corp.,TECO Energy,386
+2476,PPL Corp.,Quanta Services Inc.,374
+2477,PPL Corp.,SCANA Corp.,321
+2478,PPL Corp.,AGL Resources Inc.,286
+2479,PPL Corp.,Moody's Corp,280
+2480,PPL Corp.,Exxon Mobil Corp.,273
+2481,PPL Corp.,NiSource Inc.,254
+2482,Perrigo,Robert Half International,271
+2483,Perrigo,Accenture plc,258
+2484,Perrigo,Moody's Corp,251
+2485,Perrigo,McKesson Corp.,234
+2486,Perrigo,Gilead Sciences,185
+2487,Perrigo,Celgene Corp.,169
+2488,Prudential Financial,MetLife Inc.,1840
+2489,Prudential Financial,AFLAC Inc.,1532
+2490,Prudential Financial,Principal Financial Group,1473
+2491,Prudential Financial,Moody's Corp,1416
+2492,Prudential Financial,Northern Trust Corp.,1380
+2493,Prudential Financial,Goldman Sachs Group,1259
+2494,Prudential Financial,Ameriprise Financial,1202
+2495,Public Storage,Equity Residential,252
+2496,Public Storage,Boston Properties,224
+2497,Public Storage,SL Green Realty Corp,217
+2498,Public Storage,Reynolds American Inc.,196
+2499,Public Storage,CBRE Group,185
+2500,Public Storage,Kimco Realty,158
+2501,Public Storage,E-Trade Financial Corp.,155
+2502,Public Storage,AvalonBay Communities,154
+2503,Phillips 66,Valero Energy,1238
+2504,Phillips 66,Tesoro Petroleum Co.,1075
+2505,Phillips 66,TECO Energy,962
+2506,Phillips 66,Chevron Corp.,901
+2507,Phillips 66,Exxon Mobil Corp.,831
+2508,Phillips 66,FMC Corporation,785
+2509,Phillips 66,Kinder Morgan,754
+2510,Phillips 66,Nucor Corp.,753
+2511,PVH Corp.,Polo Ralph Lauren Corp.,65
+2512,PVH Corp.,Best Buy Co. Inc.,54
+2513,PVH Corp.,Signet Jewelers Limited,51
+2514,PVH Corp.,Tractor Supply Co.,48
+2515,PVH Corp.,Michael Kors Holdings,41
+2516,PVH Corp.,Macy's Inc.,40
+2517,Quanta Services Inc.,Accenture plc,1608
+2518,Quanta Services Inc.,Moody's Corp,1550
+2519,Quanta Services Inc.,CBRE Group,1397
+2520,Quanta Services Inc.,Fluor Corp.,1361
+2521,Praxair Inc.,Airgas Inc.,238
+2522,Praxair Inc.,Kellogg Co.,199
+2523,Praxair Inc.,Air Products & Chemicals,193
+2524,Praxair Inc.,Exxon Mobil Corp.,193
+2525,Praxair Inc.,Quanta Services Inc.,191
+2526,Praxair Inc.,FMC Corporation,189
+2527,Praxair Inc.,Nucor Corp.,164
+2528,Praxair Inc.,"W. W. Grainger, Inc.",158
+2529,Praxair Inc.,Valero Energy,156
+2530,Praxair Inc.,Interpublic Group,144
+2531,Praxair Inc.,SCANA Corp.,144
+2532,Pioneer Natural Resources,Kinder Morgan,353
+2533,Pioneer Natural Resources,Cabot Oil & Gas,287
+2534,Pioneer Natural Resources,EQT Corporation,287
+2535,Pioneer Natural Resources,Exxon Mobil Corp.,263
+2536,Pioneer Natural Resources,Hess Corporation,259
+2537,Pioneer Natural Resources,Chesapeake Energy,251
+2538,Pioneer Natural Resources,ConocoPhillips,234
+2539,Pioneer Natural Resources,Chevron Corp.,220
+2540,Pioneer Natural Resources,Phillips 66,213
+2541,PayPal Holdings Inc.,Moody's Corp,885
+2542,PayPal Holdings Inc.,Total System Services,567
+2543,"Qualcomm, Inc.",Cisco Systems,78
+2544,"Qualcomm, Inc.",Apple Inc.,61
+2545,"Qualcomm, Inc.",Citrix Systems,48
+2546,Qorvo,Xilinx Inc.,33
+2547,Qorvo,Applied Materials Inc.,23
+2548,Qorvo,Moody's Corp,21
+2549,Ryder System,Ford Motor,973
+2550,Ryder System,Quanta Services Inc.,972
+2551,Ryder System,United Parcel Service,747
+2552,Ryder System,CSX Corp.,694
+2553,Ryder System,Moody's Corp,662
+2554,Ryder System,Carmax Inc.,620
+2555,Reynolds American Inc.,CBRE Group,540
+2556,Royal Caribbean Cruises,Moody's Corp,236
+2557,Regeneron,AbbVie Inc.,234
+2558,Regeneron,Celgene Corp.,231
+2559,Regeneron,Merck & Co.,224
+2560,Regeneron,Bristol-Myers Squibb,223
+2561,Regeneron,Amgen Inc.,211
+2562,Regeneron,Pfizer Inc.,205
+2563,Regeneron,Baxalta,196
+2564,Regeneron,"Biogen Idec, Inc.",187
+2565,Regeneron,"St. Jude Medical, Inc.",184
+2566,Regeneron,Abbott Laboratories,175
+2567,Regeneron,Gilead Sciences,172
+2568,Regeneron,Endo International plc,158
+2569,Regeneron,"Zoetis, Inc.",157
+2570,Regeneron,Boston Scientific,154
+2571,Regeneron,Edwards Lifesciences,145
+2572,Regions Financial Corp.,E-Trade Financial Corp.,2713
+2573,Regions Financial Corp.,Moody's Corp,2706
+2574,Regions Financial Corp.,MetLife Inc.,2286
+2575,Regions Financial Corp.,Northern Trust Corp.,2173
+2576,Regions Financial Corp.,Bank of America Corp.,2151
+2577,Regions Financial Corp.,KeyCorp,2080
+2578,Regions Financial Corp.,Goldman Sachs Group,1860
+2579,Regions Financial Corp.,Aon plc,1822
+2580,Regions Financial Corp.,Charles Schwab Corp.,1765
+2581,Robert Half International,Accenture plc,2121
+2582,Robert Half International,Moody's Corp,2070
+2583,Robert Half International,CBRE Group,1843
+2584,Robert Half International,Quanta Services Inc.,1842
+2585,Red Hat Inc.,Moody's Corp,656
+2586,Red Hat Inc.,Omnicom Group,618
+2587,Red Hat Inc.,McGraw Hill Financial,613
+2588,Red Hat Inc.,Interpublic Group,528
+2589,Red Hat Inc.,Accenture plc,525
+2590,Red Hat Inc.,IBM Corp.,487
+2591,Transocean,Quanta Services Inc.,377
+2592,Transocean,Exxon Mobil Corp.,256
+2593,Polo Ralph Lauren Corp.,Signet Jewelers Limited,340
+2594,Polo Ralph Lauren Corp.,Whole Foods Market,289
+2595,Polo Ralph Lauren Corp.,Tiffany & Co.,218
+2596,Rockwell Automation Inc.,Genuine Parts,316
+2597,Rockwell Automation Inc.,Kellogg Co.,296
+2598,Rockwell Automation Inc.,Cummins Inc.,285
+2599,Rockwell Automation Inc.,AutoNation Inc.,281
+2600,Rockwell Automation Inc.,Ford Motor,278
+2601,Rockwell Automation Inc.,Exxon Mobil Corp.,264
+2602,Rockwell Automation Inc.,"W. W. Grainger, Inc.",262
+2603,Rockwell Automation Inc.,Johnson Controls,249
+2604,Rockwell Automation Inc.,"United Rentals, Inc.",248
+2605,Rockwell Automation Inc.,Omnicom Group,232
+2606,Rockwell Automation Inc.,Ryder System,231
+2607,Rockwell Automation Inc.,Emerson Electric Co,231
+2608,Rockwell Automation Inc.,Caterpillar Inc.,227
+2609,Rockwell Automation Inc.,Dover Corp.,207
+2610,Rockwell Automation Inc.,Reynolds American Inc.,203
+2611,Roper Industries,"United Rentals, Inc.",178
+2612,Roper Industries,Ryder System,178
+2613,Roper Industries,Ametek,152
+2614,Roper Industries,Emerson Electric Co,135
+2615,Roper Industries,Genuine Parts,124
+2616,Roper Industries,Delphi Automotive,121
+2617,Roper Industries,Xilinx Inc.,119
+2618,Roper Industries,Textron Inc.,117
+2619,Roper Industries,Xylem Inc.,114
+2620,Roper Industries,Quanta Services Inc.,111
+2621,Ross Stores,"W. W. Grainger, Inc.",330
+2622,Ross Stores,Signet Jewelers Limited,241
+2623,Ross Stores,Best Buy Co. Inc.,219
+2624,Range Resources Corp.,Kinder Morgan,390
+2625,Range Resources Corp.,EQT Corporation,375
+2626,Range Resources Corp.,J.M. Smucker Co.,372
+2627,Range Resources Corp.,Valero Energy,363
+2628,Range Resources Corp.,Chevron Corp.,363
+2629,Range Resources Corp.,Chesapeake Energy,357
+2630,Range Resources Corp.,Exxon Mobil Corp.,341
+2631,Range Resources Corp.,Phillips 66,303
+2632,Range Resources Corp.,Murphy Oil,294
+2633,Range Resources Corp.,ConocoPhillips,292
+2634,Range Resources Corp.,Nucor Corp.,280
+2635,Range Resources Corp.,Southwestern Energy,271
+2636,Range Resources Corp.,Cabot Oil & Gas,268
+2637,Range Resources Corp.,"ONEOK, Inc.",266
+2638,Range Resources Corp.,"W. W. Grainger, Inc.",266
+2639,Range Resources Corp.,EOG Resources,258
+2640,Range Resources Corp.,Leggett & Platt,253
+2641,Range Resources Corp.,Hess Corporation,252
+2642,Range Resources Corp.,Apache Corporation,251
+2643,Range Resources Corp.,TECO Energy,250
+2644,Range Resources Corp.,AGL Resources Inc.,249
+2645,Range Resources Corp.,Spectra Energy Corp.,245
+2646,Republic Services Inc.,Whole Foods Market,120
+2647,Republic Services Inc.,"United Rentals, Inc.",107
+2648,Republic Services Inc.,Quanta Services Inc.,103
+2649,Republic Services Inc.,Ryder System,88
+2650,Republic Services Inc.,Omnicom Group,86
+2651,Republic Services Inc.,Lowe's Cos.,85
+2652,Republic Services Inc.,United Parcel Service,85
+2653,Republic Services Inc.,PG&E Corp.,82
+2654,Republic Services Inc.,Charles Schwab Corp.,74
+2655,Raytheon Co.,General Dynamics,384
+2656,Raytheon Co.,Boeing Co.,375
+2657,Raytheon Co.,Verisign Inc.,331
+2658,Raytheon Co.,L-3 Comm's Holdings,312
+2659,Raytheon Co.,Harris Corp.,309
+2660,Raytheon Co.,Quanta Services Inc.,291
+2661,Raytheon Co.,Motorola Solutions Inc.,287
+2662,Raytheon Co.,Lockheed Martin Corp.,282
+2663,Raytheon Co.,United Technologies,264
+2664,Raytheon Co.,United Parcel Service,264
+2665,Raytheon Co.,Northrop Grumman Corp.,242
+2666,Starbucks Corp.,Whole Foods Market,469
+2667,Starbucks Corp.,Signet Jewelers Limited,411
+2668,Starbucks Corp.,Best Buy Co. Inc.,356
+2669,Starbucks Corp.,Omnicom Group,333
+2670,Starbucks Corp.,Yum! Brands Inc.,326
+2671,Starbucks Corp.,"W. W. Grainger, Inc.",307
+2672,Starbucks Corp.,SL Green Realty Corp,292
+2673,Starbucks Corp.,Kellogg Co.,288
+2674,SCANA Corp.,Exxon Mobil Corp.,686
+2675,SCANA Corp.,TECO Energy,654
+2676,SCANA Corp.,Quanta Services Inc.,597
+2677,SCANA Corp.,AGL Resources Inc.,534
+2678,SCANA Corp.,NiSource Inc.,419
+2679,Charles Schwab Corp.,Moody's Corp,4458
+2680,Charles Schwab Corp.,McGraw Hill Financial,3808
+2681,Charles Schwab Corp.,Northern Trust Corp.,3517
+2682,Charles Schwab Corp.,E-Trade Financial Corp.,3458
+2683,Charles Schwab Corp.,Omnicom Group,3450
+2684,Charles Schwab Corp.,CBRE Group,3221
+2685,Charles Schwab Corp.,Principal Financial Group,2788
+2686,Spectra Energy Corp.,TECO Energy,495
+2687,Spectra Energy Corp.,AGL Resources Inc.,451
+2688,Spectra Energy Corp.,"ONEOK, Inc.",425
+2689,Spectra Energy Corp.,Williams Companies,407
+2690,Spectra Energy Corp.,Quanta Services Inc.,301
+2691,Sealed Air Corp.,Interpublic Group,114
+2692,Sealed Air Corp.,Kellogg Co.,113
+2693,Sealed Air Corp.,McCormick & Co.,112
+2694,Sealed Air Corp.,Whole Foods Market,97
+2695,Sealed Air Corp.,Genuine Parts,88
+2696,Sealed Air Corp.,Ecolab Inc.,85
+2697,Sealed Air Corp.,WestRock Company,76
+2698,Sealed Air Corp.,Xylem Inc.,74
+2699,Sealed Air Corp.,Procter & Gamble,73
+2700,Sealed Air Corp.,Tractor Supply Co.,73
+2701,Sealed Air Corp.,J.M. Smucker Co.,71
+2702,Sealed Air Corp.,Robert Half International,69
+2703,Sherwin-Williams Co.,Rockwell Automation Inc.,114
+2704,Sherwin-Williams Co.,Interpublic Group,102
+2705,Sherwin-Williams Co.,Kellogg Co.,92
+2706,Sherwin-Williams Co.,Genuine Parts,84
+2707,Sherwin-Williams Co.,Procter & Gamble,82
+2708,Sherwin-Williams Co.,Illinois Tool Works,81
+2709,Sherwin-Williams Co.,Caterpillar Inc.,81
+2710,Sherwin-Williams Co.,WestRock Company,79
+2711,Sherwin-Williams Co.,Delphi Automotive,77
+2712,Sherwin-Williams Co.,Staples Inc.,71
+2713,Signet Jewelers Limited,Johnson Controls,1102
+2714,Signet Jewelers Limited,Whole Foods Market,1026
+2715,J.M. Smucker Co.,Fifth Third Bancorp,3685
+2716,J.M. Smucker Co.,Leggett & Platt,3314
+2717,J.M. Smucker Co.,FMC Corporation,2943
+2718,J.M. Smucker Co.,Citigroup Inc.,2748
+2719,J.M. Smucker Co.,Valero Energy,2601
+2720,J.M. Smucker Co.,Nucor Corp.,2442
+2721,J.M. Smucker Co.,Kellogg Co.,2377
+2722,J.M. Smucker Co.,McCormick & Co.,2349
+2723,Schlumberger Ltd.,Quanta Services Inc.,326
+2724,Schlumberger Ltd.,TECO Energy,226
+2725,Schlumberger Ltd.,Accenture plc,221
+2726,SL Green Realty Corp,Citigroup Inc.,2212
+2727,SL Green Realty Corp,McGraw Hill Financial,1971
+2728,SL Green Realty Corp,CBRE Group,1881
+2729,SL Green Realty Corp,Moody's Corp,1721
+2730,SL Green Realty Corp,Leggett & Platt,1632
+2731,SL Green Realty Corp,Northern Trust Corp.,1458
+2732,SL Green Realty Corp,Principal Financial Group,1374
+2733,SL Green Realty Corp,Equity Residential,1344
+2734,SL Green Realty Corp,Omnicom Group,1329
+2735,Snap-On Inc.,Carmax Inc.,328
+2736,SanDisk Corporation,Xilinx Inc.,88
+2737,Scripps Networks Int.,Viacom Inc.,251
+2738,Scripps Networks Int.,Yahoo Inc.,228
+2739,Scripps Networks Int.,Whole Foods Market,174
+2740,Southern Co.,Quanta Services Inc.,813
+2741,Southern Co.,Omnicom Group,601
+2742,Southern Co.,Exelon Corp.,585
+2743,Southern Co.,Moody's Corp,570
+2744,Southern Co.,Alcoa Inc.,555
+2745,Southern Co.,Pepco Holdings Inc.,554
+2746,Southern Co.,Interpublic Group,543
+2747,Southern Co.,Edison Int'l,526
+2748,Simon Property Group Inc.,Fifth Third Bancorp,5197
+2749,Simon Property Group Inc.,Aon plc,4371
+2750,Simon Property Group Inc.,CBRE Group,4137
+2751,Simon Property Group Inc.,Invesco Ltd.,3895
+2752,Simon Property Group Inc.,Moody's Corp,3875
+2753,Simon Property Group Inc.,E-Trade Financial Corp.,3778
+2754,Simon Property Group Inc.,McGraw Hill Financial,3757
+2755,Simon Property Group Inc.,MetLife Inc.,3642
+2756,Simon Property Group Inc.,Interpublic Group,3469
+2757,Simon Property Group Inc.,SL Green Realty Corp,3277
+2758,Simon Property Group Inc.,Omnicom Group,3218
+2759,Simon Property Group Inc.,Marsh & McLennan,3131
+2760,McGraw Hill Financial,Moody's Corp,7000
+2761,McGraw Hill Financial,Omnicom Group,5459
+2762,McGraw Hill Financial,CBRE Group,5126
+2763,McGraw Hill Financial,Northern Trust Corp.,4723
+2764,Staples Inc.,Best Buy Co. Inc.,818
+2765,Staples Inc.,Omnicom Group,737
+2766,Staples Inc.,"W. W. Grainger, Inc.",614
+2767,Staples Inc.,Kellogg Co.,607
+2768,Staples Inc.,Signet Jewelers Limited,548
+2769,Staples Inc.,Lowe's Cos.,546
+2770,Staples Inc.,Whole Foods Market,507
+2771,Stericycle Inc.,Ryder System,261
+2772,Stericycle Inc.,Whole Foods Market,230
+2773,Stericycle Inc.,Sysco Corp.,199
+2774,Stericycle Inc.,Ford Motor,193
+2775,Stericycle Inc.,Carmax Inc.,184
+2776,Stericycle Inc.,United Parcel Service,169
+2777,Sempra Energy,TECO Energy,1510
+2778,Sempra Energy,Valero Energy,1144
+2779,Sempra Energy,Tesoro Petroleum Co.,946
+2780,Sempra Energy,FMC Corporation,930
+2781,SunTrust Banks,CBRE Group,776
+2782,"St. Jude Medical, Inc.",Celgene Corp.,320
+2783,"St. Jude Medical, Inc.","Zoetis, Inc.",240
+2784,State Street Corp.,E-Trade Financial Corp.,2019
+2785,State Street Corp.,Charles Schwab Corp.,1917
+2786,State Street Corp.,Northern Trust Corp.,1815
+2787,State Street Corp.,Moody's Corp,1753
+2788,State Street Corp.,MetLife Inc.,1678
+2789,State Street Corp.,Invesco Ltd.,1644
+2790,State Street Corp.,Goldman Sachs Group,1620
+2791,State Street Corp.,Morgan Stanley,1526
+2792,State Street Corp.,BlackRock,1490
+2793,State Street Corp.,KeyCorp,1456
+2794,State Street Corp.,PNC Financial SVCS Group Inc,1411
+2795,State Street Corp.,Bank of America Corp.,1395
+2796,State Street Corp.,Regions Financial Corp.,1391
+2797,State Street Corp.,JPMorgan Chase & Co.,1367
+2798,State Street Corp.,Aon plc,1266
+2799,State Street Corp.,BB&T Corp.,1244
+2800,Seagate Technology,Western Digital,190
+2801,Seagate Technology,Skyworks Solutions Inc.,148
+2802,Seagate Technology,Xilinx Inc.,141
+2803,Constellation Brands,Interpublic Group,1001
+2804,Constellation Brands,Omnicom Group,697
+2805,Constellation Brands,Robert Half International,687
+2806,Stanley Black & Decker,Citigroup Inc.,1487
+2807,Stanley Black & Decker,Leggett & Platt,1077
+2808,Stanley Black & Decker,Hormel Foods Corp.,975
+2809,Skyworks Solutions Inc.,Xilinx Inc.,336
+2810,Skyworks Solutions Inc.,Omnicom Group,328
+2811,Skyworks Solutions Inc.,Best Buy Co. Inc.,293
+2812,Skyworks Solutions Inc.,Texas Instruments,283
+2813,Skyworks Solutions Inc.,Yahoo Inc.,265
+2814,Skyworks Solutions Inc.,Robert Half International,218
+2815,Skyworks Solutions Inc.,IBM Corp.,211
+2816,Skyworks Solutions Inc.,Apple Inc.,204
+2817,Southwestern Energy,Chevron Corp.,413
+2818,Southwestern Energy,Kinder Morgan,376
+2819,Southwestern Energy,Exxon Mobil Corp.,318
+2820,Southwestern Energy,TECO Energy,316
+2821,Southwestern Energy,Tesoro Petroleum Co.,312
+2822,Southwestern Energy,Valero Energy,293
+2823,Southwestern Energy,Spectra Energy Corp.,266
+2824,Southwestern Energy,Williams Companies,251
+2825,Synchrony Financial,Moody's Corp,1099
+2826,Stryker Corp.,Zimmer Biomet Holdings,240
+2827,Stryker Corp.,Dentsply Int'l,198
+2828,Stryker Corp.,Whole Foods Market,189
+2829,Stryker Corp.,Interpublic Group,165
+2830,Stryker Corp.,Robert Half International,158
+2831,Stryker Corp.,"St. Jude Medical, Inc.",153
+2832,Symantec Corp.,Interpublic Group,638
+2833,Symantec Corp.,Yahoo Inc.,572
+2834,Symantec Corp.,Akamai Technologies Inc.,569
+2835,Symantec Corp.,Moody's Corp,567
+2836,Symantec Corp.,Dun & Bradstreet,527
+2837,Symantec Corp.,Omnicom Group,499
+2838,Symantec Corp.,Intuit Inc.,491
+2839,Symantec Corp.,Verisign Inc.,456
+2840,Symantec Corp.,McGraw Hill Financial,436
+2841,Symantec Corp.,Microsoft Corp.,434
+2842,Symantec Corp.,Netflix Inc.,431
+2843,Symantec Corp.,Citrix Systems,421
+2844,Symantec Corp.,IBM Corp.,402
+2845,Symantec Corp.,Apple Inc.,395
+2846,Sysco Corp.,Whole Foods Market,468
+2847,Sysco Corp.,Genuine Parts,422
+2848,Sysco Corp.,Tiffany & Co.,374
+2849,Sysco Corp.,Signet Jewelers Limited,347
+2850,Sysco Corp.,Ford Motor,316
+2851,AT&T Inc.,CenturyLink Inc.,271
+2852,Molson Coors Brewing Co.,The Clorox Company,624
+2853,Molson Coors Brewing Co.,Leggett & Platt,584
+2854,Molson Coors Brewing Co.,SL Green Realty Corp,562
+2855,Molson Coors Brewing Co.,Campbell Soup,452
+2856,Molson Coors Brewing Co.,Kellogg Co.,401
+2857,Molson Coors Brewing Co.,Reynolds American Inc.,388
+2858,Teradata Corp.,Omnicom Group,407
+2859,Teradata Corp.,Moody's Corp,353
+2860,Teradata Corp.,McGraw Hill Financial,333
+2861,Teradata Corp.,Yahoo Inc.,310
+2862,TECO Energy,AGL Resources Inc.,713
+2863,TECO Energy,Whole Foods Market,499
+2864,TECO Energy,CSX Corp.,448
+2865,TE Connectivity Ltd.,"United Rentals, Inc.",141
+2866,TE Connectivity Ltd.,Emerson Electric Co,138
+2867,TE Connectivity Ltd.,Genuine Parts,137
+2868,TE Connectivity Ltd.,Ford Motor,136
+2869,TE Connectivity Ltd.,General Motors,126
+2870,TE Connectivity Ltd.,Delphi Automotive,115
+2871,TE Connectivity Ltd.,Johnson Controls,110
+2872,TE Connectivity Ltd.,PACCAR Inc.,107
+2873,TE Connectivity Ltd.,Ametek,106
+2874,TE Connectivity Ltd.,Honeywell Int'l Inc.,105
+2875,TE Connectivity Ltd.,Xilinx Inc.,101
+2876,TE Connectivity Ltd.,Ryder System,99
+2877,TE Connectivity Ltd.,Skyworks Solutions Inc.,96
+2878,TE Connectivity Ltd.,Textron Inc.,94
+2879,TE Connectivity Ltd.,United Parcel Service,92
+2880,TE Connectivity Ltd.,Xylem Inc.,88
+2881,TE Connectivity Ltd.,Rockwell Collins,85
+2882,TE Connectivity Ltd.,Roper Industries,85
+2883,Target Corp.,Signet Jewelers Limited,194
+2884,Target Corp.,Wal-Mart Stores,144
+2885,Target Corp.,Staples Inc.,137
+2886,Target Corp.,Interpublic Group,125
+2887,Target Corp.,Whole Foods Market,125
+2888,Target Corp.,Tiffany & Co.,121
+2889,Target Corp.,Best Buy Co. Inc.,117
+2890,Target Corp.,"W. W. Grainger, Inc.",117
+2891,Target Corp.,Lowe's Cos.,117
+2892,Tenet Healthcare Corp.,Omnicom Group,543
+2893,Tenet Healthcare Corp.,Universal Health Services,517
+2894,Tenet Healthcare Corp.,Anthem Inc.,506
+2895,Tenet Healthcare Corp.,Robert Half International,471
+2896,Tenet Healthcare Corp.,Accenture plc,414
+2897,Tenet Healthcare Corp.,Cerner,382
+2898,Tenet Healthcare Corp.,McKesson Corp.,370
+2899,Tenet Healthcare Corp.,Cigna Corp.,336
+2900,Tenet Healthcare Corp.,Quanta Services Inc.,330
+2901,Tiffany & Co.,Signet Jewelers Limited,1767
+2902,Tiffany & Co.,Nucor Corp.,1380
+2903,Tiffany & Co.,Johnson Controls,1280
+2904,Tiffany & Co.,FMC Corporation,1181
+2905,TJX Companies Inc.,"W. W. Grainger, Inc.",195
+2906,TJX Companies Inc.,Signet Jewelers Limited,169
+2907,TJX Companies Inc.,Whole Foods Market,157
+2908,TJX Companies Inc.,Best Buy Co. Inc.,150
+2909,TJX Companies Inc.,Lowe's Cos.,149
+2910,TJX Companies Inc.,AutoZone Inc,146
+2911,TJX Companies Inc.,Staples Inc.,138
+2912,TJX Companies Inc.,Wal-Mart Stores,131
+2913,Torchmark Corp.,MetLife Inc.,220
+2914,Torchmark Corp.,Charles Schwab Corp.,211
+2915,Torchmark Corp.,Principal Financial Group,206
+2916,Torchmark Corp.,AFLAC Inc.,190
+2917,Thermo Fisher Scientific,Johnson & Johnson,88
+2918,Thermo Fisher Scientific,"Zoetis, Inc.",77
+2919,Thermo Fisher Scientific,Vertex Pharmaceuticals Inc.,70
+2920,Thermo Fisher Scientific,Merck & Co.,67
+2921,Thermo Fisher Scientific,"St. Jude Medical, Inc.",65
+2922,Thermo Fisher Scientific,Eli Lilly and Co.,63
+2923,Thermo Fisher Scientific,Celgene Corp.,62
+2924,Thermo Fisher Scientific,Amgen Inc.,60
+2925,Thermo Fisher Scientific,Bristol-Myers Squibb,56
+2926,Thermo Fisher Scientific,Abbott Laboratories,55
+2927,Thermo Fisher Scientific,AbbVie Inc.,53
+2928,TripAdvisor,Omnicom Group,678
+2929,TripAdvisor,Yahoo Inc.,605
+2930,TripAdvisor,Moody's Corp,473
+2931,TripAdvisor,Best Buy Co. Inc.,408
+2932,T. Rowe Price Group,McGraw Hill Financial,3381
+2933,T. Rowe Price Group,Aon plc,3300
+2934,T. Rowe Price Group,Invesco Ltd.,3299
+2935,T. Rowe Price Group,Fifth Third Bancorp,3049
+2936,T. Rowe Price Group,CBRE Group,2873
+2937,T. Rowe Price Group,MetLife Inc.,2780
+2938,T. Rowe Price Group,Moody's Corp,2751
+2939,T. Rowe Price Group,NASDAQ OMX Group,2733
+2940,T. Rowe Price Group,Marsh & McLennan,2674
+2941,T. Rowe Price Group,Charles Schwab Corp.,2530
+2942,T. Rowe Price Group,Principal Financial Group,2487
+2943,T. Rowe Price Group,BlackRock,2439
+2944,T. Rowe Price Group,Northern Trust Corp.,2363
+2945,T. Rowe Price Group,Interpublic Group,2338
+2946,T. Rowe Price Group,SL Green Realty Corp,2204
+2947,T. Rowe Price Group,Omnicom Group,2187
+2948,T. Rowe Price Group,E-Trade Financial Corp.,2182
+2949,The Travelers Companies,E-Trade Financial Corp.,334
+2950,The Travelers Companies,Moody's Corp,315
+2951,The Travelers Companies,Ameriprise Financial,222
+2952,The Travelers Companies,Synchrony Financial,217
+2953,The Travelers Companies,BNY Mellon,203
+2954,Tractor Supply Co.,Interpublic Group,1463
+2955,Tractor Supply Co.,Whole Foods Market,1077
+2956,Tractor Supply Co.,Omnicom Group,997
+2957,Tractor Supply Co.,Best Buy Co. Inc.,933
+2958,Tyson Foods,J.M. Smucker Co.,235
+2959,Tyson Foods,Whole Foods Market,232
+2960,Tyson Foods,Fastenal Co.,201
+2961,Tyson Foods,Yum! Brands Inc.,196
+2962,Tyson Foods,Hormel Foods Corp.,194
+2963,Tyson Foods,Sysco Corp.,162
+2964,Tyson Foods,PACCAR Inc.,161
+2965,Tyson Foods,Fifth Third Bancorp,161
+2966,Tesoro Petroleum Co.,Valero Energy,1653
+2967,Tesoro Petroleum Co.,TECO Energy,1417
+2968,Tesoro Petroleum Co.,FMC Corporation,1183
+2969,Total System Services,Moody's Corp,779
+2970,Total System Services,Fiserv Inc,686
+2971,Total System Services,Western Union Co.,600
+2972,Total System Services,CenturyLink Inc.,476
+2973,Time Warner Cable Inc.,Omnicom Group,883
+2974,Time Warner Cable Inc.,CenturyLink Inc.,719
+2975,Time Warner Cable Inc.,Moody's Corp,619
+2976,Time Warner Inc.,Viacom Inc.,263
+2977,Time Warner Inc.,Yahoo Inc.,223
+2978,Time Warner Inc.,Interpublic Group,211
+2979,Time Warner Inc.,Time Warner Cable Inc.,183
+2980,Time Warner Inc.,Twenty-First Century Fox Inc Class B,171
+2981,Time Warner Inc.,Scripps Networks Int.,169
+2982,Time Warner Inc.,Comcast Class A Comm.,162
+2983,Texas Instruments,"W. W. Grainger, Inc.",835
+2984,Texas Instruments,Leggett & Platt,819
+2985,Texas Instruments,FMC Corporation,767
+2986,Texas Instruments,Kellogg Co.,742
+2987,Texas Instruments,Nucor Corp.,735
+2988,Texas Instruments,Valero Energy,675
+2989,Texas Instruments,Omnicom Group,626
+2990,Texas Instruments,McGraw Hill Financial,553
+2991,Texas Instruments,Exxon Mobil Corp.,505
+2992,Textron Inc.,Boeing Co.,300
+2993,Textron Inc.,Ryder System,263
+2994,Textron Inc.,Honeywell Int'l Inc.,248
+2995,Textron Inc.,General Dynamics,244
+2996,Textron Inc.,Exxon Mobil Corp.,226
+2997,Textron Inc.,Genuine Parts,214
+2998,Textron Inc.,Caterpillar Inc.,202
+2999,Textron Inc.,Motorola Solutions Inc.,199
+3000,Textron Inc.,Snap-On Inc.,191
+3001,Textron Inc.,General Motors,186
+3002,Textron Inc.,United Parcel Service,185
+3003,Tyco Int'l,"United Rentals, Inc.",137
+3004,Tyco Int'l,Ryder System,102
+3005,Tyco Int'l,Boeing Co.,101
+3006,Tyco Int'l,Honeywell Int'l Inc.,100
+3007,Tyco Int'l,Genuine Parts,94
+3008,Tyco Int'l,Textron Inc.,91
+3009,Tyco Int'l,Quanta Services Inc.,86
+3010,Tyco Int'l,Johnson Controls,85
+3011,Tyco Int'l,General Motors,84
+3012,Tyco Int'l,Stericycle Inc.,83
+3013,Under Armour,Polo Ralph Lauren Corp.,96
+3014,Under Armour,Signet Jewelers Limited,83
+3015,Under Armour,Whole Foods Market,61
+3016,United Continental Holdings,Delta Air Lines,317
+3017,United Continental Holdings,FedEx Corporation,260
+3018,United Continental Holdings,American Airlines Group,260
+3019,United Continental Holdings,United Parcel Service,238
+3020,United Continental Holdings,Boeing Co.,195
+3021,Universal Health Services,Accenture plc,553
+3022,Universal Health Services,Cerner,544
+3023,Universal Health Services,Moody's Corp,529
+3024,Universal Health Services,Quanta Services Inc.,430
+3025,Universal Health Services,CBRE Group,367
+3026,Universal Health Services,CenturyLink Inc.,357
+3027,United Health Group Inc.,Robert Half International,694
+3028,United Health Group Inc.,Omnicom Group,575
+3029,United Health Group Inc.,Cigna Corp.,446
+3030,United Health Group Inc.,Anthem Inc.,427
+3031,Unum Group,MetLife Inc.,432
+3032,Unum Group,Charles Schwab Corp.,414
+3033,Unum Group,Aon plc,333
+3034,Unum Group,AFLAC Inc.,324
+3035,Unum Group,Robert Half International,295
+3036,Unum Group,Principal Financial Group,290
+3037,Union Pacific,Exxon Mobil Corp.,1581
+3038,Union Pacific,CSX Corp.,1538
+3039,Union Pacific,Omnicom Group,1247
+3040,Union Pacific,Quanta Services Inc.,1126
+3041,Union Pacific,Kansas City Southern,1045
+3042,Union Pacific,Ryder System,1029
+3043,Union Pacific,Moody's Corp,949
+3044,United Parcel Service,CSX Corp.,514
+3045,United Parcel Service,Whole Foods Market,509
+3046,United Parcel Service,CenturyLink Inc.,410
+3047,United Parcel Service,Ford Motor,400
+3048,United Parcel Service,Kansas City Southern,365
+3049,United Parcel Service,Quanta Services Inc.,341
+3050,United Parcel Service,Moody's Corp,341
+3051,United Parcel Service,Carmax Inc.,326
+3052,United Parcel Service,Advance Auto Parts Inc,316
+3053,Urban Outfitters,Whole Foods Market,280
+3054,Urban Outfitters,Lowe's Cos.,239
+3055,Urban Outfitters,Interpublic Group,216
+3056,Urban Outfitters,Signet Jewelers Limited,206
+3057,Urban Outfitters,Best Buy Co. Inc.,204
+3058,Urban Outfitters,Staples Inc.,181
+3059,"United Rentals, Inc.",Ryder System,1243
+3060,"United Rentals, Inc.",Ford Motor,1227
+3061,"United Rentals, Inc.",Leggett & Platt,1116
+3062,"United Rentals, Inc.",Citigroup Inc.,1094
+3063,"United Rentals, Inc.",Signet Jewelers Limited,1054
+3064,"United Rentals, Inc.",Genuine Parts,1026
+3065,"United Rentals, Inc.",Johnson Controls,1013
+3066,"United Rentals, Inc.","W. W. Grainger, Inc.",1007
+3067,"United Rentals, Inc.",Whole Foods Market,920
+3068,"United Rentals, Inc.",Tiffany & Co.,914
+3069,"United Rentals, Inc.",Valero Energy,861
+3070,"United Rentals, Inc.",Moody's Corp,775
+3071,"United Rentals, Inc.",Lowe's Cos.,771
+3072,"United Rentals, Inc.",Nucor Corp.,754
+3073,U.S. Bancorp,E-Trade Financial Corp.,1292
+3074,U.S. Bancorp,Moody's Corp,1126
+3075,U.S. Bancorp,SunTrust Banks,918
+3076,U.S. Bancorp,KeyCorp,896
+3077,U.S. Bancorp,Zions Bancorp,807
+3078,United Technologies,Boeing Co.,478
+3079,United Technologies,Ryder System,426
+3080,United Technologies,Quanta Services Inc.,414
+3081,United Technologies,Honeywell Int'l Inc.,379
+3082,United Technologies,Exxon Mobil Corp.,353
+3083,United Technologies,Union Pacific,334
+3084,United Technologies,Delphi Automotive,326
+3085,United Technologies,Alcoa Inc.,297
+3086,United Technologies,Ford Motor,295
+3087,Visa Inc.,Total System Services,369
+3088,Visa Inc.,PayPal Holdings Inc.,307
+3089,Visa Inc.,Western Union Co.,293
+3090,Visa Inc.,Moody's Corp,287
+3091,Visa Inc.,Fiserv Inc,260
+3092,Varian Medical Systems,"St. Jude Medical, Inc.",85
+3093,Varian Medical Systems,Zimmer Biomet Holdings,85
+3094,Varian Medical Systems,Johnson & Johnson,78
+3095,Varian Medical Systems,Vertex Pharmaceuticals Inc.,70
+3096,Varian Medical Systems,"C. R. Bard, Inc",67
+3097,Varian Medical Systems,Edwards Lifesciences,67
+3098,Varian Medical Systems,Stryker Corp.,62
+3099,Varian Medical Systems,Boston Scientific,60
+3100,Varian Medical Systems,"Zoetis, Inc.",59
+3101,Varian Medical Systems,Merck & Co.,57
+3102,Varian Medical Systems,Abbott Laboratories,52
+3103,V.F. Corp.,Whole Foods Market,80
+3104,Viacom Inc.,Yahoo Inc.,626
+3105,Viacom Inc.,Omnicom Group,448
+3106,Viacom Inc.,Robert Half International,383
+3107,Valero Energy,FMC Corporation,2445
+3108,Valero Energy,Nucor Corp.,2224
+3109,Valero Energy,TECO Energy,1658
+3110,Vulcan Materials,Nucor Corp.,872
+3111,Vulcan Materials,Martin Marietta Materials,771
+3112,Vulcan Materials,Ford Motor,661
+3113,Vulcan Materials,Johnson Controls,636
+3114,Vornado Realty Trust,Fifth Third Bancorp,2575
+3115,Vornado Realty Trust,SL Green Realty Corp,2539
+3116,Vornado Realty Trust,Interpublic Group,1834
+3117,Verisk Analytics Inc,Interpublic Group,494
+3118,Verisk Analytics Inc,Aon plc,465
+3119,Verisk Analytics Inc,Omnicom Group,428
+3120,Verisk Analytics Inc,Moody's Corp,402
+3121,Verisk Analytics Inc,Fidelity Nat. Info. Services,392
+3122,Verisk Analytics Inc,Robert Half International,391
+3123,Verisk Analytics Inc,"ADP, LLC.",370
+3124,Verisk Analytics Inc,Dun & Bradstreet,336
+3125,Verisk Analytics Inc,McGraw Hill Financial,333
+3126,Verisk Analytics Inc,Total System Services,297
+3127,Verisign Inc.,Interpublic Group,778
+3128,Verisign Inc.,Moody's Corp,672
+3129,Verisign Inc.,Omnicom Group,644
+3130,Verisign Inc.,Dun & Bradstreet,521
+3131,Vertex Pharmaceuticals Inc.,Johnson & Johnson,421
+3132,Vertex Pharmaceuticals Inc.,AbbVie Inc.,395
+3133,Vertex Pharmaceuticals Inc.,Celgene Corp.,380
+3134,Vertex Pharmaceuticals Inc.,Merck & Co.,359
+3135,Vertex Pharmaceuticals Inc.,"St. Jude Medical, Inc.",350
+3136,Vertex Pharmaceuticals Inc.,Endo International plc,335
+3137,Vertex Pharmaceuticals Inc.,"Allergan, Plc",324
+3138,Vertex Pharmaceuticals Inc.,Pfizer Inc.,323
+3139,Vertex Pharmaceuticals Inc.,Abbott Laboratories,316
+3140,Vertex Pharmaceuticals Inc.,"Zoetis, Inc.",299
+3141,Vertex Pharmaceuticals Inc.,Amgen Inc.,298
+3142,Vertex Pharmaceuticals Inc.,Bristol-Myers Squibb,293
+3143,Vertex Pharmaceuticals Inc.,Baxalta,279
+3144,Vertex Pharmaceuticals Inc.,"Biogen Idec, Inc.",270
+3145,Vertex Pharmaceuticals Inc.,Gilead Sciences,269
+3146,Vertex Pharmaceuticals Inc.,Edwards Lifesciences,261
+3147,Vertex Pharmaceuticals Inc.,Boston Scientific,257
+3148,Ventas Inc.,SL Green Realty Corp,586
+3149,Ventas Inc.,Equity Residential,558
+3150,Ventas Inc.,Citigroup Inc.,361
+3151,Verizon Communications,CenturyLink Inc.,359
+3152,Verizon Communications,Time Warner Cable Inc.,352
+3153,Verizon Communications,Omnicom Group,345
+3154,Verizon Communications,Akamai Technologies Inc.,304
+3155,Verizon Communications,AT&T Inc.,294
+3156,Verizon Communications,Interpublic Group,272
+3157,Waters Corp.,Moody's Corp,57
+3158,Waters Corp.,Zimmer Biomet Holdings,55
+3159,Waters Corp.,"Zoetis, Inc.",47
+3160,Waters Corp.,Xylem Inc.,44
+3161,Waters Corp.,Pepco Holdings Inc.,38
+3162,Waters Corp.,TECO Energy,38
+3163,Waters Corp.,Merck & Co.,37
+3164,Waters Corp.,Whole Foods Market,37
+3165,Walgreens Boots Alliance,Fifth Third Bancorp,648
+3166,Walgreens Boots Alliance,J.M. Smucker Co.,644
+3167,Walgreens Boots Alliance,Leggett & Platt,577
+3168,Walgreens Boots Alliance,McCormick & Co.,475
+3169,Walgreens Boots Alliance,The Clorox Company,470
+3170,Walgreens Boots Alliance,SL Green Realty Corp,462
+3171,Walgreens Boots Alliance,Kellogg Co.,434
+3172,Walgreens Boots Alliance,The Hershey Company,433
+3173,Walgreens Boots Alliance,Interpublic Group,432
+3174,Walgreens Boots Alliance,"Allergan, Plc",417
+3175,Walgreens Boots Alliance,Procter & Gamble,392
+3176,Western Digital,"United Rentals, Inc.",223
+3177,Western Digital,Xilinx Inc.,182
+3178,Western Digital,Yahoo Inc.,138
+3179,WEC Energy Group Inc,TECO Energy,252
+3180,WEC Energy Group Inc,SCANA Corp.,221
+3181,WEC Energy Group Inc,PPL Corp.,201
+3182,WEC Energy Group Inc,PG&E Corp.,191
+3183,WEC Energy Group Inc,Consolidated Edison,189
+3184,WEC Energy Group Inc,AGL Resources Inc.,188
+3185,WEC Energy Group Inc,Sempra Energy,186
+3186,WEC Energy Group Inc,Public Serv. Enterprise Inc.,185
+3187,WEC Energy Group Inc,DTE Energy Co.,167
+3188,WEC Energy Group Inc,Pepco Holdings Inc.,165
+3189,WEC Energy Group Inc,Exelon Corp.,155
+3190,Wells Fargo,E-Trade Financial Corp.,1157
+3191,Wells Fargo,Regions Financial Corp.,1041
+3192,Wells Fargo,SunTrust Banks,910
+3193,Wells Fargo,MetLife Inc.,874
+3194,Wells Fargo,Moody's Corp,859
+3195,Wells Fargo,Zions Bancorp,849
+3196,Wells Fargo,Northern Trust Corp.,814
+3197,Wells Fargo,KeyCorp,810
+3198,Wells Fargo,Charles Schwab Corp.,808
+3199,Wells Fargo,Bank of America Corp.,800
+3200,Wells Fargo,U.S. Bancorp,740
+3201,Wells Fargo,BB&T Corp.,699
+3202,Whole Foods Market,CBRE Group,461
+3203,Whole Foods Market,Dun & Bradstreet,438
+3204,Whole Foods Market,Johnson Controls,420
+3205,Whirlpool Corp.,Interpublic Group,247
+3206,Whirlpool Corp.,Fifth Third Bancorp,222
+3207,Whirlpool Corp.,Kellogg Co.,170
+3208,Whirlpool Corp.,Genuine Parts,167
+3209,Whirlpool Corp.,"United Rentals, Inc.",166
+3210,Whirlpool Corp.,Rockwell Automation Inc.,156
+3211,Whirlpool Corp.,SL Green Realty Corp,155
+3212,Whirlpool Corp.,AutoNation Inc.,155
+3213,Whirlpool Corp.,The Clorox Company,155
+3214,Waste Management Inc.,Union Pacific,144
+3215,Waste Management Inc.,Quanta Services Inc.,134
+3216,Waste Management Inc.,"United Rentals, Inc.",130
+3217,Waste Management Inc.,Pepco Holdings Inc.,125
+3218,Waste Management Inc.,Republic Services Inc.,123
+3219,Waste Management Inc.,Interpublic Group,122
+3220,Waste Management Inc.,CBRE Group,122
+3221,Waste Management Inc.,Charles Schwab Corp.,121
+3222,Waste Management Inc.,CSX Corp.,121
+3223,Waste Management Inc.,Ryder System,118
+3224,Waste Management Inc.,Exxon Mobil Corp.,114
+3225,Waste Management Inc.,TECO Energy,114
+3226,Waste Management Inc.,Ford Motor,110
+3227,Waste Management Inc.,PG&E Corp.,110
+3228,Waste Management Inc.,Consolidated Edison,105
+3229,Waste Management Inc.,International Paper Co.,103
+3230,Waste Management Inc.,NiSource Inc.,99
+3231,Waste Management Inc.,Marsh & McLennan,94
+3232,Waste Management Inc.,Omnicom Group,94
+3233,Waste Management Inc.,Stericycle Inc.,93
+3234,Waste Management Inc.,Edison Int'l,93
+3235,Waste Management Inc.,Aon plc,91
+3236,Waste Management Inc.,Columbia Pipeline Group Inc.,91
+3237,Waste Management Inc.,SL Green Realty Corp,90
+3238,Waste Management Inc.,McGraw Hill Financial,89
+3239,Waste Management Inc.,Kinder Morgan,87
+3240,Williams Companies,TECO Energy,840
+3241,Wal-Mart Stores,"W. W. Grainger, Inc.",683
+3242,Wal-Mart Stores,Signet Jewelers Limited,565
+3243,Wal-Mart Stores,Lowe's Cos.,514
+3244,Wal-Mart Stores,Advance Auto Parts Inc,429
+3245,Wal-Mart Stores,Tiffany & Co.,420
+3246,WestRock Company,Fifth Third Bancorp,1615
+3247,WestRock Company,Interpublic Group,1333
+3248,WestRock Company,J.M. Smucker Co.,1234
+3249,WestRock Company,Vornado Realty Trust,1172
+3250,WestRock Company,Procter & Gamble,1170
+3251,WestRock Company,Aon plc,1167
+3252,WestRock Company,SL Green Realty Corp,1137
+3253,WestRock Company,The Clorox Company,1136
+3254,WestRock Company,Reynolds American Inc.,1132
+3255,WestRock Company,Kellogg Co.,1096
+3256,WestRock Company,The Hershey Company,1063
+3257,WestRock Company,Accenture plc,1015
+3258,WestRock Company,Omnicom Group,976
+3259,Western Union Co.,Moody's Corp,1267
+3260,Weyerhaeuser Corp.,Nucor Corp.,48
+3261,Weyerhaeuser Corp.,Exxon Mobil Corp.,40
+3262,Weyerhaeuser Corp.,FMC Corporation,36
+3263,Weyerhaeuser Corp.,TECO Energy,32
+3264,Weyerhaeuser Corp.,Sempra Energy,31
+3265,Weyerhaeuser Corp.,Leggett & Platt,30
+3266,Weyerhaeuser Corp.,"W. W. Grainger, Inc.",29
+3267,Wyndham Worldwide,Fifth Third Bancorp,1196
+3268,Wyndham Worldwide,Interpublic Group,1175
+3269,Wyndham Worldwide,SL Green Realty Corp,1019
+3270,Wyndham Worldwide,Signet Jewelers Limited,878
+3271,Wyndham Worldwide,Fastenal Co.,877
+3272,Wyndham Worldwide,Simon Property Group Inc.,871
+3273,Wyndham Worldwide,"United Rentals, Inc.",762
+3274,Wyndham Worldwide,Vornado Realty Trust,747
+3275,Wynn Resorts Ltd.,Omnicom Group,244
+3276,Wynn Resorts Ltd.,Moody's Corp,232
+3277,Wynn Resorts Ltd.,CBRE Group,216
+3278,Wynn Resorts Ltd.,Quanta Services Inc.,208
+3279,Wynn Resorts Ltd.,Pepco Holdings Inc.,187
+3280,Wynn Resorts Ltd.,Robert Half International,167
+3281,Wynn Resorts Ltd.,E-Trade Financial Corp.,157
+3282,Cimarex Energy,Kinder Morgan,188
+3283,Cimarex Energy,Tesoro Petroleum Co.,128
+3284,Cimarex Energy,TECO Energy,125
+3285,Cimarex Energy,Chevron Corp.,114
+3286,Cimarex Energy,Williams Companies,114
+3287,Xcel Energy Inc.,TECO Energy,1473
+3288,Xcel Energy Inc.,J.M. Smucker Co.,1345
+3289,Xcel Energy Inc.,Valero Energy,1262
+3290,Xcel Energy Inc.,Delphi Automotive,1091
+3291,Xcel Energy Inc.,Nucor Corp.,1087
+3292,Xcel Energy Inc.,Sempra Energy,1083
+3293,Xcel Energy Inc.,Leggett & Platt,1059
+3294,Xcel Energy Inc.,Citigroup Inc.,1058
+3295,Xcel Energy Inc.,FMC Corporation,1058
+3296,Xcel Energy Inc.,Fifth Third Bancorp,1002
+3297,Xcel Energy Inc.,PACCAR Inc.,965
+3298,XL Capital,Charles Schwab Corp.,758
+3299,XL Capital,E-Trade Financial Corp.,641
+3300,XL Capital,MetLife Inc.,598
+3301,XL Capital,Robert Half International,591
+3302,XL Capital,Moody's Corp,571
+3303,XL Capital,Omnicom Group,549
+3304,XL Capital,Morgan Stanley,543
+3305,XL Capital,Chubb Limited,479
+3306,Xilinx Inc.,Whole Foods Market,220
+3307,Xilinx Inc.,Dun & Bradstreet,191
+3308,Xilinx Inc.,Reynolds American Inc.,164
+3309,Exxon Mobil Corp.,Moody's Corp,1797
+3310,Exxon Mobil Corp.,Quanta Services Inc.,1532
+3311,Exxon Mobil Corp.,Nucor Corp.,1525
+3312,Exxon Mobil Corp.,Kellogg Co.,1422
+3313,Exxon Mobil Corp.,Valero Energy,1349
+3314,Exxon Mobil Corp.,FMC Corporation,1272
+3315,Exxon Mobil Corp.,Ford Motor,1263
+3316,Dentsply Int'l,Zimmer Biomet Holdings,241
+3317,Dentsply Int'l,"St. Jude Medical, Inc.",207
+3318,Dentsply Int'l,Merck & Co.,164
+3319,Dentsply Int'l,Robert Half International,163
+3320,Dentsply Int'l,Boston Scientific,162
+3321,Dentsply Int'l,AbbVie Inc.,156
+3322,Dentsply Int'l,Abbott Laboratories,151
+3323,Dentsply Int'l,Celgene Corp.,151
+3324,Dentsply Int'l,General Motors,148
+3325,Dentsply Int'l,Ford Motor,146
+3326,Dentsply Int'l,Church & Dwight Co,145
+3327,Xerox Corp.,Interpublic Group,1079
+3328,Xerox Corp.,Omnicom Group,974
+3329,Xylem Inc.,TECO Energy,463
+3330,Xylem Inc.,"United Rentals, Inc.",449
+3331,Xylem Inc.,FMC Corporation,430
+3332,Xylem Inc.,Valero Energy,416
+3333,Xylem Inc.,Sempra Energy,388
+3334,Xylem Inc.,Tesoro Petroleum Co.,341
+3335,Xylem Inc.,Citigroup Inc.,335
+3336,Xylem Inc.,Nucor Corp.,330
+3337,Xylem Inc.,Dover Corp.,328
+3338,Xylem Inc.,Whole Foods Market,310
+3339,Xylem Inc.,Hormel Foods Corp.,307
+3340,Xylem Inc.,Genuine Parts,306
+3341,Xylem Inc.,Exxon Mobil Corp.,287
+3342,Yahoo Inc.,Moody's Corp,1179
+3343,Yum! Brands Inc.,Whole Foods Market,731
+3344,Yum! Brands Inc.,Signet Jewelers Limited,624
+3345,Yum! Brands Inc.,"United Rentals, Inc.",574
+3346,Yum! Brands Inc.,Sysco Corp.,535
+3347,Yum! Brands Inc.,Genuine Parts,478
+3348,Yum! Brands Inc.,Tiffany & Co.,446
+3349,Yum! Brands Inc.,"W. W. Grainger, Inc.",444
+3350,Zimmer Biomet Holdings,"St. Jude Medical, Inc.",320
+3351,Zimmer Biomet Holdings,Boston Scientific,227
+3352,Zimmer Biomet Holdings,Celgene Corp.,212
+3353,Zimmer Biomet Holdings,Whole Foods Market,201
+3354,Zimmer Biomet Holdings,"Zoetis, Inc.",197
+3355,Zimmer Biomet Holdings,"C. R. Bard, Inc",194
+3356,Zions Bancorp,E-Trade Financial Corp.,1467
+3357,Zions Bancorp,Moody's Corp,1126
+3358,Zions Bancorp,KeyCorp,1093
+3359,Zions Bancorp,SunTrust Banks,984
+3360,"Zoetis, Inc.",Celgene Corp.,227
+3361,"Zoetis, Inc.",Whole Foods Market,159

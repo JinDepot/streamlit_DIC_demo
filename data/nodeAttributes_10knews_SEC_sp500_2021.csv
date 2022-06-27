@@ -1,0 +1,500 @@
+,ticker,name,DIC_class,DIC_names,GICS,marketcap_row,marketcap_display,degree
+0,A,Agilent Technologies Inc.,4,Industrials,Health Care,13888.06951,"$13,888M",2
+1,EMR,Emerson Electric Co,4,Industrials,Industrials,31154.83578,"$31,155M",16
+2,SNA,Snap-On Inc.,4,Industrials,Industrials,15253.168740000001,"$15,253M",5
+3,AA,Alcoa Inc.,5,Materials,Materials,12930.973230000001,"$12,931M",26
+4,NUE,Nucor Corp.,5,Materials,Materials,17732.48,"$17,732M",53
+5,MCO,Moody's Corp,1,Financials and Real Estate,Financials,19837.218,"$19,837M",175
+6,C,Citigroup Inc.,5,Materials,Financials,154162.7325,"$154,163M",33
+7,SJM,J.M. Smucker Co.,5,Materials,Consumer Staples,87962.004,"$87,962M",38
+8,VLO,Valero Energy,6,Energy and Utilities,Energy,34047.077130000005,"$34,047M",41
+9,FMC,FMC Corporation,5,Materials,Materials,5228.66799,"$5,229M",49
+10,LEG,Leggett & Platt,5,Materials,Consumer Discretionary,5718.75392,"$5,719M",47
+11,XOM,Exxon Mobil Corp.,6,Energy and Utilities,Energy,324501.09510000004,"$324,501M",63
+12,OMC,Omnicom Group,1,Financials and Real Estate,Consumer Discretionary,153470.5666,"$153,471M",126
+13,FITB,Fifth Third Bancorp,5,Materials,Financials,15966.0531,"$15,966M",53
+14,PWR,Quanta Services Inc.,4,Industrials,Industrials,29168.2304,"$29,168M",79
+15,K,Kellogg Co.,5,Materials,Consumer Staples,25612.34346,"$25,612M",69
+16,AAL,American Airlines Group,4,Industrials,Industrials,26694.3061,"$26,694M",6
+17,DAL,Delta Air Lines,4,Industrials,Industrials,39866.367060000004,"$39,866M",8
+18,UPS,United Parcel Service,4,Industrials,Industrials,66989.84089,"$66,990M",30
+19,R,Ryder System,4,Industrials,Industrials,65953.01115,"$65,953M",40
+20,AAP,Advance Auto Parts Inc,7,Consumer Staples and Discretionary,Consumer Discretionary,11022.900140000002,"$11,023M",14
+21,JCI,Johnson Controls,4,Industrials,Industrials,25585.88692,"$25,586M",43
+22,F,Ford Motor,4,Industrials,Consumer Discretionary,54919.69202,"$54,920M",38
+23,KMX,Carmax Inc.,4,Industrials,Consumer Discretionary,10662.47511,"$10,662M",19
+24,SIG,Signet Jewelers Limited,7,Consumer Staples and Discretionary,Consumer Discretionary,14760.7145,"$14,761M",39
+25,AAPL,Apple Inc.,2,Information Technology,Information Technology,586859.3411000001,"$586,859M",16
+26,ABBV,AbbVie Inc.,0,Healthcare,Health Care,96842.41228,"$96,842M",26
+27,CELG,Celgene Corp.,0,Healthcare,Health Care,94090.0428,"$94,090M",30
+28,STJ,"St. Jude Medical, Inc.",0,Healthcare,Health Care,17459.908199999998,"$17,460M",30
+29,BMY,Bristol-Myers Squibb,0,Healthcare,Health Care,114761.39390000001,"$114,761M",21
+30,GILD,Gilead Sciences,0,Healthcare,Health Care,145833.0042,"$145,833M",17
+31,BIIB,"Biogen Idec, Inc.",0,Healthcare,Health Care,68286.33628,"$68,286M",17
+32,MCK,McKesson Corp.,3,Telecommunications and Multi-Purpose Groups,Health Care,45384.39807,"$45,384M",20
+33,BSX,Boston Scientific,0,Healthcare,Health Care,24805.395800000002,"$24,805M",24
+34,ZTS,"Zoetis, Inc.",0,Healthcare,Health Care,23860.326399999998,"$23,860M",21
+35,ABC,AmerisourceBergen Corp.,3,Telecommunications and Multi-Purpose Groups,Health Care,21326.19843,"$21,326M",3
+36,CERN,Cerner,3,Telecommunications and Multi-Purpose Groups,Health Care,20584.457850000003,"$20,584M",19
+37,RHI,Robert Half International,3,Telecommunications and Multi-Purpose Groups,Industrials,15137.91643,"$15,138M",37
+38,ABT,Abbott Laboratories,0,Healthcare,Health Care,66993.1452,"$66,993M",24
+39,PFE,Pfizer Inc.,0,Healthcare,Health Care,13167.939980000001,"$13,168M",23
+40,ENDP,Endo International plc,0,Healthcare,Health Care,13863.207779999999,"$13,863M",22
+41,AMGN,Amgen Inc.,0,Healthcare,Health Care,122450.06420000001,"$122,450M",19
+42,ACN,Accenture plc,3,Telecommunications and Multi-Purpose Groups,Information Technology,65617.013,"$65,617M",46
+43,CBG,CBRE Group,1,Financials and Real Estate,Real Estate,11555.494859999999,"$11,555M",111
+44,ADBE,Adobe Systems Inc.,2,Information Technology,Information Technology,46857.178060000006,"$46,857M",7
+45,ADSK,Autodesk Inc.,2,Information Technology,Information Technology,13728.930390000001,"$13,729M",9
+46,ADI,Analog Devices Inc.,4,Industrials,Information Technology,17263.21452,"$17,263M",6
+47,GD,General Dynamics,4,Industrials,Industrials,43423.34208,"$43,423M",17
+48,XLNX,Xilinx Inc.,4,Industrials,Information Technology,12070.11575,"$12,070M",20
+49,LMT,Lockheed Martin Corp.,4,Industrials,Industrials,66729.10618,"$66,729M",10
+50,HON,Honeywell Int'l Inc.,4,Industrials,Industrials,79820.46687,"$79,820M",15
+51,ADM,Archer-Daniels-Midland Co.,5,Materials,Consumer Staples,21888.4232,"$21,888M",8
+52,DLPH,Delphi Automotive,5,Materials,Consumer Discretionary,24011.944239999997,"$24,012M",31
+53,ADP,"ADP, LLC.",3,Telecommunications and Multi-Purpose Groups,Information Technology,39073.45704,"$39,073M",5
+54,PAYX,Paychex Inc.,3,Telecommunications and Multi-Purpose Groups,Information Technology,5010.26295,"$5,010M",4
+55,ADS,Alliance Data Systems Corp.,1,Financials and Real Estate,Information Technology,16908.93727,"$16,909M",5
+56,ETFC,E-Trade Financial Corp.,1,Financials and Real Estate,Financials,8683.57152,"$8,684M",50
+57,CA,"CA, Inc.",2,Information Technology,Information Technology,12530.47152,"$12,530M",6
+58,EMC,EMC Corp.,2,Information Technology,Information Technology,49789.33416,"$49,789M",8
+59,HPQ,Hewlett-Packard Co,2,Information Technology,Information Technology,21215.480320000002,"$21,215M",11
+60,DNB,Dun & Bradstreet,2,Information Technology,Industrials,3755.30269,"$3,755M",12
+61,ADT,ADT Corp.,1,Financials and Real Estate,Industrials,5439.62226,"$5,440M",10
+62,AON,Aon plc,1,Financials and Real Estate,Financials,25257.886570000002,"$25,258M",53
+63,PYPL,PayPal Holdings Inc.,1,Financials and Real Estate,Information Technology,75132.15359,"$75,132M",8
+64,EBAY,eBay Inc.,1,Financials and Real Estate,Information Technology,32993.97192,"$32,994M",7
+65,FIS,Fidelity Nat. Info. Services,1,Financials and Real Estate,Information Technology,19634.036399999997,"$19,634M",15
+66,TSS,Total System Services,1,Financials and Real Estate,Information Technology,9162.652199999999,"$9,163M",10
+67,AEE,Ameren Corp.,6,Energy and Utilities,Utilities,10489.111050000001,"$10,489M",9
+68,PCG,PG&E Corp.,6,Energy and Utilities,Utilities,8307.86112,"$8,308M",15
+69,EIX,Edison Int'l,6,Energy and Utilities,Utilities,19291.26931,"$19,291M",14
+70,POM,Pepco Holdings Inc.,6,Energy and Utilities,Utilities,26609.16258,"$26,609M",24
+71,PPL,PPL Corp.,6,Energy and Utilities,Utilities,21184.3694,"$21,184M",17
+72,EXC,Exelon Corp.,6,Energy and Utilities,Utilities,25536.29228,"$25,536M",15
+73,SCG,SCANA Corp.,6,Energy and Utilities,Utilities,43353.10239,"$43,353M",14
+74,ED,Consolidated Edison,6,Energy and Utilities,Utilities,18843.44984,"$18,843M",18
+75,NI,NiSource Inc.,6,Energy and Utilities,Utilities,84750.0,"$84,750M",13
+76,TE,TECO Energy,6,Energy and Utilities,Utilities,6268.906150000001,"$6,269M",63
+77,AEP,American Electric Power,6,Energy and Utilities,Utilities,28599.90659,"$28,600M",12
+78,GAS,AGL Resources Inc.,6,Energy and Utilities,Utilities,7672.514400000001,"$7,673M",14
+79,SRE,Sempra Energy,6,Energy and Utilities,Utilities,23334.222100000003,"$23,334M",18
+80,AES,AES Corp.,6,Energy and Utilities,Utilities,6439.28934,"$6,439M",16
+81,PNW,Pinnacle West Capital,6,Energy and Utilities,Utilities,6596.57817,"$6,597M",14
+82,PCAR,PACCAR Inc.,5,Materials,Industrials,26087.248260000004,"$26,087M",15
+83,XEL,Xcel Energy Inc.,5,Materials,Utilities,18224.21727,"$18,224M",13
+84,SO,Southern Co.,6,Energy and Utilities,Utilities,60163.23592000001,"$60,163M",14
+85,PEG,Public Serv. Enterprise Inc.,6,Energy and Utilities,Utilities,145568.55190000002,"$145,569M",14
+86,AET,Aetna Inc.,3,Telecommunications and Multi-Purpose Groups,Health Care,37701.444,"$37,701M",11
+87,ANTM,Anthem Inc.,3,Telecommunications and Multi-Purpose Groups,Health Care,36403.6008,"$36,404M",21
+88,UNH,United Health Group Inc.,3,Telecommunications and Multi-Purpose Groups,Health Care,112123.62509999999,"$112,124M",5
+89,AFL,AFLAC Inc.,1,Financials and Real Estate,Financials,25561.666100000002,"$25,562M",11
+90,AGN,"Allergan, Plc",0,Healthcare,Health Care,123193.4375,"$123,193M",13
+91,SLG,SL Green Realty Corp,1,Financials and Real Estate,Real Estate,9950.8252,"$9,951M",33
+92,HSY,The Hershey Company,5,Materials,Consumer Staples,13941.65298,"$13,942M",13
+93,AIG,"AIG, Inc.",1,Financials and Real Estate,Financials,76657.69561,"$76,658M",2
+94,AMP,Ameriprise Financial,1,Financials and Real Estate,Financials,18528.99904,"$18,529M",9
+95,AIV,Aimco,1,Financials and Real Estate,Real Estate,6261.65272,"$6,262M",8
+96,EQR,Equity Residential,1,Financials and Real Estate,Real Estate,29720.13658,"$29,720M",13
+97,BXP,Boston Properties,1,Financials and Real Estate,Real Estate,19587.083039999998,"$19,587M",15
+98,O,Realty Income Corporation,1,Financials and Real Estate,Real Estate,2801.79796,"$2,802M",6
+99,MET,MetLife Inc.,1,Financials and Real Estate,Financials,53591.489460000004,"$53,591M",46
+100,AVB,AvalonBay Communities,1,Financials and Real Estate,Real Estate,25203.162010000004,"$25,203M",3
+101,AIZ,Assurant Inc.,1,Financials and Real Estate,Financials,5302.67306,"$5,303M",5
+102,PFG,Principal Financial Group,1,Financials and Real Estate,Financials,216040.70190000001,"$216,041M",21
+103,AKAM,Akamai Technologies Inc.,2,Information Technology,Information Technology,9364.92957,"$9,365M",15
+104,IPG,Interpublic Group,5,Materials,Consumer Discretionary,9459.781439999999,"$9,460M",88
+105,CTL,CenturyLink Inc.,3,Telecommunications and Multi-Purpose Groups,Telecommunication Services,13812.94064,"$13,813M",15
+106,YHOO,Yahoo Inc.,2,Information Technology,Information Technology,31409.247300000003,"$31,409M",23
+107,CTXS,Citrix Systems,2,Information Technology,Information Technology,11636.7856,"$11,637M",21
+108,AMZN,Amazon.com Inc.,2,Information Technology,Consumer Discretionary,316831.5529,"$316,832M",6
+109,ALL,Allstate Corp.,1,Financials and Real Estate,Financials,24047.82954,"$24,048M",8
+110,MMC,Marsh & McLennan,1,Financials and Real Estate,Financials,92751.00632,"$92,751M",21
+111,HIG,Hartford Financial Services,1,Financials and Real Estate,Financials,17801.6506,"$17,802M",9
+112,ALLE,Allegion,1,Financials and Real Estate,Industrials,6322.51904,"$6,323M",7
+113,ALXN,Alexion Pharmaceuticals,0,Healthcare,Health Care,42980.553,"$42,981M",16
+114,VRTX,Vertex Pharmaceuticals Inc.,0,Healthcare,Health Care,30918.57011,"$30,919M",25
+115,JNJ,Johnson & Johnson,0,Healthcare,Health Care,284220.4877,"$284,220M",30
+116,BXLT,Baxalta,0,Healthcare,Health Care,26481.38664,"$26,481M",21
+117,MRK,Merck & Co.,0,Healthcare,Health Care,8526.7034,"$8,527M",29
+118,LLY,Eli Lilly and Co.,0,Healthcare,Health Care,93366.56801999999,"$93,367M",19
+119,AMAT,Applied Materials Inc.,2,Information Technology,Information Technology,21657.2,"$21,657M",10
+120,AME,Ametek,4,Industrials,Industrials,12748.14997,"$12,748M",25
+121,GPC,Genuine Parts,4,Industrials,Consumer Discretionary,12949.03407,"$12,949M",31
+122,TXT,Textron Inc.,4,Industrials,Industrials,11496.876699999999,"$11,497M",17
+123,BA,Boeing Co.,4,Industrials,Industrials,96872.98656,"$96,873M",15
+124,CAT,Caterpillar Inc.,4,Industrials,Industrials,39568.62264,"$39,569M",14
+125,URI,"United Rentals, Inc.",4,Industrials,Industrials,6733.74312,"$6,734M",35
+126,ITW,Illinois Tool Works,5,Materials,Industrials,33688.43856,"$33,688M",10
+127,FLS,Flowserve Corporation,4,Industrials,Industrials,5506.967519999999,"$5,507M",11
+128,GM,General Motors,4,Industrials,Consumer Discretionary,52925.579770000004,"$52,926M",13
+129,ROK,Rockwell Automation Inc.,4,Industrials,Industrials,19131.77994,"$19,132M",19
+130,XYL,Xylem Inc.,4,Industrials,Industrials,6546.859,"$6,547M",20
+131,SWKS,Skyworks Solutions Inc.,4,Industrials,Information Technology,14686.13133,"$14,686M",12
+132,CMI,Cummins Inc.,4,Industrials,Industrials,15632.424210000001,"$15,632M",11
+133,MSI,Motorola Solutions Inc.,4,Industrials,Information Technology,16152.082199999999,"$16,152M",16
+134,TXN,Texas Instruments,5,Materials,Information Technology,55599.92172,"$55,600M",17
+135,AMG,Affiliated Managers Group,1,Financials and Real Estate,Financials,8632.95058,"$8,633M",13
+136,SCHW,Charles Schwab Corp.,1,Financials and Real Estate,Financials,16073.57934,"$16,074M",34
+137,MS,Morgan Stanley,1,Financials and Real Estate,Financials,443169.4132,"$443,169M",16
+138,NTRS,Northern Trust Corp.,1,Financials and Real Estate,Financials,12880.4845,"$12,880M",30
+139,BK,BNY Mellon,1,Financials and Real Estate,Financials,45051.522659999995,"$45,052M",12
+140,AMT,American Tower Corp.,1,Financials and Real Estate,Real Estate,41065.1115,"$41,065M",5
+141,GGP,General Growth Properties,1,Financials and Real Estate,Real Estate,24012.68895,"$24,013M",14
+142,AN,AutoNation Inc.,4,Industrials,Consumer Discretionary,6599.8875,"$6,600M",11
+143,UHS,Universal Health Services,3,Telecommunications and Multi-Purpose Groups,Health Care,10896.293099999999,"$10,896M",15
+144,CI,Cigna Corp.,3,Telecommunications and Multi-Purpose Groups,Health Care,37694.608,"$37,695M",10
+145,APA,Apache Corporation,6,Energy and Utilities,Energy,16810.28258,"$16,810M",22
+146,KMI,Kinder Morgan,6,Energy and Utilities,Energy,33294.2038,"$33,294M",36
+147,CVX,Chevron Corp.,6,Energy and Utilities,Energy,169308.0485,"$169,308M",27
+148,EQT,EQT Corporation,6,Energy and Utilities,Energy,7951.9102,"$7,952M",23
+149,COP,ConocoPhillips,6,Energy and Utilities,Energy,57645.43498,"$57,645M",23
+150,MUR,Murphy Oil,6,Energy and Utilities,Energy,11840.0,"$11,840M",15
+151,SWN,Southwestern Energy,6,Energy and Utilities,Energy,2733.64569,"$2,734M",17
+152,HES,Hess Corporation,6,Energy and Utilities,Energy,13869.98256,"$13,870M",24
+153,MRO,Marathon Oil Corp.,6,Energy and Utilities,Energy,61591.28544,"$61,591M",16
+154,PSX,Phillips 66,6,Energy and Utilities,Energy,6035.3229,"$6,035M",20
+155,TSO,Tesoro Petroleum Co.,6,Energy and Utilities,Energy,12685.4943,"$12,685M",25
+156,CHK,Chesapeake Energy,6,Energy and Utilities,Energy,2992.8195,"$2,993M",15
+157,EOG,EOG Resources,6,Energy and Utilities,Energy,38913.75853,"$38,914M",16
+158,SE,Spectra Energy Corp.,6,Energy and Utilities,Energy,8805.110400000001,"$8,805M",15
+159,GWW,"W. W. Grainger, Inc.",7,Consumer Staples and Discretionary,Industrials,12720.42351,"$12,720M",43
+160,WMB,Williams Companies,6,Energy and Utilities,Energy,19268.9605,"$19,269M",16
+161,APC,Anadarko Petroleum Corp.,6,Energy and Utilities,Energy,24685.58694,"$24,686M",8
+162,APD,Air Products & Chemicals,5,Materials,Materials,28037.403899999998,"$28,037M",13
+163,DOV,Dover Corp.,4,Industrials,Industrials,9500.965460000001,"$9,501M",17
+164,MKC,McCormick & Co.,5,Materials,Consumer Staples,9033.537779999999,"$9,034M",28
+165,CLX,The Clorox Company,5,Materials,Consumer Staples,16372.61153,"$16,373M",35
+166,APH,Amphenol Corp.,4,Industrials,Information Technology,16100.472029999999,"$16,100M",16
+167,PG,Procter & Gamble,5,Materials,Consumer Staples,18577.56,"$18,578M",30
+168,ARG,Airgas Inc.,5,Materials,Materials,9986.981362,"$9,987M",9
+169,ATVI,Activision Blizzard Inc,2,Information Technology,Information Technology,28304.13264,"$28,304M",4
+170,AVGO,Avago Technologies,1,Financials and Real Estate,Information Technology,40098.99109,"$40,099M",15
+171,HPE,Hewlett Packard Enterprise Co,5,Materials,Information Technology,26486.304,"$26,486M",8
+172,FB,"Facebook, Inc.",1,Financials and Real Estate,Information Technology,237626.0296,"$237,626M",10
+173,RHT,Red Hat Inc.,1,Financials and Real Estate,Information Technology,4503.05168,"$4,503M",12
+174,NDAQ,NASDAQ OMX Group,1,Financials and Real Estate,Financials,47845.08504,"$47,845M",16
+175,AVY,Avery Dennison Corp,5,Materials,Materials,5708.45132,"$5,708M",6
+176,AXP,American Express Co,1,Financials and Real Estate,Financials,68454.3093,"$68,454M",13
+177,SYF,Synchrony Financial,1,Financials and Real Estate,Financials,25356.64866,"$25,357M",4
+178,BAC,Bank of America Corp.,1,Financials and Real Estate,Financials,175242.03840000002,"$175,242M",17
+179,RF,Regions Financial Corp.,1,Financials and Real Estate,Financials,6254.81804,"$6,255M",14
+180,DFS,Discover Financial Services,1,Financials and Real Estate,Financials,22921.692079999997,"$22,922M",12
+181,PNC,PNC Financial SVCS Group Inc,1,Financials and Real Estate,Financials,8927.98062,"$8,928M",9
+182,GS,Goldman Sachs Group,1,Financials and Real Estate,Financials,76874.58328,"$76,875M",17
+183,USB,U.S. Bancorp,1,Financials and Real Estate,Financials,74637.38259000001,"$74,637M",7
+184,AZO,AutoZone Inc,7,Consumer Staples and Discretionary,Consumer Discretionary,22411.61637,"$22,412M",22
+185,BBY,Best Buy Co. Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,10435.824,"$10,436M",27
+186,LOW,Lowe's Cos.,7,Consumer Staples and Discretionary,Consumer Discretionary,69584.5842,"$69,585M",32
+187,WFM,Whole Foods Market,7,Consumer Staples and Discretionary,Consumer Staples,11432.478000000001,"$11,432M",48
+188,YUM,Yum! Brands Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,31502.228100000004,"$31,502M",12
+189,FLR,Fluor Corp.,4,Industrials,Industrials,6686.91864,"$6,687M",11
+190,KEY,KeyCorp,1,Financials and Real Estate,Financials,11018.490730000001,"$11,018M",18
+191,BAX,Baxter International Inc.,0,Healthcare,Health Care,20868.7367,"$20,869M",6
+192,BBBY,Bed Bath & Beyond,7,Consumer Staples and Discretionary,Consumer Discretionary,8052.539,"$8,053M",3
+193,BBT,BB&T Corp.,1,Financials and Real Estate,Financials,29497.4715,"$29,497M",17
+194,JPM,JPMorgan Chase & Co.,1,Financials and Real Estate,Financials,243065.01390000002,"$243,065M",14
+195,BCR,"C. R. Bard, Inc",0,Healthcare,Health Care,13996.96384,"$13,997M",13
+196,BEN,Franklin Resources,1,Financials and Real Estate,Financials,22146.82498,"$22,147M",13
+197,IVZ,Invesco Ltd.,1,Financials and Real Estate,Financials,14190.89976,"$14,191M",22
+198,BLK,BlackRock,1,Financials and Real Estate,Financials,55842.89472,"$55,843M",13
+199,TROW,T. Rowe Price Group,1,Financials and Real Estate,Financials,17950.78155,"$17,951M",19
+200,BF.B,Brown-Forman Corp.,7,Consumer Staples and Discretionary,Consumer Staples,18970.0,"$18,970M",8
+201,BHI,Baker Hughes Inc,5,Materials,Energy,20125.41505,"$20,125M",3
+202,BLL,Ball Corp,5,Materials,Materials,9914.626330000001,"$9,915M",13
+203,BRK.B,Berkshire Hathaway,4,Industrials,Financials,358570.0,"$358,570M",5
+204,CSX,CSX Corp.,4,Industrials,Industrials,25299.82275,"$25,300M",14
+205,KSU,Kansas City Southern,4,Industrials,Industrials,8149.18512,"$8,149M",11
+206,BWA,BorgWarner Inc,4,Industrials,Consumer Discretionary,9689.78835,"$9,690M",12
+207,UNP,Union Pacific,4,Industrials,Industrials,66792.2622,"$66,792M",16
+208,RAI,Reynolds American Inc.,1,Financials and Real Estate,Consumer Staples,22265.69395,"$22,266M",15
+209,KIM,Kimco Realty,1,Financials and Real Estate,Real Estate,10936.1826,"$10,936M",4
+210,CAG,ConAgra Foods Inc.,5,Materials,Consumer Staples,18251.52776,"$18,252M",6
+211,CAH,Cardinal Health Inc.,3,Telecommunications and Multi-Purpose Groups,Health Care,29368.13387,"$29,368M",4
+212,CAM,Cameron Int'l Corp.,6,Energy and Utilities,Energy,12078.468,"$12,078M",23
+213,MPC,Marathon Petroleum,6,Energy and Utilities,Energy,147554.9413,"$147,555M",11
+214,CPGX,Columbia Pipeline Group Inc.,6,Energy and Utilities,Energy,7996.820000000001,"$7,997M",15
+215,ECL,Ecolab Inc.,5,Materials,Materials,33776.87152,"$33,777M",13
+216,SLB,Schlumberger Ltd.,6,Energy and Utilities,Energy,11269.86798,"$11,270M",7
+217,CB,Chubb Limited,1,Financials and Real Estate,Financials,30116.70784,"$30,117M",8
+218,CBS,CBS Corp.,2,Information Technology,Consumer Discretionary,20440.42239,"$20,440M",9
+219,VIAB,Viacom Inc.,2,Information Technology,Consumer Discretionary,14289.393720000002,"$14,289M",9
+220,FOX,Twenty-First Century Fox Inc Class B,2,Information Technology,Consumer Discretionary,21743.72683,"$21,744M",5
+221,TWX,Time Warner Inc.,2,Information Technology,Consumer Discretionary,51702.371600000006,"$51,702M",8
+222,TWC,Time Warner Cable Inc.,2,Information Technology,Consumer Discretionary,52558.71682,"$52,559M",7
+223,CMCSA,Comcast Class A Comm.,2,Information Technology,Consumer Discretionary,137489.7764,"$137,490M",4
+224,SNI,Scripps Networks Int.,2,Information Technology,Consumer Discretionary,42529.25581,"$42,529M",5
+225,CCI,Crown Castle Int'l Corp.,3,Telecommunications and Multi-Purpose Groups,Real Estate,28854.50295,"$28,855M",2
+226,CCL,Carnival Corp.,4,Industrials,Consumer Discretionary,32149.1928,"$32,149M",5
+227,RCL,Royal Caribbean Cruises,4,Industrials,Consumer Discretionary,55454.71337,"$55,455M",2
+228,FDX,FedEx Corporation,4,Industrials,Industrials,41063.88161,"$41,064M",5
+229,BDX,Becton Dickinson,3,Telecommunications and Multi-Purpose Groups,Health Care,32692.65894,"$32,693M",2
+230,CF,CF Industries Holdings Inc.,4,Industrials,Materials,9511.79075,"$9,512M",7
+231,MLM,Martin Marietta Materials,5,Materials,Materials,28925.3816,"$28,925M",5
+232,CHD,Church & Dwight Co,4,Industrials,Consumer Staples,11129.72024,"$11,130M",7
+233,TIF,Tiffany & Co.,7,Consumer Staples and Discretionary,Consumer Discretionary,9781.29348,"$9,781M",27
+234,CHRW,C. H. Robinson Worldwide,4,Industrials,Industrials,8907.6225,"$8,908M",9
+235,CINF,Cincinnati Financial,1,Financials and Real Estate,Financials,9695.12284,"$9,695M",7
+236,CL,Colgate-Palmolive,5,Materials,Consumer Staples,59752.943640000005,"$59,753M",8
+237,CPB,Campbell Soup,5,Materials,Consumer Staples,16292.129050000001,"$16,292M",7
+238,CMA,Comerica Inc.,1,Financials and Real Estate,Financials,7392.82505,"$7,393M",3
+239,CME,CME Group Inc.,1,Financials and Real Estate,Financials,30643.9098,"$30,644M",5
+240,ICE,Intercontinental Exchange,1,Financials and Real Estate,Financials,30429.33863,"$30,429M",4
+241,CMG,Chipotle Mexican Grill,7,Consumer Staples and Discretionary,Consumer Discretionary,14965.562109999999,"$14,966M",4
+242,CMS,CMS Energy,6,Energy and Utilities,Utilities,10025.9104,"$10,026M",3
+243,CNP,CenterPoint Energy,6,Energy and Utilities,Utilities,7899.610320000001,"$7,900M",3
+244,CNX,Consol Energy Inc.,6,Energy and Utilities,Energy,1809.5266000000001,"$1,810M",18
+245,FCX,Freeport-McMoRan Inc.,5,Materials,Materials,7825.2399000000005,"$7,825M",14
+246,COF,Capital One Financial,1,Financials and Real Estate,Financials,38403.0081,"$38,403M",4
+247,COG,Cabot Oil & Gas,6,Energy and Utilities,Energy,7321.4487500000005,"$7,321M",14
+248,COH,Coach Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,9083.16414,"$9,083M",5
+249,SPLS,Staples Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,6095.10981,"$6,095M",12
+250,COL,Rockwell Collins,4,Industrials,Industrials,12119.543800000001,"$12,120M",9
+251,RTN,Raytheon Co.,4,Industrials,Industrials,89132.54400000001,"$89,133M",12
+252,UTX,United Technologies,4,Industrials,Industrials,85216.10747,"$85,216M",12
+253,LLL,L-3 Comm's Holdings,4,Industrials,Industrials,9368.14988,"$9,368M",9
+254,COST,Costco Co.,7,Consumer Staples and Discretionary,Consumer Staples,71023.9855,"$71,024M",7
+255,WMT,Wal-Mart Stores,7,Consumer Staples and Discretionary,Consumer Staples,196276.04090000002,"$196,276M",8
+256,CRM,Salesforce.com,1,Financials and Real Estate,Information Technology,52057.6,"$52,058M",12
+257,CSCO,Cisco Systems,5,Materials,Information Technology,137840.9252,"$137,841M",18
+258,CSRA,CSRA Inc,1,Financials and Real Estate,Information Technology,4917.96,"$4,918M",12
+259,IBM,IBM Corp.,2,Information Technology,Information Technology,133506.5382,"$133,507M",14
+260,CTAS,Cintas Corp.,5,Materials,Industrials,9829.758,"$9,830M",3
+261,VNO,Vornado Realty Trust,5,Materials,Real Estate,18846.55836,"$18,847M",7
+262,CTSH,Cognizant Technology Sol.,3,Telecommunications and Multi-Purpose Groups,Information Technology,36496.301380000004,"$36,496M",5
+263,CVS,CVS Health Corp.,3,Telecommunications and Multi-Purpose Groups,Consumer Staples,108262.38309999999,"$108,262M",5
+264,D,Dominion Resources,6,Energy and Utilities,Utilities,40268.39176,"$40,268M",13
+265,DD,DuPont,5,Materials,Materials,58368.70620000001,"$58,369M",10
+266,DE,Deere & Co.,5,Materials,Industrials,24154.709,"$24,155M",11
+267,FAST,Fastenal Co.,5,Materials,Industrials,11825.349900000001,"$11,825M",21
+268,PBCT,People's United Bank,1,Financials and Real Estate,Financials,4069.0825,"$4,069M",6
+269,DG,Dollar General,7,Consumer Staples and Discretionary,Consumer Discretionary,20909.49845,"$20,909M",9
+270,DGX,Quest Diagnostics,0,Healthcare,Health Care,10197.919,"$10,198M",18
+271,LH,LabCorp,0,Healthcare,Health Care,12512.368,"$12,512M",13
+272,EW,Edwards Lifesciences,0,Healthcare,Health Care,17036.7758,"$17,037M",20
+273,DHI,D. R. Horton,1,Financials and Real Estate,Consumer Discretionary,11837.35913,"$11,837M",5
+274,LEN,Lennar Corp.,1,Financials and Real Estate,Consumer Discretionary,8756.944220000001,"$8,757M",3
+275,DHR,Danaher Corp.,0,Healthcare,Health Care,63649.2708,"$63,649M",7
+276,XRAY,Dentsply Int'l,0,Healthcare,Health Care,8510.8461,"$8,511M",13
+277,DIS,The Walt Disney Co.,2,Information Technology,Consumer Discretionary,173715.9442,"$173,716M",5
+278,NFLX,Netflix Inc.,2,Information Technology,Consumer Discretionary,5320.6947199999995,"$5,321M",12
+279,DISCA,Discovery Com Class A,2,Information Technology,Consumer Discretionary,3988.82008,"$3,989M",2
+280,DISCK,Discovery Com Class C,2,Information Technology,Consumer Discretionary,6921.3515800000005,"$6,921M",1
+281,DLTR,Dollar Tree,7,Consumer Staples and Discretionary,Consumer Discretionary,18130.94712,"$18,131M",4
+282,DO,Diamond Offshore Drilling,4,Industrials,Energy,2894.0549,"$2,894M",2
+283,ESV,Ensco plc,4,Industrials,Energy,3623.96025,"$3,624M",6
+284,DOW,Dow Chemical,6,Energy and Utilities,Materials,59645.5002,"$59,646M",7
+285,DPS,Dr Pepper Snapple Group,7,Consumer Staples and Discretionary,Consumer Staples,17604.734399999998,"$17,605M",4
+286,GMCR,Keurig Green Mountain,7,Consumer Staples and Discretionary,Consumer Staples,13400.361480000001,"$13,400M",4
+287,DRI,Darden Restaurants,7,Consumer Staples and Discretionary,Consumer Discretionary,8154.76596,"$8,155M",9
+288,TSCO,Tractor Supply Co.,7,Consumer Staples and Discretionary,Consumer Discretionary,11485.557,"$11,486M",8
+289,DTE,DTE Energy Co.,6,Energy and Utilities,Utilities,14392.18044,"$14,392M",8
+290,DUK,Duke Energy,1,Financials and Real Estate,Utilities,49140.16426,"$49,140M",4
+291,DVA,DaVita Inc.,3,Telecommunications and Multi-Purpose Groups,Health Care,14709.5071,"$14,710M",4
+292,DVN,Devon Energy Corp.,6,Energy and Utilities,Energy,13152.0,"$13,152M",14
+293,XEC,Cimarex Energy,6,Energy and Utilities,Energy,8451.7728,"$8,452M",6
+294,PXD,Pioneer Natural Resources,6,Energy and Utilities,Energy,44225.178,"$44,225M",11
+295,EA,Electronic Arts,2,Information Technology,Information Technology,21358.72576,"$21,359M",9
+296,EFX,Equifax Inc.,1,Financials and Real Estate,Industrials,13194.67212,"$13,195M",5
+297,EL,Estee Lauder Cos.,5,Materials,Consumer Staples,19600.21868,"$19,600M",2
+298,EMN,Eastman Chemical,5,Materials,Materials,10032.52608,"$10,033M",13
+299,LYB,LyondellBasell,5,Materials,Materials,39056.683600000004,"$39,057M",8
+300,PRGO,Perrigo,0,Healthcare,Health Care,36553.090000000004,"$36,553M",9
+301,EQIX,Equinix Inc,1,Financials and Real Estate,Real Estate,18110.735399999998,"$18,111M",2
+302,OKE,"ONEOK, Inc.",6,Energy and Utilities,Energy,18329.013300000002,"$18,329M",6
+303,ES,Eversource Energy,6,Energy and Utilities,Utilities,16198.94437,"$16,199M",9
+304,ESRX,Express Scripts,3,Telecommunications and Multi-Purpose Groups,Health Care,59113.28516,"$59,113M",7
+305,ESS,Essex Property Trust Inc,1,Financials and Real Estate,Real Estate,15809.43935,"$15,809M",13
+306,ETN,Eaton Corporation,4,Industrials,Industrials,24084.112,"$24,084M",8
+307,FLIR,FLIR Systems,4,Industrials,Information Technology,3877.4213799999998,"$3,877M",8
+308,NOC,Northrop Grumman Corp.,4,Industrials,Industrials,12583.80052,"$12,584M",8
+309,PCP,Precision Castparts,4,Industrials,Industrials,4495.2303,"$4,495M",3
+310,ETR,Entergy Corp.,6,Energy and Utilities,Utilities,12194.53532,"$12,195M",7
+311,ZBH,Zimmer Biomet Holdings,0,Healthcare,Health Care,20905.7902,"$20,906M",16
+312,EXPD,Expeditors Int'l,4,Industrials,Industrials,8407.2263,"$8,407M",9
+313,EXPE,Expedia Inc.,4,Industrials,Consumer Discretionary,14563.733800000002,"$14,564M",10
+314,GOOGL,Alphabet Inc. Class A,2,Information Technology,Information Technology,226656.1002,"$226,656M",5
+315,HRL,Hormel Foods Corp.,5,Materials,Consumer Staples,20895.229320000002,"$20,895M",8
+316,FE,FirstEnergy Corp,6,Energy and Utilities,Utilities,13423.12266,"$13,423M",7
+317,FFIV,F5 Networks,1,Financials and Real Estate,Information Technology,6823.85088,"$6,824M",8
+318,FISV,Fiserv Inc,1,Financials and Real Estate,Information Technology,20902.17694,"$20,902M",6
+319,FOSL,"Fossil, Inc.",7,Consumer Staples and Discretionary,Consumer Discretionary,1759.23064,"$1,759M",3
+320,FOXA,Twenty-First Century Fox,2,Information Technology,Consumer Discretionary,31797.624320000003,"$31,798M",2
+321,FSLR,First Solar Inc,1,Financials and Real Estate,Information Technology,6659.7108,"$6,660M",7
+322,FTI,FMC Technologies Inc.,6,Energy and Utilities,Energy,6613.6998,"$6,614M",16
+323,RIG,Transocean,6,Energy and Utilities,Energy,6556.47324,"$6,556M",4
+324,FTR,Frontier Communications,1,Financials and Real Estate,Telecommunication Services,5455.55004,"$5,456M",2
+325,GCI,Gannett Co.,2,Information Technology,Consumer Discretionary,1873.92015,"$1,874M",3
+326,GE,General Electric,5,Materials,Industrials,314902.7949,"$314,903M",5
+327,GIS,General Mills Inc.,5,Materials,Consumer Staples,34212.2727,"$34,212M",5
+328,GLW,Corning Inc.,5,Materials,Information Technology,21624.94752,"$21,625M",11
+329,STX,Seagate Technology,4,Industrials,Information Technology,10962.51312,"$10,963M",4
+330,WDC,Western Digital,4,Industrials,Information Technology,13914.545800000002,"$13,915M",5
+331,GME,GameStop Corp.,2,Information Technology,Consumer Discretionary,2934.9467999999997,"$2,935M",3
+332,GOOG,Alphabet Inc. Class C,2,Information Technology,Information Technology,262196.0755,"$262,196M",1
+333,GPS,Gap Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,9926.9794,"$9,927M",9
+334,GRMN,Garmin Ltd.,4,Industrials,Consumer Discretionary,7075.01214,"$7,075M",26
+335,LUV,Southwest Airlines,4,Industrials,Industrials,28004.2863,"$28,004M",7
+336,VRSN,Verisign Inc.,2,Information Technology,Information Technology,9741.25152,"$9,741M",7
+337,HRS,Harris Corp.,4,Industrials,Information Technology,10811.4897,"$10,811M",10
+338,GT,Goodyear Tire & Rubber,4,Industrials,Consumer Discretionary,8785.22436,"$8,785M",5
+339,HAL,Halliburton Co.,1,Financials and Real Estate,Energy,29131.87452,"$29,132M",7
+340,HAR,Harman Int'l Industries,4,Industrials,Consumer Discretionary,6696.54101,"$6,697M",15
+341,HAS,Hasbro Inc.,5,Materials,Consumer Discretionary,8394.67264,"$8,395M",8
+342,NWL,Newell Rubbermaid Co.,5,Materials,Consumer Discretionary,2786.8348,"$2,787M",11
+343,MAT,Mattel Inc.,5,Materials,Consumer Discretionary,9220.24818,"$9,220M",12
+344,HBAN,Huntington Bancshares,1,Financials and Real Estate,Financials,8811.04854,"$8,811M",8
+345,HBI,Hanesbrands Inc,5,Materials,Consumer Discretionary,11531.321460000001,"$11,531M",10
+346,HCA,HCA Inc.,3,Telecommunications and Multi-Purpose Groups,Health Care,27570.58684,"$27,571M",12
+347,THC,Tenet Healthcare Corp.,3,Telecommunications and Multi-Purpose Groups,Health Care,3019.9707000000003,"$3,020M",10
+348,HUM,Humana Inc.,3,Telecommunications and Multi-Purpose Groups,Health Care,26459.464760000003,"$26,459M",9
+349,HCN,Welltower Inc,1,Financials and Real Estate,Real Estate,24074.4564,"$24,074M",6
+350,HCP,HCP Inc.,1,Financials and Real Estate,Real Estate,17783.20608,"$17,783M",1
+351,HD,Home Depot,7,Consumer Staples and Discretionary,Consumer Discretionary,167677.2623,"$167,677M",4
+352,HOG,Harley-Davidson,4,Industrials,Consumer Discretionary,8708.5254,"$8,709M",7
+353,HOT,Starwood Hotels & Res,1,Financials and Real Estate,Consumer Discretionary,11687.46672,"$11,687M",5
+354,HP,Helmerich & Payne,4,Industrials,Energy,5771.99385,"$5,772M",5
+355,HRB,"H&R Block, Inc.",1,Financials and Real Estate,Consumer Discretionary,7859.4945,"$7,859M",5
+356,HSIC,Henry Schein Inc,3,Telecommunications and Multi-Purpose Groups,Health Care,13118.06394,"$13,118M",8
+357,HST,Host Hotels & Resorts,1,Financials and Real Estate,Real Estate,11529.71274,"$11,530M",10
+358,MAC,Macerich,1,Financials and Real Estate,Real Estate,12775.48632,"$12,775M",9
+359,IFF,Intl Flavors & Fragrances,1,Financials and Real Estate,Materials,9601.11,"$9,601M",4
+360,ILMN,Illumina Inc,0,Healthcare,Health Care,28100.749460000003,"$28,101M",16
+361,MJN,Mead Johnson,5,Materials,Consumer Staples,9949.68684,"$9,950M",7
+362,INTC,Intel Corp.,2,Information Technology,Information Technology,162569.55000000002,"$162,570M",6
+363,NVDA,Nvidia Corp.,2,Information Technology,Information Technology,11778.26416,"$11,778M",7
+364,INTU,Intuit Inc.,2,Information Technology,Information Technology,25476.386000000002,"$25,476M",10
+365,IP,International Paper Co.,4,Industrials,Materials,15629.1759,"$15,629M",10
+366,IR,Ingersoll-Rand PLC,1,Financials and Real Estate,Industrials,14433.399210000001,"$14,433M",6
+367,IRM,Iron Mountain Inc.,1,Financials and Real Estate,Real Estate,5703.24253,"$5,703M",8
+368,ISRG,Intuitive Surgical Inc.,0,Healthcare,Health Care,20407.26728,"$20,407M",15
+369,MNK,Mallinckrodt plc,0,Healthcare,Health Care,30197.471149999998,"$30,197M",7
+370,SYK,Stryker Corp.,0,Healthcare,Health Care,34945.44,"$34,945M",8
+371,JBHT,J. B. Hunt Transport Services Inc.,4,Industrials,Industrials,8407.202720000001,"$8,407M",9
+372,NSC,Norfolk Southern Corp.,4,Industrials,Industrials,7823.697,"$7,824M",4
+373,JEC,Jacobs Engineering Group,4,Industrials,Industrials,5162.82845,"$5,163M",2
+374,JNPR,Juniper Networks,1,Financials and Real Estate,Information Technology,10649.5152,"$10,650M",9
+375,JWN,Nordstrom,7,Consumer Staples and Discretionary,Consumer Discretionary,9158.46508,"$9,158M",4
+376,KHC,Kraft Heinz Co,5,Materials,Consumer Staples,88291.05856,"$88,291M",7
+377,KLAC,KLA-Tencor Corp.,2,Information Technology,Information Technology,10814.8551,"$10,815M",9
+378,KMB,Kimberly-Clark,5,Materials,Consumer Staples,46209.1362,"$46,209M",5
+379,KO,The Coca Cola Co.,7,Consumer Staples and Discretionary,Consumer Staples,186832.3956,"$186,832M",10
+380,KORS,Michael Kors Holdings,7,Consumer Staples and Discretionary,Consumer Discretionary,7373.043000000001,"$7,373M",6
+381,KR,Kroger Co.,7,Consumer Staples and Discretionary,Consumer Staples,40772.66309,"$40,773M",7
+382,KSS,Kohl's Corp.,5,Materials,Consumer Discretionary,9041.1266,"$9,041M",14
+383,L,Loews Corp.,4,Industrials,Financials,13606.7712,"$13,607M",4
+384,LB,L Brands Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,27733.56588,"$27,734M",6
+385,M,Macy's Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,10996.59264,"$10,997M",8
+386,LLTC,Linear Technology Corp.,4,Industrials,Information Technology,10156.488150000001,"$10,156M",1
+387,LM,Legg Mason,1,Financials and Real Estate,Financials,4226.20867,"$4,226M",3
+388,LNC,Lincoln National,1,Financials and Real Estate,Financials,12437.892460000001,"$12,438M",11
+389,LRCX,Lam Research,2,Information Technology,Information Technology,12579.49264,"$12,579M",3
+390,LUK,Leucadia National Corp.,1,Financials and Real Estate,Financials,6301.05782,"$6,301M",4
+391,LVLT,Level 3 Comm's,1,Financials and Real Estate,Telecommunication Services,19366.67412,"$19,367M",4
+392,MA,Mastercard Inc.,1,Financials and Real Estate,Information Technology,107118.7822,"$107,119M",9
+393,WU,Western Union Co.,1,Financials and Real Estate,Information Technology,9049.58271,"$9,050M",4
+394,MAR,Marriott Int'l.,7,Consumer Staples and Discretionary,Consumer Discretionary,17237.92816,"$17,238M",2
+395,MAS,Masco Corp.,5,Materials,Industrials,9522.1576,"$9,522M",11
+396,MCD,McDonald's Corp.,5,Materials,Consumer Discretionary,108479.6922,"$108,480M",4
+397,MCHP,Microchip Technology,5,Materials,Information Technology,9453.297880000002,"$9,453M",8
+398,MDLZ,Mondelez Int'l,7,Consumer Staples and Discretionary,Consumer Staples,71258.24828,"$71,258M",5
+399,MDT,Medtronic Inc.,0,Healthcare,Health Care,108161.51950000001,"$108,162M",7
+400,MHK,Mohawk Industries,5,Materials,Consumer Discretionary,15563.65035,"$15,564M",15
+401,WRK,WestRock Company,5,Materials,Materials,10000.0,"$10,000M",17
+402,OI,Owens-Illinois Inc.,5,Materials,Materials,5160.795480000001,"$5,161M",6
+403,MMM,3M Company,4,Industrials,Industrials,8653.124609999999,"$8,653M",5
+404,MNST,Monster Beverage,5,Materials,Consumer Staples,114131.1246,"$114,131M",6
+405,MO,Altria Group Inc.,3,Telecommunications and Multi-Purpose Groups,Consumer Staples,43375.10484000001,"$43,375M",2
+406,MON,Monsanto Co.,6,Energy and Utilities,Materials,9252.00301,"$9,252M",17
+407,WAT,Waters Corp.,0,Healthcare,Health Care,10990.34112,"$10,990M",9
+408,TDC,Teradata Corp.,1,Financials and Real Estate,Information Technology,3513.86,"$3,514M",5
+409,MOS,The Mosaic Co.,5,Materials,Materials,27630.72,"$27,631M",5
+410,MSFT,Microsoft Corp.,2,Information Technology,Information Technology,12085.6689,"$12,086M",12
+411,MTB,M&T Bank Corp.,1,Financials and Real Estate,Financials,15374.27664,"$15,374M",14
+412,ZION,Zions Bancorp,1,Financials and Real Estate,Financials,5577.2535,"$5,577M",7
+413,MU,Micron Technology,2,Information Technology,Information Technology,3861.9612500000003,"$3,862M",5
+414,MYL,Mylan Inc.,0,Healthcare,Health Care,4148.43805,"$4,148M",15
+415,NAVI,Navient,1,Financials and Real Estate,Financials,14112.283220000001,"$14,112M",8
+416,NEE,NextEra Energy,6,Energy and Utilities,Utilities,9518.83282,"$9,519M",14
+417,NEM,Newmont Mining Corp.,5,Materials,Materials,48884.63944,"$48,885M",1
+418,NFX,Newfield Exploration Co.,6,Energy and Utilities,Energy,6217.27121,"$6,217M",15
+419,NBL,Noble Energy Inc.,6,Energy and Utilities,Energy,9553.66629,"$9,554M",1
+420,NKE,"Nike, Inc.",7,Consumer Staples and Discretionary,Consumer Discretionary,16965.1028,"$16,965M",8
+421,NLSN,Nielsen Holdings,5,Materials,Industrials,34435.734229999995,"$34,436M",9
+422,NOV,National Oilwell Varco Inc.,6,Energy and Utilities,Energy,3697.85152,"$3,698M",7
+423,NRG,NRG Energy,6,Energy and Utilities,Utilities,25256.0363,"$25,256M",14
+424,NTAP,NetApp,1,Financials and Real Estate,Information Technology,16668.649800000003,"$16,669M",9
+425,NWS,News Corp Class B,2,Information Technology,Consumer Discretionary,5097.4412,"$5,097M",2
+426,NWSA,News Corporation,2,Information Technology,Consumer Discretionary,12892.733820000001,"$12,893M",5
+427,ORCL,Oracle Corp.,2,Information Technology,Information Technology,24997.3488,"$24,997M",7
+428,ORLY,O'Reilly Automotive,7,Consumer Staples and Discretionary,Consumer Discretionary,51636.19096,"$51,636M",13
+429,OXY,Occidental Petroleum,6,Energy and Utilities,Energy,19068.960600000002,"$19,069M",6
+430,PBI,Pitney-Bowes,1,Financials and Real Estate,Industrials,16753.8144,"$16,754M",8
+431,PCL,Plum Creek Timber Co.,6,Energy and Utilities,Financials,63472.10831,"$63,472M",7
+432,WY,Weyerhaeuser Corp.,6,Energy and Utilities,Real Estate,15304.16042,"$15,304M",8
+433,PCLN,Priceline.com Inc,1,Financials and Real Estate,Consumer Discretionary,31921.7905,"$31,922M",5
+434,TRIP,TripAdvisor,1,Financials and Real Estate,Consumer Discretionary,11200.741750000001,"$11,201M",5
+435,PDCO,Patterson Companies,7,Consumer Staples and Discretionary,Health Care,19575.66978,"$19,576M",3
+436,PEP,PepsiCo Inc.,5,Materials,Consumer Staples,199280.67680000002,"$199,281M",12
+437,PGR,Progressive Corp.,1,Financials and Real Estate,Financials,13187.340400000001,"$13,187M",3
+438,PH,Parker-Hannifin,4,Industrials,Industrials,6221.62134,"$6,222M",18
+439,PHM,PulteGroup Inc,1,Financials and Real Estate,Consumer Discretionary,5996.30438,"$5,996M",7
+440,PKI,PerkinElmer,0,Healthcare,Health Care,22503.42812,"$22,503M",10
+441,PLD,Prologis,1,Financials and Real Estate,Real Estate,136198.6114,"$136,199M",6
+442,PM,Philip Morris Int'l,1,Financials and Real Estate,Consumer Staples,48398.98986,"$48,399M",3
+443,PNR,Pentair Ltd.,3,Telecommunications and Multi-Purpose Groups,Industrials,7147.608,"$7,148M",3
+444,PPG,PPG Industries,5,Materials,Materials,22928.26096,"$22,928M",14
+445,PRU,Prudential Financial,1,Financials and Real Estate,Financials,42890.741200000004,"$42,891M",7
+446,PSA,Public Storage,1,Financials and Real Estate,Real Estate,43635.392,"$43,635M",8
+447,PVH,PVH Corp.,7,Consumer Staples and Discretionary,Consumer Discretionary,3095.8605000000002,"$3,096M",6
+448,RL,Polo Ralph Lauren Corp.,7,Consumer Staples and Discretionary,Consumer Discretionary,13522.869289999999,"$13,523M",5
+449,PX,Praxair Inc.,5,Materials,Materials,18729.01364,"$18,729M",11
+450,QCOM,"Qualcomm, Inc.",2,Information Technology,Information Technology,7194.2569,"$7,194M",3
+451,QRVO,Qorvo,2,Information Technology,Information Technology,3036.14275,"$3,036M",3
+452,REGN,Regeneron,0,Healthcare,Health Care,12532.502400000001,"$12,533M",15
+453,ROP,Roper Industries,4,Industrials,Industrials,21958.354320000002,"$21,958M",11
+454,ROST,Ross Stores,7,Consumer Staples and Discretionary,Consumer Discretionary,4168.1957,"$4,168M",3
+455,RRC,Range Resources Corp.,6,Energy and Utilities,Energy,15274.999619999999,"$15,275M",22
+456,RSG,Republic Services Inc.,4,Industrials,Industrials,37495.73394,"$37,496M",10
+457,SBUX,Starbucks Corp.,7,Consumer Staples and Discretionary,Consumer Discretionary,8645.04933,"$8,645M",8
+458,SEE,Sealed Air Corp.,5,Materials,Materials,24169.02053,"$24,169M",12
+459,SHW,Sherwin-Williams Co.,5,Materials,Materials,9837.31308,"$9,837M",10
+460,SNDK,SanDisk Corporation,4,Industrials,Information Technology,5223.749360000001,"$5,224M",1
+461,SPG,Simon Property Group Inc.,1,Financials and Real Estate,Real Estate,334900.0,"$334,900M",13
+462,SRCL,Stericycle Inc.,4,Industrials,Industrials,10249.191,"$10,249M",8
+463,SYY,Sysco Corp.,7,Consumer Staples and Discretionary,Consumer Staples,23145.115,"$23,145M",8
+464,STI,SunTrust Banks,1,Financials and Real Estate,Financials,21831.820920000002,"$21,832M",4
+465,STT,State Street Corp.,1,Financials and Real Estate,Financials,26775.330960000003,"$26,775M",16
+466,STZ,Constellation Brands,3,Telecommunications and Multi-Purpose Groups,Consumer Staples,24663.20112,"$24,663M",3
+467,SWK,Stanley Black & Decker,5,Materials,Industrials,15980.25598,"$15,980M",3
+468,SYMC,Symantec Corp.,2,Information Technology,Information Technology,14186.046,"$14,186M",14
+469,T,AT&T Inc.,3,Telecommunications and Multi-Purpose Groups,Telecommunication Services,211690.32,"$211,690M",2
+470,TAP,Molson Coors Brewing Co.,5,Materials,Consumer Staples,16817.3152,"$16,817M",6
+471,TEL,TE Connectivity Ltd.,4,Industrials,Information Technology,24959.23066,"$24,959M",18
+472,TGT,Target Corp.,7,Consumer Staples and Discretionary,Consumer Discretionary,44731.53572,"$44,732M",9
+473,TJX,TJX Companies Inc.,7,Consumer Staples and Discretionary,Consumer Discretionary,47476.30139,"$47,476M",8
+474,TMK,Torchmark Corp.,1,Financials and Real Estate,Financials,7049.5428,"$7,050M",4
+475,TMO,Thermo Fisher Scientific,0,Healthcare,Health Care,56612.055290000004,"$56,612M",11
+476,TRV,The Travelers Companies,1,Financials and Real Estate,Financials,34334.15634,"$34,334M",5
+477,TSN,Tyson Foods,7,Consumer Staples and Discretionary,Consumer Staples,15681.73983,"$15,682M",8
+478,TYC,Tyco Int'l,4,Industrials,Industrials,13481.68884,"$13,482M",10
+479,UA,Under Armour,7,Consumer Staples and Discretionary,Consumer Discretionary,14519.15076,"$14,519M",3
+480,UAL,United Continental Holdings,4,Industrials,Industrials,21362.013,"$21,362M",5
+481,UNM,Unum Group,1,Financials and Real Estate,Financials,8104.35063,"$8,104M",6
+482,URBN,Urban Outfitters,7,Consumer Staples and Discretionary,Consumer Discretionary,2669.05275,"$2,669M",6
+483,V,Visa Inc.,1,Financials and Real Estate,Information Technology,150111.2861,"$150,111M",5
+484,VAR,Varian Medical Systems,0,Healthcare,Health Care,7756.4768,"$7,756M",11
+485,VFC,V.F. Corp.,7,Consumer Staples and Discretionary,Consumer Discretionary,26537.73525,"$26,538M",1
+486,VMC,Vulcan Materials,5,Materials,Materials,12661.30543,"$12,661M",4
+487,VRSK,Verisk Analytics Inc,1,Financials and Real Estate,Industrials,13025.62464,"$13,026M",10
+488,VTR,Ventas Inc.,1,Financials and Real Estate,Real Estate,18790.23069,"$18,790M",3
+489,VZ,Verizon Communications,3,Telecommunications and Multi-Purpose Groups,Telecommunication Services,188063.3101,"$188,063M",6
+490,WBA,Walgreens Boots Alliance,5,Materials,Consumer Staples,91860.70079,"$91,861M",11
+491,WEC,WEC Energy Group Inc,6,Energy and Utilities,Utilities,16197.74604,"$16,198M",11
+492,WFC,Wells Fargo,1,Financials and Real Estate,Financials,277660.7147,"$277,661M",12
+493,WHR,Whirlpool Corp.,4,Industrials,Consumer Discretionary,11484.35278,"$11,484M",9
+494,WM,Waste Management Inc.,4,Industrials,Industrials,23829.438149999998,"$23,829M",26
+495,WYN,Wyndham Worldwide,5,Materials,Consumer Discretionary,8435.100900000001,"$8,435M",8
+496,WYNN,Wynn Resorts Ltd.,1,Financials and Real Estate,Consumer Discretionary,7027.55911,"$7,028M",7
+497,XL,XL Capital,1,Financials and Real Estate,Financials,11666.197619999999,"$11,666M",8
+498,XRX,Xerox Corp.,5,Materials,Information Technology,10761.84389,"$10,762M",2
